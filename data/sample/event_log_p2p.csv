@@ -1,0 +1,2461 @@
+case_id;aktivitaet;zeitstempel;ressource;abteilung;bestellwert_eur
+4500000001;Bestellanforderung anlegen;2025-02-10 15:21:33;FA02;Fachabteilung;7893.19
+4500000001;Bestellanforderung genehmigen;2025-02-11 06:59:44;BL02;Bereichsleitung;7893.19
+4500000001;Bestellung anlegen;2025-02-11 18:19:07;EK02;Einkauf;7893.19
+4500000001;Wareneingang buchen;2025-02-16 11:16:54;LG04;Lager;7893.19
+4500000001;Rechnung erfassen;2025-02-16 19:56:05;KB01;Kreditorenbuchhaltung;7893.19
+4500000001;Rechnungsprüfung;2025-02-17 04:32:53;KB02;Kreditorenbuchhaltung;7893.19
+4500000001;Rechnung freigeben;2025-02-23 14:01:15;BL02;Bereichsleitung;7893.19
+4500000001;Zahlung ausführen;2025-02-27 13:44:49;TR03;Treasury;7893.19
+4500000002;Bestellanforderung anlegen;2025-06-06 14:57:29;FA01;Fachabteilung;9248.9
+4500000002;Bestellanforderung genehmigen;2025-06-07 09:18:37;BL04;Bereichsleitung;9248.9
+4500000002;Bestellung anlegen;2025-06-07 16:41:54;EK01;Einkauf;9248.9
+4500000002;Wareneingang buchen;2025-06-10 21:58:20;LG03;Lager;9248.9
+4500000002;Rechnung erfassen;2025-06-11 16:37:35;KB01;Kreditorenbuchhaltung;9248.9
+4500000002;Rechnungsprüfung;2025-06-13 07:01:46;KB01;Kreditorenbuchhaltung;9248.9
+4500000002;Rechnung freigeben;2025-06-18 07:51:23;BL03;Bereichsleitung;9248.9
+4500000002;Zahlung ausführen;2025-06-21 08:34:41;TR04;Treasury;9248.9
+4500000003;Bestellanforderung anlegen;2025-05-21 08:54:50;FA01;Fachabteilung;16444.05
+4500000003;Bestellanforderung genehmigen;2025-05-21 16:05:15;BL02;Bereichsleitung;16444.05
+4500000003;Bestellung anlegen;2025-05-21 23:30:22;EK01;Einkauf;16444.05
+4500000003;Wareneingang buchen;2025-05-24 21:43:02;LG02;Lager;16444.05
+4500000003;Rechnung erfassen;2025-05-25 23:40:27;KB04;Kreditorenbuchhaltung;16444.05
+4500000003;Rechnungsprüfung;2025-05-27 03:41:31;KB01;Kreditorenbuchhaltung;16444.05
+4500000003;Rechnung korrigieren;2025-05-30 10:24:32;EK01;Einkauf;16444.05
+4500000003;Rechnungsprüfung;2025-05-30 21:25:47;KB04;Kreditorenbuchhaltung;16444.05
+4500000003;Rechnung freigeben;2025-06-04 21:05:07;BL01;Bereichsleitung;16444.05
+4500000003;Zahlung ausführen;2025-06-06 03:06:11;TR03;Treasury;16444.05
+4500000004;Bestellanforderung anlegen;2025-08-26 11:15:10;FA02;Fachabteilung;13754.71
+4500000004;Bestellanforderung genehmigen;2025-08-27 03:15:07;BL04;Bereichsleitung;13754.71
+4500000004;Bestellung anlegen;2025-08-27 17:43:29;EK04;Einkauf;13754.71
+4500000004;Wareneingang buchen;2025-09-06 20:44:42;LG05;Lager;13754.71
+4500000004;Rechnung erfassen;2025-09-08 01:09:57;KB05;Kreditorenbuchhaltung;13754.71
+4500000004;Rechnungsprüfung;2025-09-08 16:50:15;KB03;Kreditorenbuchhaltung;13754.71
+4500000004;Rechnung korrigieren;2025-09-10 16:32:44;EK04;Einkauf;13754.71
+4500000004;Rechnungsprüfung;2025-09-11 12:15:01;KB05;Kreditorenbuchhaltung;13754.71
+4500000004;Rechnung freigeben;2025-09-16 02:05:16;BL01;Bereichsleitung;13754.71
+4500000004;Zahlung ausführen;2025-09-18 16:09:28;TR03;Treasury;13754.71
+4500000005;Bestellanforderung anlegen;2025-01-29 13:03:27;FA04;Fachabteilung;2570.44
+4500000005;Bestellung anlegen;2025-01-30 08:42:06;EK04;Einkauf;2570.44
+4500000005;Bestellung ändern;2025-01-31 11:41:36;EK04;Einkauf;2570.44
+4500000005;Wareneingang buchen;2025-02-02 19:00:00;LG05;Lager;2570.44
+4500000005;Rechnung erfassen;2025-02-03 12:07:27;KB01;Kreditorenbuchhaltung;2570.44
+4500000005;Rechnungsprüfung;2025-02-04 09:36:07;KB01;Kreditorenbuchhaltung;2570.44
+4500000005;Rechnung freigeben;2025-02-05 02:08:51;BL04;Bereichsleitung;2570.44
+4500000005;Zahlung ausführen;2025-02-06 03:30:40;TR03;Treasury;2570.44
+4500000006;Bestellanforderung anlegen;2025-06-10 09:12:11;FA03;Fachabteilung;6612.57
+4500000006;Bestellanforderung genehmigen;2025-06-11 07:28:56;BL05;Bereichsleitung;6612.57
+4500000006;Bestellung anlegen;2025-06-11 14:33:21;EK03;Einkauf;6612.57
+4500000006;Wareneingang buchen;2025-06-18 14:26:05;LG03;Lager;6612.57
+4500000006;Rechnung erfassen;2025-06-20 05:50:12;KB05;Kreditorenbuchhaltung;6612.57
+4500000006;Rechnungsprüfung;2025-06-20 19:03:59;KB01;Kreditorenbuchhaltung;6612.57
+4500000006;Rechnung freigeben;2025-06-24 18:30:41;BL05;Bereichsleitung;6612.57
+4500000006;Zahlung ausführen;2025-06-27 07:35:00;TR01;Treasury;6612.57
+4500000007;Bestellanforderung anlegen;2025-06-05 13:28:10;FA05;Fachabteilung;10413.91
+4500000007;Bestellanforderung genehmigen;2025-06-06 13:42:34;BL03;Bereichsleitung;10413.91
+4500000007;Bestellung anlegen;2025-06-06 19:15:41;EK04;Einkauf;10413.91
+4500000007;Wareneingang buchen;2025-06-10 04:33:16;LG01;Lager;10413.91
+4500000007;Rechnung erfassen;2025-06-11 00:48:40;KB03;Kreditorenbuchhaltung;10413.91
+4500000007;Rechnungsprüfung;2025-06-12 22:27:24;KB03;Kreditorenbuchhaltung;10413.91
+4500000007;Rechnung freigeben;2025-06-17 08:11:49;BL02;Bereichsleitung;10413.91
+4500000007;Zahlung ausführen;2025-06-19 06:03:10;TR02;Treasury;10413.91
+4500000008;Bestellanforderung anlegen;2025-08-19 10:03:03;FA04;Fachabteilung;4012.07
+4500000008;Bestellung anlegen;2025-08-20 01:42:20;EK03;Einkauf;4012.07
+4500000008;Wareneingang buchen;2025-08-22 19:58:00;LG01;Lager;4012.07
+4500000008;Rechnung erfassen;2025-08-24 04:12:53;KB02;Kreditorenbuchhaltung;4012.07
+4500000008;Rechnungsprüfung;2025-08-25 01:56:20;KB04;Kreditorenbuchhaltung;4012.07
+4500000008;Rechnung freigeben;2025-08-26 07:55:19;BL02;Bereichsleitung;4012.07
+4500000008;Zahlung ausführen;2025-08-28 22:34:35;TR05;Treasury;4012.07
+4500000009;Bestellanforderung anlegen;2025-03-28 14:48:26;FA05;Fachabteilung;3291.34
+4500000009;Bestellung anlegen;2025-03-29 00:52:22;EK03;Einkauf;3291.34
+4500000009;Wareneingang buchen;2025-04-02 08:28:34;LG04;Lager;3291.34
+4500000009;Rechnung erfassen;2025-04-03 13:30:32;KB05;Kreditorenbuchhaltung;3291.34
+4500000009;Rechnungsprüfung;2025-04-04 17:31:09;KB01;Kreditorenbuchhaltung;3291.34
+4500000009;Rechnung freigeben;2025-04-06 02:32:53;BL05;Bereichsleitung;3291.34
+4500000009;Zahlung ausführen;2025-04-08 15:23:22;TR05;Treasury;3291.34
+4500000010;Bestellanforderung anlegen;2025-09-30 07:31:55;FA02;Fachabteilung;9097.64
+4500000010;Bestellanforderung genehmigen;2025-10-01 14:33:19;BL02;Bereichsleitung;9097.64
+4500000010;Bestellung anlegen;2025-10-02 10:52:46;EK02;Einkauf;9097.64
+4500000010;Wareneingang buchen;2025-10-04 12:11:22;LG03;Lager;9097.64
+4500000010;Rechnung erfassen;2025-10-04 21:57:49;KB03;Kreditorenbuchhaltung;9097.64
+4500000010;Rechnungsprüfung;2025-10-06 15:22:17;KB03;Kreditorenbuchhaltung;9097.64
+4500000010;Rechnung freigeben;2025-10-20 23:07:18;BL02;Bereichsleitung;9097.64
+4500000010;Zahlung ausführen;2025-10-24 11:39:00;TR02;Treasury;9097.64
+4500000011;Bestellanforderung anlegen;2025-09-23 12:26:06;FA05;Fachabteilung;24687.8
+4500000011;Bestellanforderung genehmigen;2025-09-24 09:19:52;BL03;Bereichsleitung;24687.8
+4500000011;Bestellung anlegen;2025-09-24 16:03:36;EK04;Einkauf;24687.8
+4500000011;Bestellung ändern;2025-09-27 06:47:07;EK01;Einkauf;24687.8
+4500000011;Wareneingang buchen;2025-09-28 13:29:21;LG04;Lager;24687.8
+4500000011;Rechnung erfassen;2025-09-29 16:02:35;KB04;Kreditorenbuchhaltung;24687.8
+4500000011;Rechnungsprüfung;2025-09-30 22:32:50;KB01;Kreditorenbuchhaltung;24687.8
+4500000011;Rechnung freigeben;2025-10-06 11:02:46;BL04;Bereichsleitung;24687.8
+4500000011;Zahlung ausführen;2025-10-08 16:55:23;TR01;Treasury;24687.8
+4500000012;Bestellanforderung anlegen;2025-08-26 15:00:02;FA03;Fachabteilung;3954.57
+4500000012;Bestellung anlegen;2025-08-27 19:30:36;EK05;Einkauf;3954.57
+4500000012;Wareneingang buchen;2025-08-30 14:36:23;LG02;Lager;3954.57
+4500000012;Rechnung erfassen;2025-08-30 19:33:07;KB05;Kreditorenbuchhaltung;3954.57
+4500000012;Rechnungsprüfung;2025-08-31 13:42:43;KB02;Kreditorenbuchhaltung;3954.57
+4500000012;Rechnung korrigieren;2025-09-01 21:59:01;EK04;Einkauf;3954.57
+4500000012;Rechnungsprüfung;2025-09-02 10:57:05;KB02;Kreditorenbuchhaltung;3954.57
+4500000012;Rechnung freigeben;2025-09-03 11:57:05;BL02;Bereichsleitung;3954.57
+4500000012;Zahlung ausführen;2025-09-06 12:09:15;TR05;Treasury;3954.57
+4500000013;Bestellanforderung anlegen;2025-07-30 15:01:35;FA01;Fachabteilung;6361.89
+4500000013;Bestellanforderung genehmigen;2025-07-31 05:21:51;BL04;Bereichsleitung;6361.89
+4500000013;Bestellung anlegen;2025-07-31 17:33:15;EK04;Einkauf;6361.89
+4500000013;Wareneingang buchen;2025-08-04 05:34:17;LG03;Lager;6361.89
+4500000013;Rechnung erfassen;2025-08-04 17:22:41;KB05;Kreditorenbuchhaltung;6361.89
+4500000013;Rechnungsprüfung;2025-08-06 16:35:19;KB03;Kreditorenbuchhaltung;6361.89
+4500000013;Rechnung freigeben;2025-08-12 05:01:04;BL05;Bereichsleitung;6361.89
+4500000013;Zahlung ausführen;2025-08-13 22:57:01;TR04;Treasury;6361.89
+4500000014;Bestellanforderung anlegen;2025-01-16 13:50:07;FA01;Fachabteilung;4173.04
+4500000014;Bestellung anlegen;2025-01-16 21:17:03;EK01;Einkauf;4173.04
+4500000014;Wareneingang buchen;2025-01-21 10:29:09;LG04;Lager;4173.04
+4500000014;Rechnung erfassen;2025-01-22 06:52:39;KB02;Kreditorenbuchhaltung;4173.04
+4500000014;Rechnungsprüfung;2025-01-23 22:25:44;KB01;Kreditorenbuchhaltung;4173.04
+4500000014;Rechnung freigeben;2025-01-24 16:50:57;BL05;Bereichsleitung;4173.04
+4500000014;Zahlung ausführen;2025-01-26 18:44:19;TR04;Treasury;4173.04
+4500000015;Bestellanforderung anlegen;2025-02-06 16:23:16;FA04;Fachabteilung;6893.68
+4500000015;Bestellanforderung genehmigen;2025-02-07 05:36:36;BL04;Bereichsleitung;6893.68
+4500000015;Bestellung anlegen;2025-02-07 09:33:07;EK04;Einkauf;6893.68
+4500000015;Wareneingang buchen;2025-02-09 00:31:47;LG03;Lager;6893.68
+4500000015;Rechnung erfassen;2025-02-10 01:01:49;KB01;Kreditorenbuchhaltung;6893.68
+4500000015;Rechnungsprüfung;2025-02-11 13:56:49;KB05;Kreditorenbuchhaltung;6893.68
+4500000015;Rechnung freigeben;2025-02-19 13:41:29;BL01;Bereichsleitung;6893.68
+4500000015;Zahlung ausführen;2025-02-20 21:21:30;TR03;Treasury;6893.68
+4500000016;Bestellanforderung anlegen;2025-06-06 14:32:39;FA03;Fachabteilung;13657.84
+4500000016;Bestellanforderung genehmigen;2025-06-07 02:22:04;BL04;Bereichsleitung;13657.84
+4500000016;Bestellung anlegen;2025-06-07 11:31:00;EK03;Einkauf;13657.84
+4500000016;Wareneingang buchen;2025-06-13 13:29:38;LG05;Lager;13657.84
+4500000016;Rechnung erfassen;2025-06-15 05:23:09;KB03;Kreditorenbuchhaltung;13657.84
+4500000016;Rechnungsprüfung;2025-06-16 09:57:02;KB01;Kreditorenbuchhaltung;13657.84
+4500000016;Rechnung freigeben;2025-06-22 21:11:39;BL02;Bereichsleitung;13657.84
+4500000016;Zahlung ausführen;2025-06-24 13:16:15;TR02;Treasury;13657.84
+4500000017;Bestellanforderung anlegen;2025-05-15 13:37:29;FA02;Fachabteilung;8300.14
+4500000017;Bestellanforderung genehmigen;2025-05-16 03:52:27;BL03;Bereichsleitung;8300.14
+4500000017;Bestellung anlegen;2025-05-16 17:30:16;EK04;Einkauf;8300.14
+4500000017;Wareneingang buchen;2025-05-18 18:24:34;LG01;Lager;8300.14
+4500000017;Rechnung erfassen;2025-05-19 09:25:10;KB05;Kreditorenbuchhaltung;8300.14
+4500000017;Rechnungsprüfung;2025-05-20 14:03:29;KB04;Kreditorenbuchhaltung;8300.14
+4500000017;Rechnung freigeben;2025-06-03 12:55:22;BL01;Bereichsleitung;8300.14
+4500000017;Zahlung ausführen;2025-06-07 08:37:13;TR04;Treasury;8300.14
+4500000018;Bestellanforderung anlegen;2025-06-17 12:16:46;FA04;Fachabteilung;49375.62
+4500000018;Bestellanforderung genehmigen;2025-06-18 02:41:15;BL01;Bereichsleitung;49375.62
+4500000018;Bestellung anlegen;2025-06-18 10:03:20;EK02;Einkauf;49375.62
+4500000018;Wareneingang buchen;2025-06-21 08:18:46;LG01;Lager;49375.62
+4500000018;Rechnung erfassen;2025-06-22 10:43:17;KB05;Kreditorenbuchhaltung;49375.62
+4500000018;Rechnungsprüfung;2025-06-23 18:47:43;KB02;Kreditorenbuchhaltung;49375.62
+4500000018;Rechnung freigeben;2025-07-14 08:49:33;BL03;Bereichsleitung;49375.62
+4500000018;Zahlung ausführen;2025-07-17 15:29:08;TR03;Treasury;49375.62
+4500000019;Bestellanforderung anlegen;2025-05-23 15:45:56;FA03;Fachabteilung;4835.53
+4500000019;Bestellung anlegen;2025-05-23 22:39:02;EK03;Einkauf;4835.53
+4500000019;Wareneingang buchen;2025-05-25 08:59:21;LG01;Lager;4835.53
+4500000019;Rechnung erfassen;2025-05-26 12:16:52;KB01;Kreditorenbuchhaltung;4835.53
+4500000019;Rechnungsprüfung;2025-05-28 11:15:51;KB03;Kreditorenbuchhaltung;4835.53
+4500000019;Rechnung freigeben;2025-05-29 03:32:59;BL02;Bereichsleitung;4835.53
+4500000019;Zahlung ausführen;2025-05-31 01:32:13;TR03;Treasury;4835.53
+4500000020;Bestellanforderung anlegen;2025-07-24 13:56:00;FA04;Fachabteilung;4681.93
+4500000020;Bestellung anlegen;2025-07-25 00:42:02;EK04;Einkauf;4681.93
+4500000020;Wareneingang buchen;2025-07-26 14:22:32;LG05;Lager;4681.93
+4500000020;Rechnung erfassen;2025-07-27 16:14:27;KB04;Kreditorenbuchhaltung;4681.93
+4500000020;Rechnungsprüfung;2025-07-28 08:11:16;KB04;Kreditorenbuchhaltung;4681.93
+4500000020;Rechnung freigeben;2025-07-29 03:58:22;BL05;Bereichsleitung;4681.93
+4500000020;Zahlung ausführen;2025-07-31 09:21:44;TR01;Treasury;4681.93
+4500000021;Bestellanforderung anlegen;2025-07-11 12:53:29;FA03;Fachabteilung;12723.12
+4500000021;Bestellanforderung genehmigen;2025-07-12 01:25:58;BL03;Bereichsleitung;12723.12
+4500000021;Bestellung anlegen;2025-07-12 05:15:14;EK04;Einkauf;12723.12
+4500000021;Bestellung ändern;2025-07-12 20:37:37;EK05;Einkauf;12723.12
+4500000021;Wareneingang buchen;2025-07-15 02:49:56;LG03;Lager;12723.12
+4500000021;Rechnung erfassen;2025-07-15 23:25:45;KB02;Kreditorenbuchhaltung;12723.12
+4500000021;Rechnungsprüfung;2025-07-17 18:28:12;KB03;Kreditorenbuchhaltung;12723.12
+4500000021;Rechnung korrigieren;2025-07-20 06:09:43;EK03;Einkauf;12723.12
+4500000021;Rechnungsprüfung;2025-07-21 11:04:14;KB05;Kreditorenbuchhaltung;12723.12
+4500000021;Rechnung freigeben;2025-07-27 19:29:42;BL03;Bereichsleitung;12723.12
+4500000021;Zahlung ausführen;2025-07-29 18:38:42;TR05;Treasury;12723.12
+4500000022;Bestellanforderung anlegen;2025-06-26 08:23:43;FA03;Fachabteilung;12300.31
+4500000022;Bestellanforderung genehmigen;2025-06-27 07:44:49;BL01;Bereichsleitung;12300.31
+4500000022;Bestellung anlegen;2025-06-27 15:54:14;EK03;Einkauf;12300.31
+4500000022;Wareneingang buchen;2025-06-30 01:24:22;LG01;Lager;12300.31
+4500000022;Rechnung erfassen;2025-07-01 14:50:54;KB05;Kreditorenbuchhaltung;12300.31
+4500000022;Rechnungsprüfung;2025-07-02 03:56:53;KB01;Kreditorenbuchhaltung;12300.31
+4500000022;Rechnung freigeben;2025-07-23 15:02:46;BL04;Bereichsleitung;12300.31
+4500000022;Zahlung ausführen;2025-07-25 07:24:25;TR03;Treasury;12300.31
+4500000023;Bestellanforderung anlegen;2025-02-10 11:37:16;FA03;Fachabteilung;17294.02
+4500000023;Bestellanforderung genehmigen;2025-02-10 23:02:02;BL02;Bereichsleitung;17294.02
+4500000023;Bestellung anlegen;2025-02-11 03:46:50;EK01;Einkauf;17294.02
+4500000023;Wareneingang buchen;2025-02-18 18:46:30;LG05;Lager;17294.02
+4500000023;Rechnung erfassen;2025-02-19 09:57:06;KB05;Kreditorenbuchhaltung;17294.02
+4500000023;Rechnungsprüfung;2025-02-22 10:50:47;KB03;Kreditorenbuchhaltung;17294.02
+4500000023;Rechnung freigeben;2025-03-02 09:24:10;BL03;Bereichsleitung;17294.02
+4500000023;Zahlung ausführen;2025-03-03 19:14:12;TR02;Treasury;17294.02
+4500000024;Bestellanforderung anlegen;2025-01-14 10:00:57;FA04;Fachabteilung;6301.31
+4500000024;Bestellanforderung genehmigen;2025-01-15 03:35:39;BL02;Bereichsleitung;6301.31
+4500000024;Bestellung anlegen;2025-01-15 13:28:37;EK01;Einkauf;6301.31
+4500000024;Wareneingang buchen;2025-01-17 02:48:37;LG02;Lager;6301.31
+4500000024;Rechnung erfassen;2025-01-18 03:00:42;KB03;Kreditorenbuchhaltung;6301.31
+4500000024;Rechnungsprüfung;2025-01-19 16:12:17;KB01;Kreditorenbuchhaltung;6301.31
+4500000024;Rechnung freigeben;2025-01-24 04:33:29;BL02;Bereichsleitung;6301.31
+4500000024;Zahlung ausführen;2025-01-28 03:07:08;TR04;Treasury;6301.31
+4500000025;Bestellanforderung anlegen;2025-09-30 14:53:22;FA01;Fachabteilung;22346.65
+4500000025;Bestellanforderung genehmigen;2025-10-01 12:12:17;BL04;Bereichsleitung;22346.65
+4500000025;Bestellung anlegen;2025-10-02 03:24:26;EK03;Einkauf;22346.65
+4500000025;Wareneingang buchen;2025-10-05 00:40:17;LG03;Lager;22346.65
+4500000025;Rechnung erfassen;2025-10-05 15:44:09;KB03;Kreditorenbuchhaltung;22346.65
+4500000025;Rechnungsprüfung;2025-10-08 01:08:41;KB01;Kreditorenbuchhaltung;22346.65
+4500000025;Rechnung freigeben;2025-10-11 07:58:14;BL02;Bereichsleitung;22346.65
+4500000025;Zahlung ausführen;2025-10-13 01:46:36;TR02;Treasury;22346.65
+4500000026;Bestellanforderung anlegen;2025-09-19 15:42:56;FA05;Fachabteilung;7484.25
+4500000026;Bestellanforderung genehmigen;2025-09-21 16:13:10;BL05;Bereichsleitung;7484.25
+4500000026;Bestellung anlegen;2025-09-22 12:06:15;EK01;Einkauf;7484.25
+4500000026;Bestellung ändern;2025-09-23 23:55:14;EK05;Einkauf;7484.25
+4500000026;Wareneingang buchen;2025-09-25 22:51:13;LG03;Lager;7484.25
+4500000026;Rechnung erfassen;2025-09-26 16:43:34;KB04;Kreditorenbuchhaltung;7484.25
+4500000026;Rechnungsprüfung;2025-09-27 11:07:03;KB02;Kreditorenbuchhaltung;7484.25
+4500000026;Rechnung freigeben;2025-10-04 02:09:44;BL04;Bereichsleitung;7484.25
+4500000026;Zahlung ausführen;2025-10-07 11:19:21;TR02;Treasury;7484.25
+4500000027;Bestellanforderung anlegen;2025-05-23 15:17:27;FA03;Fachabteilung;5469.97
+4500000027;Bestellanforderung genehmigen;2025-05-24 14:06:16;BL01;Bereichsleitung;5469.97
+4500000027;Bestellung anlegen;2025-05-25 05:50:07;EK02;Einkauf;5469.97
+4500000027;Wareneingang buchen;2025-05-29 15:23:05;LG05;Lager;5469.97
+4500000027;Rechnung erfassen;2025-05-31 00:09:59;KB01;Kreditorenbuchhaltung;5469.97
+4500000027;Rechnungsprüfung;2025-06-02 16:14:00;KB01;Kreditorenbuchhaltung;5469.97
+4500000027;Rechnung freigeben;2025-06-10 13:45:48;BL02;Bereichsleitung;5469.97
+4500000027;Zahlung ausführen;2025-06-13 17:09:01;TR02;Treasury;5469.97
+4500000028;Bestellanforderung anlegen;2025-08-04 12:42:29;FA04;Fachabteilung;9852.56
+4500000028;Bestellanforderung genehmigen;2025-08-06 00:39:41;BL05;Bereichsleitung;9852.56
+4500000028;Bestellung anlegen;2025-08-06 04:59:13;EK04;Einkauf;9852.56
+4500000028;Wareneingang buchen;2025-08-07 20:31:17;LG02;Lager;9852.56
+4500000028;Rechnung erfassen;2025-08-11 10:58:39;KB04;Kreditorenbuchhaltung;9852.56
+4500000028;Rechnungsprüfung;2025-08-13 06:02:56;KB03;Kreditorenbuchhaltung;9852.56
+4500000028;Rechnung freigeben;2025-08-20 09:40:22;BL05;Bereichsleitung;9852.56
+4500000028;Zahlung ausführen;2025-08-24 00:54:34;TR03;Treasury;9852.56
+4500000029;Bestellanforderung anlegen;2025-07-25 11:25:18;FA04;Fachabteilung;4200.35
+4500000029;Bestellung anlegen;2025-07-25 22:54:48;EK04;Einkauf;4200.35
+4500000029;Wareneingang buchen;2025-07-29 08:11:46;LG01;Lager;4200.35
+4500000029;Rechnung erfassen;2025-07-30 11:03:05;KB01;Kreditorenbuchhaltung;4200.35
+4500000029;Rechnungsprüfung;2025-07-31 07:31:54;KB05;Kreditorenbuchhaltung;4200.35
+4500000029;Rechnung freigeben;2025-08-02 15:29:40;BL05;Bereichsleitung;4200.35
+4500000029;Zahlung ausführen;2025-08-04 21:33:52;TR04;Treasury;4200.35
+4500000030;Bestellanforderung anlegen;2025-07-01 10:13:55;FA01;Fachabteilung;12651.92
+4500000030;Bestellanforderung genehmigen;2025-07-02 02:55:55;BL05;Bereichsleitung;12651.92
+4500000030;Bestellung anlegen;2025-07-02 06:20:34;EK02;Einkauf;12651.92
+4500000030;Wareneingang buchen;2025-07-06 16:34:24;LG03;Lager;12651.92
+4500000030;Rechnung erfassen;2025-07-07 18:06:17;KB04;Kreditorenbuchhaltung;12651.92
+4500000030;Rechnungsprüfung;2025-07-08 09:59:43;KB04;Kreditorenbuchhaltung;12651.92
+4500000030;Rechnung freigeben;2025-07-15 19:29:52;BL01;Bereichsleitung;12651.92
+4500000030;Zahlung ausführen;2025-07-17 01:54:22;TR05;Treasury;12651.92
+4500000031;Bestellanforderung anlegen;2025-08-15 12:24:18;FA03;Fachabteilung;6071.2
+4500000031;Bestellanforderung genehmigen;2025-08-16 12:28:29;BL01;Bereichsleitung;6071.2
+4500000031;Bestellung anlegen;2025-08-16 22:33:50;EK03;Einkauf;6071.2
+4500000031;Wareneingang buchen;2025-08-21 19:14:06;LG05;Lager;6071.2
+4500000031;Rechnung erfassen;2025-08-22 08:46:21;KB02;Kreditorenbuchhaltung;6071.2
+4500000031;Rechnungsprüfung;2025-08-23 11:58:08;KB04;Kreditorenbuchhaltung;6071.2
+4500000031;Rechnung freigeben;2025-08-29 23:31:34;BL02;Bereichsleitung;6071.2
+4500000031;Zahlung ausführen;2025-09-02 00:27:00;TR02;Treasury;6071.2
+4500000032;Bestellanforderung anlegen;2025-08-22 14:48:40;FA02;Fachabteilung;1960.08
+4500000032;Bestellung anlegen;2025-08-23 11:41:58;EK02;Einkauf;1960.08
+4500000032;Wareneingang buchen;2025-08-26 01:10:42;LG01;Lager;1960.08
+4500000032;Rechnung erfassen;2025-08-27 04:18:19;KB05;Kreditorenbuchhaltung;1960.08
+4500000032;Rechnungsprüfung;2025-08-28 07:10:40;KB03;Kreditorenbuchhaltung;1960.08
+4500000032;Rechnung freigeben;2025-08-29 11:54:42;BL03;Bereichsleitung;1960.08
+4500000032;Zahlung ausführen;2025-09-02 10:09:01;TR02;Treasury;1960.08
+4500000033;Bestellanforderung anlegen;2025-01-13 14:21:35;FA03;Fachabteilung;10777.31
+4500000033;Bestellanforderung genehmigen;2025-01-15 00:49:35;BL03;Bereichsleitung;10777.31
+4500000033;Bestellung anlegen;2025-01-15 07:53:31;EK05;Einkauf;10777.31
+4500000033;Wareneingang buchen;2025-01-17 23:42:02;LG02;Lager;10777.31
+4500000033;Rechnung erfassen;2025-01-18 17:36:52;KB01;Kreditorenbuchhaltung;10777.31
+4500000033;Rechnungsprüfung;2025-01-19 11:11:05;KB02;Kreditorenbuchhaltung;10777.31
+4500000033;Rechnung freigeben;2025-01-26 16:26:32;BL02;Bereichsleitung;10777.31
+4500000033;Zahlung ausführen;2025-01-28 01:51:37;TR05;Treasury;10777.31
+4500000034;Bestellanforderung anlegen;2025-01-31 07:59:22;FA05;Fachabteilung;2394.31
+4500000034;Bestellung anlegen;2025-01-31 15:26:01;EK01;Einkauf;2394.31
+4500000034;Wareneingang buchen;2025-02-03 11:53:19;LG03;Lager;2394.31
+4500000034;Rechnung erfassen;2025-02-04 06:56:24;KB02;Kreditorenbuchhaltung;2394.31
+4500000034;Rechnungsprüfung;2025-02-05 06:20:56;KB01;Kreditorenbuchhaltung;2394.31
+4500000034;Rechnung korrigieren;2025-02-06 12:14:44;EK02;Einkauf;2394.31
+4500000034;Rechnungsprüfung;2025-02-07 14:44:25;KB01;Kreditorenbuchhaltung;2394.31
+4500000034;Rechnung freigeben;2025-02-10 00:57:54;BL04;Bereichsleitung;2394.31
+4500000034;Zahlung ausführen;2025-02-13 11:40:13;TR05;Treasury;2394.31
+4500000035;Bestellanforderung anlegen;2025-05-16 13:37:49;FA05;Fachabteilung;16665.39
+4500000035;Bestellanforderung genehmigen;2025-05-17 08:21:22;BL01;Bereichsleitung;16665.39
+4500000035;Bestellung anlegen;2025-05-17 15:20:08;EK02;Einkauf;16665.39
+4500000035;Wareneingang buchen;2025-05-22 14:06:17;LG05;Lager;16665.39
+4500000035;Rechnung erfassen;2025-05-23 20:27:34;KB03;Kreditorenbuchhaltung;16665.39
+4500000035;Rechnungsprüfung;2025-05-26 10:02:48;KB04;Kreditorenbuchhaltung;16665.39
+4500000035;Rechnung freigeben;2025-06-10 06:04:16;BL04;Bereichsleitung;16665.39
+4500000035;Zahlung ausführen;2025-06-12 18:08:39;TR05;Treasury;16665.39
+4500000036;Bestellanforderung anlegen;2025-01-23 15:14:16;FA05;Fachabteilung;2018.62
+4500000036;Bestellung anlegen;2025-01-24 03:59:43;EK02;Einkauf;2018.62
+4500000036;Wareneingang buchen;2025-01-26 08:58:44;LG05;Lager;2018.62
+4500000036;Rechnung erfassen;2025-01-27 03:39:55;KB02;Kreditorenbuchhaltung;2018.62
+4500000036;Rechnungsprüfung;2025-01-28 02:31:17;KB05;Kreditorenbuchhaltung;2018.62
+4500000036;Rechnung freigeben;2025-01-29 23:16:38;BL05;Bereichsleitung;2018.62
+4500000036;Zahlung ausführen;2025-02-02 09:06:35;TR04;Treasury;2018.62
+4500000037;Bestellanforderung anlegen;2025-05-16 15:01:16;FA02;Fachabteilung;6131.43
+4500000037;Bestellanforderung genehmigen;2025-05-17 10:38:46;BL04;Bereichsleitung;6131.43
+4500000037;Bestellung anlegen;2025-05-17 16:10:35;EK05;Einkauf;6131.43
+4500000037;Wareneingang buchen;2025-05-22 04:15:24;LG02;Lager;6131.43
+4500000037;Rechnung erfassen;2025-05-24 15:31:03;KB05;Kreditorenbuchhaltung;6131.43
+4500000037;Rechnungsprüfung;2025-05-25 05:20:43;KB04;Kreditorenbuchhaltung;6131.43
+4500000037;Rechnung freigeben;2025-06-01 22:51:54;BL01;Bereichsleitung;6131.43
+4500000037;Zahlung ausführen;2025-06-04 23:51:37;TR02;Treasury;6131.43
+4500000038;Bestellanforderung anlegen;2025-09-16 15:10:10;FA03;Fachabteilung;3293.63
+4500000038;Bestellung anlegen;2025-09-17 01:51:33;EK02;Einkauf;3293.63
+4500000038;Wareneingang buchen;2025-09-20 16:55:36;LG01;Lager;3293.63
+4500000038;Rechnung erfassen;2025-09-21 08:58:51;KB03;Kreditorenbuchhaltung;3293.63
+4500000038;Rechnungsprüfung;2025-09-23 02:10:11;KB03;Kreditorenbuchhaltung;3293.63
+4500000038;Rechnung freigeben;2025-09-23 21:40:02;BL05;Bereichsleitung;3293.63
+4500000038;Zahlung ausführen;2025-09-27 19:11:47;TR05;Treasury;3293.63
+4500000039;Bestellanforderung anlegen;2025-02-10 13:52:12;FA01;Fachabteilung;5310.27
+4500000039;Bestellanforderung genehmigen;2025-02-11 05:01:57;BL01;Bereichsleitung;5310.27
+4500000039;Bestellung anlegen;2025-02-11 10:50:32;EK02;Einkauf;5310.27
+4500000039;Wareneingang buchen;2025-02-13 09:25:11;LG01;Lager;5310.27
+4500000039;Rechnung erfassen;2025-02-15 04:15:33;KB01;Kreditorenbuchhaltung;5310.27
+4500000039;Rechnungsprüfung;2025-02-16 20:32:44;KB02;Kreditorenbuchhaltung;5310.27
+4500000039;Rechnung freigeben;2025-02-19 18:54:32;BL03;Bereichsleitung;5310.27
+4500000039;Zahlung ausführen;2025-02-23 03:14:14;TR05;Treasury;5310.27
+4500000040;Bestellanforderung anlegen;2025-01-10 14:07:53;FA01;Fachabteilung;21349.67
+4500000040;Bestellanforderung genehmigen;2025-01-11 06:04:48;BL02;Bereichsleitung;21349.67
+4500000040;Bestellung anlegen;2025-01-11 12:07:14;EK03;Einkauf;21349.67
+4500000040;Wareneingang buchen;2025-01-14 02:10:56;LG02;Lager;21349.67
+4500000040;Rechnung erfassen;2025-01-14 12:48:41;KB03;Kreditorenbuchhaltung;21349.67
+4500000040;Rechnungsprüfung;2025-01-16 11:19:10;KB01;Kreditorenbuchhaltung;21349.67
+4500000040;Rechnung korrigieren;2025-01-20 23:59:00;EK05;Einkauf;21349.67
+4500000040;Rechnungsprüfung;2025-01-21 14:38:34;KB05;Kreditorenbuchhaltung;21349.67
+4500000040;Rechnung freigeben;2025-01-25 20:15:26;BL02;Bereichsleitung;21349.67
+4500000040;Zahlung ausführen;2025-01-27 08:26:38;TR05;Treasury;21349.67
+4500000041;Bestellanforderung anlegen;2025-03-20 14:32:45;FA01;Fachabteilung;11322.88
+4500000041;Bestellanforderung genehmigen;2025-03-20 20:16:05;BL05;Bereichsleitung;11322.88
+4500000041;Bestellung anlegen;2025-03-21 12:05:42;EK05;Einkauf;11322.88
+4500000041;Bestellung ändern;2025-03-22 08:48:49;EK01;Einkauf;11322.88
+4500000041;Wareneingang buchen;2025-03-31 02:10:58;LG01;Lager;11322.88
+4500000041;Rechnung erfassen;2025-04-02 07:47:18;KB02;Kreditorenbuchhaltung;11322.88
+4500000041;Rechnungsprüfung;2025-04-03 03:58:18;KB04;Kreditorenbuchhaltung;11322.88
+4500000041;Rechnung freigeben;2025-04-28 14:20:33;BL02;Bereichsleitung;11322.88
+4500000041;Zahlung ausführen;2025-05-01 09:09:13;TR04;Treasury;11322.88
+4500000042;Bestellanforderung anlegen;2025-07-30 09:26:41;FA02;Fachabteilung;11794.9
+4500000042;Bestellanforderung genehmigen;2025-07-30 22:50:48;BL05;Bereichsleitung;11794.9
+4500000042;Bestellung anlegen;2025-07-31 07:11:52;EK02;Einkauf;11794.9
+4500000042;Wareneingang buchen;2025-08-01 16:52:48;LG03;Lager;11794.9
+4500000042;Rechnung erfassen;2025-08-02 13:48:47;KB02;Kreditorenbuchhaltung;11794.9
+4500000042;Rechnungsprüfung;2025-08-03 04:43:29;KB05;Kreditorenbuchhaltung;11794.9
+4500000042;Rechnung korrigieren;2025-08-06 11:52:12;EK03;Einkauf;11794.9
+4500000042;Rechnungsprüfung;2025-08-07 00:20:24;KB05;Kreditorenbuchhaltung;11794.9
+4500000042;Rechnung freigeben;2025-08-12 05:57:14;BL05;Bereichsleitung;11794.9
+4500000042;Zahlung ausführen;2025-08-16 05:53:49;TR02;Treasury;11794.9
+4500000043;Bestellanforderung anlegen;2025-05-06 12:35:34;FA03;Fachabteilung;19569.8
+4500000043;Bestellanforderung genehmigen;2025-05-06 21:03:34;BL02;Bereichsleitung;19569.8
+4500000043;Bestellung anlegen;2025-05-07 14:36:08;EK04;Einkauf;19569.8
+4500000043;Wareneingang buchen;2025-05-12 16:28:17;LG01;Lager;19569.8
+4500000043;Rechnung erfassen;2025-05-13 16:45:12;KB05;Kreditorenbuchhaltung;19569.8
+4500000043;Rechnungsprüfung;2025-05-14 07:00:01;KB01;Kreditorenbuchhaltung;19569.8
+4500000043;Rechnung freigeben;2025-05-29 14:40:47;BL03;Bereichsleitung;19569.8
+4500000043;Zahlung ausführen;2025-06-02 09:19:47;TR05;Treasury;19569.8
+4500000044;Bestellanforderung anlegen;2025-05-20 10:25:23;FA02;Fachabteilung;28380.48
+4500000044;Bestellanforderung genehmigen;2025-05-21 07:58:06;BL03;Bereichsleitung;28380.48
+4500000044;Bestellung anlegen;2025-05-22 04:32:20;EK01;Einkauf;28380.48
+4500000044;Wareneingang buchen;2025-05-27 04:14:39;LG01;Lager;28380.48
+4500000044;Rechnung erfassen;2025-05-28 01:40:31;KB01;Kreditorenbuchhaltung;28380.48
+4500000044;Rechnungsprüfung;2025-05-28 11:56:53;KB01;Kreditorenbuchhaltung;28380.48
+4500000044;Rechnung freigeben;2025-06-07 15:52:28;BL04;Bereichsleitung;28380.48
+4500000044;Zahlung ausführen;2025-06-08 23:09:48;TR03;Treasury;28380.48
+4500000045;Bestellanforderung anlegen;2025-09-12 14:31:50;FA04;Fachabteilung;55608.02
+4500000045;Bestellanforderung genehmigen;2025-09-13 15:09:32;BL04;Bereichsleitung;55608.02
+4500000045;Bestellung anlegen;2025-09-13 22:24:10;EK02;Einkauf;55608.02
+4500000045;Wareneingang buchen;2025-09-17 07:27:41;LG02;Lager;55608.02
+4500000045;Rechnung erfassen;2025-09-18 08:53:47;KB03;Kreditorenbuchhaltung;55608.02
+4500000045;Rechnungsprüfung;2025-09-20 14:08:48;KB03;Kreditorenbuchhaltung;55608.02
+4500000045;Rechnung freigeben;2025-10-03 12:55:14;BL01;Bereichsleitung;55608.02
+4500000045;Zahlung ausführen;2025-10-05 15:38:45;TR02;Treasury;55608.02
+4500000046;Bestellanforderung anlegen;2025-04-08 13:32:34;FA01;Fachabteilung;6277.64
+4500000046;Bestellanforderung genehmigen;2025-04-08 23:15:43;BL05;Bereichsleitung;6277.64
+4500000046;Bestellung anlegen;2025-04-09 09:28:17;EK04;Einkauf;6277.64
+4500000046;Wareneingang buchen;2025-04-12 22:56:43;LG04;Lager;6277.64
+4500000046;Rechnung erfassen;2025-04-13 14:46:04;KB01;Kreditorenbuchhaltung;6277.64
+4500000046;Rechnungsprüfung;2025-04-15 18:23:27;KB02;Kreditorenbuchhaltung;6277.64
+4500000046;Rechnung freigeben;2025-04-22 05:40:34;BL02;Bereichsleitung;6277.64
+4500000046;Zahlung ausführen;2025-04-25 06:18:52;TR02;Treasury;6277.64
+4500000047;Bestellanforderung anlegen;2025-01-31 15:29:08;FA05;Fachabteilung;13677.24
+4500000047;Bestellanforderung genehmigen;2025-02-01 02:46:14;BL02;Bereichsleitung;13677.24
+4500000047;Bestellung anlegen;2025-02-01 17:13:18;EK03;Einkauf;13677.24
+4500000047;Wareneingang buchen;2025-02-06 03:02:06;LG05;Lager;13677.24
+4500000047;Rechnung erfassen;2025-02-06 19:26:03;KB05;Kreditorenbuchhaltung;13677.24
+4500000047;Rechnungsprüfung;2025-02-07 09:57:44;KB02;Kreditorenbuchhaltung;13677.24
+4500000047;Rechnung freigeben;2025-02-16 00:52:00;BL05;Bereichsleitung;13677.24
+4500000047;Zahlung ausführen;2025-02-17 10:06:19;TR04;Treasury;13677.24
+4500000048;Bestellanforderung anlegen;2025-07-09 12:46:53;FA04;Fachabteilung;5827.2
+4500000048;Bestellanforderung genehmigen;2025-07-10 10:20:01;BL04;Bereichsleitung;5827.2
+4500000048;Bestellung anlegen;2025-07-10 20:50:22;EK03;Einkauf;5827.2
+4500000048;Wareneingang buchen;2025-07-12 14:16:30;LG05;Lager;5827.2
+4500000048;Rechnung erfassen;2025-07-13 02:59:33;KB01;Kreditorenbuchhaltung;5827.2
+4500000048;Rechnungsprüfung;2025-07-13 22:11:05;KB05;Kreditorenbuchhaltung;5827.2
+4500000048;Rechnung freigeben;2025-07-28 09:55:23;BL03;Bereichsleitung;5827.2
+4500000048;Zahlung ausführen;2025-07-30 20:09:01;TR02;Treasury;5827.2
+4500000049;Bestellanforderung anlegen;2025-06-25 13:49:43;FA04;Fachabteilung;4938.21
+4500000049;Bestellung anlegen;2025-06-26 01:00:54;EK04;Einkauf;4938.21
+4500000049;Wareneingang buchen;2025-06-27 20:04:59;LG04;Lager;4938.21
+4500000049;Rechnung erfassen;2025-06-28 17:11:55;KB04;Kreditorenbuchhaltung;4938.21
+4500000049;Rechnungsprüfung;2025-06-30 13:25:20;KB03;Kreditorenbuchhaltung;4938.21
+4500000049;Rechnung freigeben;2025-07-03 04:04:15;BL01;Bereichsleitung;4938.21
+4500000049;Zahlung ausführen;2025-07-04 17:56:04;TR05;Treasury;4938.21
+4500000050;Bestellanforderung anlegen;2025-04-18 10:28:26;FA01;Fachabteilung;14756.86
+4500000050;Bestellanforderung genehmigen;2025-04-19 01:22:25;BL05;Bereichsleitung;14756.86
+4500000050;Bestellung anlegen;2025-04-19 04:45:45;EK02;Einkauf;14756.86
+4500000050;Wareneingang buchen;2025-04-25 00:57:08;LG02;Lager;14756.86
+4500000050;Rechnung erfassen;2025-04-26 20:28:08;KB05;Kreditorenbuchhaltung;14756.86
+4500000050;Rechnungsprüfung;2025-04-28 00:21:47;KB03;Kreditorenbuchhaltung;14756.86
+4500000050;Rechnung freigeben;2025-04-30 12:53:24;BL04;Bereichsleitung;14756.86
+4500000050;Zahlung ausführen;2025-05-04 06:41:53;TR05;Treasury;14756.86
+4500000051;Bestellanforderung anlegen;2025-05-15 09:38:07;FA02;Fachabteilung;3652.28
+4500000051;Bestellung anlegen;2025-05-16 01:03:36;EK03;Einkauf;3652.28
+4500000051;Wareneingang buchen;2025-05-18 10:13:24;LG05;Lager;3652.28
+4500000051;Rechnung erfassen;2025-05-18 19:28:10;KB04;Kreditorenbuchhaltung;3652.28
+4500000051;Rechnungsprüfung;2025-05-21 00:30:25;KB04;Kreditorenbuchhaltung;3652.28
+4500000051;Rechnung freigeben;2025-05-21 17:36:30;BL01;Bereichsleitung;3652.28
+4500000051;Zahlung ausführen;2025-05-23 16:15:46;TR03;Treasury;3652.28
+4500000052;Bestellanforderung anlegen;2025-08-04 10:33:31;FA05;Fachabteilung;6992.04
+4500000052;Bestellanforderung genehmigen;2025-08-04 22:36:03;BL01;Bereichsleitung;6992.04
+4500000052;Bestellung anlegen;2025-08-06 03:16:55;EK02;Einkauf;6992.04
+4500000052;Wareneingang buchen;2025-08-07 16:49:50;LG05;Lager;6992.04
+4500000052;Rechnung erfassen;2025-08-08 02:04:10;KB04;Kreditorenbuchhaltung;6992.04
+4500000052;Rechnungsprüfung;2025-08-09 03:01:30;KB03;Kreditorenbuchhaltung;6992.04
+4500000052;Rechnung freigeben;2025-08-14 11:30:33;BL01;Bereichsleitung;6992.04
+4500000052;Zahlung ausführen;2025-08-16 14:17:06;TR05;Treasury;6992.04
+4500000053;Bestellanforderung anlegen;2025-07-22 15:37:29;FA01;Fachabteilung;53124.73
+4500000053;Bestellanforderung genehmigen;2025-07-22 19:56:41;BL05;Bereichsleitung;53124.73
+4500000053;Bestellung anlegen;2025-07-23 05:46:58;EK04;Einkauf;53124.73
+4500000053;Wareneingang buchen;2025-07-28 10:08:24;LG03;Lager;53124.73
+4500000053;Rechnung erfassen;2025-07-29 13:10:00;KB02;Kreditorenbuchhaltung;53124.73
+4500000053;Rechnungsprüfung;2025-07-30 19:21:09;KB05;Kreditorenbuchhaltung;53124.73
+4500000053;Rechnung freigeben;2025-08-09 00:47:55;BL03;Bereichsleitung;53124.73
+4500000053;Zahlung ausführen;2025-08-11 17:47:26;TR02;Treasury;53124.73
+4500000054;Bestellanforderung anlegen;2025-04-22 07:36:14;FA04;Fachabteilung;19294.07
+4500000054;Bestellanforderung genehmigen;2025-04-22 21:40:22;BL03;Bereichsleitung;19294.07
+4500000054;Bestellung anlegen;2025-04-23 07:30:08;EK04;Einkauf;19294.07
+4500000054;Wareneingang buchen;2025-04-26 05:30:52;LG01;Lager;19294.07
+4500000054;Rechnung erfassen;2025-04-27 06:33:33;KB02;Kreditorenbuchhaltung;19294.07
+4500000054;Rechnungsprüfung;2025-04-27 21:11:58;KB04;Kreditorenbuchhaltung;19294.07
+4500000054;Rechnung korrigieren;2025-04-30 15:26:25;EK02;Einkauf;19294.07
+4500000054;Rechnungsprüfung;2025-05-01 03:59:35;KB03;Kreditorenbuchhaltung;19294.07
+4500000054;Rechnung freigeben;2025-05-05 07:23:35;BL01;Bereichsleitung;19294.07
+4500000054;Zahlung ausführen;2025-05-08 20:22:51;TR03;Treasury;19294.07
+4500000055;Bestellanforderung anlegen;2025-04-07 15:38:15;FA01;Fachabteilung;10576.87
+4500000055;Bestellanforderung genehmigen;2025-04-08 09:19:46;BL01;Bereichsleitung;10576.87
+4500000055;Bestellung anlegen;2025-04-08 22:56:42;EK02;Einkauf;10576.87
+4500000055;Wareneingang buchen;2025-04-12 13:37:42;LG04;Lager;10576.87
+4500000055;Rechnung erfassen;2025-04-13 06:28:38;KB05;Kreditorenbuchhaltung;10576.87
+4500000055;Rechnungsprüfung;2025-04-13 18:15:25;KB02;Kreditorenbuchhaltung;10576.87
+4500000055;Rechnung freigeben;2025-04-20 20:54:09;BL02;Bereichsleitung;10576.87
+4500000055;Zahlung ausführen;2025-04-23 23:23:41;TR03;Treasury;10576.87
+4500000056;Bestellanforderung anlegen;2025-03-10 13:38:42;FA04;Fachabteilung;1217.28
+4500000056;Bestellung anlegen;2025-03-10 22:34:07;EK04;Einkauf;1217.28
+4500000056;Bestellung ändern;2025-03-12 12:18:52;EK01;Einkauf;1217.28
+4500000056;Wareneingang buchen;2025-03-22 14:14:20;LG01;Lager;1217.28
+4500000056;Rechnung erfassen;2025-03-23 23:12:48;KB04;Kreditorenbuchhaltung;1217.28
+4500000056;Rechnungsprüfung;2025-03-25 04:30:07;KB05;Kreditorenbuchhaltung;1217.28
+4500000056;Rechnung freigeben;2025-03-30 11:42:13;BL01;Bereichsleitung;1217.28
+4500000056;Zahlung ausführen;2025-04-02 09:07:19;TR03;Treasury;1217.28
+4500000057;Bestellanforderung anlegen;2025-03-20 14:29:09;FA02;Fachabteilung;8281.37
+4500000057;Bestellanforderung genehmigen;2025-03-21 01:02:57;BL02;Bereichsleitung;8281.37
+4500000057;Bestellung anlegen;2025-03-21 14:36:25;EK04;Einkauf;8281.37
+4500000057;Wareneingang buchen;2025-03-26 09:30:53;LG05;Lager;8281.37
+4500000057;Rechnung erfassen;2025-03-27 01:55:34;KB04;Kreditorenbuchhaltung;8281.37
+4500000057;Rechnungsprüfung;2025-03-27 17:59:02;KB04;Kreditorenbuchhaltung;8281.37
+4500000057;Rechnung freigeben;2025-04-12 12:42:51;BL02;Bereichsleitung;8281.37
+4500000057;Zahlung ausführen;2025-04-14 02:08:12;TR05;Treasury;8281.37
+4500000058;Bestellanforderung anlegen;2025-08-01 14:44:45;FA02;Fachabteilung;8622.52
+4500000058;Bestellanforderung genehmigen;2025-08-02 22:48:05;BL01;Bereichsleitung;8622.52
+4500000058;Bestellung anlegen;2025-08-03 08:55:10;EK05;Einkauf;8622.52
+4500000058;Wareneingang buchen;2025-08-08 20:58:33;LG04;Lager;8622.52
+4500000058;Rechnung erfassen;2025-08-09 14:56:38;KB02;Kreditorenbuchhaltung;8622.52
+4500000058;Rechnungsprüfung;2025-08-10 08:32:00;KB04;Kreditorenbuchhaltung;8622.52
+4500000058;Rechnung freigeben;2025-08-13 05:02:04;BL05;Bereichsleitung;8622.52
+4500000058;Zahlung ausführen;2025-08-15 19:10:08;TR02;Treasury;8622.52
+4500000059;Bestellanforderung anlegen;2025-06-24 13:57:49;FA05;Fachabteilung;37684.28
+4500000059;Bestellanforderung genehmigen;2025-06-25 04:51:07;BL02;Bereichsleitung;37684.28
+4500000059;Bestellung anlegen;2025-06-26 14:50:22;EK02;Einkauf;37684.28
+4500000059;Wareneingang buchen;2025-07-01 01:28:49;LG01;Lager;37684.28
+4500000059;Rechnung erfassen;2025-07-02 15:54:18;KB02;Kreditorenbuchhaltung;37684.28
+4500000059;Rechnungsprüfung;2025-07-04 18:35:08;KB03;Kreditorenbuchhaltung;37684.28
+4500000059;Rechnung freigeben;2025-07-11 00:43:47;BL04;Bereichsleitung;37684.28
+4500000059;Zahlung ausführen;2025-07-14 17:41:44;TR05;Treasury;37684.28
+4500000060;Bestellanforderung anlegen;2025-06-02 11:54:34;FA05;Fachabteilung;36589.2
+4500000060;Bestellanforderung genehmigen;2025-06-03 01:18:18;BL02;Bereichsleitung;36589.2
+4500000060;Bestellung anlegen;2025-06-03 22:23:44;EK04;Einkauf;36589.2
+4500000060;Wareneingang buchen;2025-06-06 18:33:25;LG05;Lager;36589.2
+4500000060;Rechnung erfassen;2025-06-07 04:09:27;KB05;Kreditorenbuchhaltung;36589.2
+4500000060;Rechnungsprüfung;2025-06-08 03:09:30;KB02;Kreditorenbuchhaltung;36589.2
+4500000060;Rechnung freigeben;2025-06-11 04:16:36;BL04;Bereichsleitung;36589.2
+4500000060;Zahlung ausführen;2025-06-12 11:36:43;TR02;Treasury;36589.2
+4500000061;Bestellanforderung anlegen;2025-02-10 08:32:58;FA05;Fachabteilung;6379.54
+4500000061;Bestellanforderung genehmigen;2025-02-11 17:04:16;BL05;Bereichsleitung;6379.54
+4500000061;Bestellung anlegen;2025-02-12 09:07:51;EK02;Einkauf;6379.54
+4500000061;Wareneingang buchen;2025-02-14 00:16:13;LG03;Lager;6379.54
+4500000061;Rechnung erfassen;2025-02-15 09:03:22;KB05;Kreditorenbuchhaltung;6379.54
+4500000061;Rechnungsprüfung;2025-02-16 18:02:00;KB04;Kreditorenbuchhaltung;6379.54
+4500000061;Rechnung korrigieren;2025-02-18 06:37:09;EK03;Einkauf;6379.54
+4500000061;Rechnungsprüfung;2025-02-19 02:20:06;KB05;Kreditorenbuchhaltung;6379.54
+4500000061;Rechnung freigeben;2025-02-27 21:47:21;BL01;Bereichsleitung;6379.54
+4500000061;Zahlung ausführen;2025-03-03 04:01:17;TR04;Treasury;6379.54
+4500000062;Bestellanforderung anlegen;2025-06-17 10:06:37;FA01;Fachabteilung;11128.71
+4500000062;Bestellanforderung genehmigen;2025-06-17 18:57:07;BL03;Bereichsleitung;11128.71
+4500000062;Bestellung anlegen;2025-06-18 00:44:11;EK02;Einkauf;11128.71
+4500000062;Wareneingang buchen;2025-06-21 05:22:07;LG01;Lager;11128.71
+4500000062;Rechnung erfassen;2025-06-21 14:22:15;KB01;Kreditorenbuchhaltung;11128.71
+4500000062;Rechnungsprüfung;2025-06-24 06:20:12;KB05;Kreditorenbuchhaltung;11128.71
+4500000062;Rechnung freigeben;2025-07-05 23:47:46;BL03;Bereichsleitung;11128.71
+4500000062;Zahlung ausführen;2025-07-09 20:55:48;TR04;Treasury;11128.71
+4500000063;Bestellanforderung anlegen;2025-03-07 09:28:46;FA03;Fachabteilung;5550.18
+4500000063;Bestellanforderung genehmigen;2025-03-07 21:36:18;BL04;Bereichsleitung;5550.18
+4500000063;Bestellung anlegen;2025-03-08 09:40:02;EK03;Einkauf;5550.18
+4500000063;Wareneingang buchen;2025-03-14 02:37:47;LG03;Lager;5550.18
+4500000063;Rechnung erfassen;2025-03-14 11:53:37;KB05;Kreditorenbuchhaltung;5550.18
+4500000063;Rechnungsprüfung;2025-03-15 01:08:48;KB04;Kreditorenbuchhaltung;5550.18
+4500000063;Rechnung korrigieren;2025-03-19 10:17:27;EK05;Einkauf;5550.18
+4500000063;Rechnungsprüfung;2025-03-20 12:15:35;KB05;Kreditorenbuchhaltung;5550.18
+4500000063;Rechnung freigeben;2025-03-25 20:38:29;BL04;Bereichsleitung;5550.18
+4500000063;Zahlung ausführen;2025-03-28 17:21:49;TR05;Treasury;5550.18
+4500000064;Bestellanforderung anlegen;2025-01-22 08:42:20;FA01;Fachabteilung;6326.89
+4500000064;Bestellanforderung genehmigen;2025-01-22 18:36:48;BL03;Bereichsleitung;6326.89
+4500000064;Bestellung anlegen;2025-01-23 09:42:41;EK02;Einkauf;6326.89
+4500000064;Wareneingang buchen;2025-01-25 05:32:32;LG01;Lager;6326.89
+4500000064;Rechnung erfassen;2025-01-26 02:05:23;KB01;Kreditorenbuchhaltung;6326.89
+4500000064;Rechnungsprüfung;2025-01-27 14:11:06;KB04;Kreditorenbuchhaltung;6326.89
+4500000064;Rechnung freigeben;2025-01-31 09:03:30;BL04;Bereichsleitung;6326.89
+4500000064;Zahlung ausführen;2025-02-01 17:32:40;TR03;Treasury;6326.89
+4500000065;Bestellanforderung anlegen;2025-07-03 10:31:10;FA02;Fachabteilung;3601.28
+4500000065;Bestellung anlegen;2025-07-04 01:51:31;EK02;Einkauf;3601.28
+4500000065;Wareneingang buchen;2025-07-06 12:36:47;LG01;Lager;3601.28
+4500000065;Rechnung erfassen;2025-07-06 22:31:47;KB01;Kreditorenbuchhaltung;3601.28
+4500000065;Rechnungsprüfung;2025-07-07 05:57:06;KB04;Kreditorenbuchhaltung;3601.28
+4500000065;Rechnung freigeben;2025-07-09 05:04:53;BL05;Bereichsleitung;3601.28
+4500000065;Zahlung ausführen;2025-07-10 10:14:08;TR04;Treasury;3601.28
+4500000066;Bestellanforderung anlegen;2025-07-09 16:16:03;FA03;Fachabteilung;18189.02
+4500000066;Bestellanforderung genehmigen;2025-07-10 10:59:19;BL05;Bereichsleitung;18189.02
+4500000066;Bestellung anlegen;2025-07-10 18:59:56;EK02;Einkauf;18189.02
+4500000066;Wareneingang buchen;2025-07-13 17:00:54;LG04;Lager;18189.02
+4500000066;Rechnung erfassen;2025-07-14 17:56:45;KB03;Kreditorenbuchhaltung;18189.02
+4500000066;Rechnungsprüfung;2025-07-15 07:48:37;KB01;Kreditorenbuchhaltung;18189.02
+4500000066;Rechnung freigeben;2025-07-19 06:20:56;BL04;Bereichsleitung;18189.02
+4500000066;Zahlung ausführen;2025-07-22 18:43:17;TR02;Treasury;18189.02
+4500000067;Bestellanforderung anlegen;2025-07-30 13:53:25;FA02;Fachabteilung;3124.58
+4500000067;Bestellung anlegen;2025-07-31 01:07:13;EK03;Einkauf;3124.58
+4500000067;Wareneingang buchen;2025-08-02 01:53:51;LG03;Lager;3124.58
+4500000067;Rechnung erfassen;2025-08-02 20:01:06;KB01;Kreditorenbuchhaltung;3124.58
+4500000067;Rechnungsprüfung;2025-08-03 23:57:26;KB03;Kreditorenbuchhaltung;3124.58
+4500000067;Rechnung korrigieren;2025-08-06 18:07:33;EK03;Einkauf;3124.58
+4500000067;Rechnungsprüfung;2025-08-07 15:13:23;KB01;Kreditorenbuchhaltung;3124.58
+4500000067;Rechnung freigeben;2025-08-09 01:36:49;BL05;Bereichsleitung;3124.58
+4500000067;Zahlung ausführen;2025-08-11 18:59:07;TR04;Treasury;3124.58
+4500000068;Bestellanforderung anlegen;2025-06-05 14:48:39;FA05;Fachabteilung;18237.29
+4500000068;Bestellanforderung genehmigen;2025-06-06 04:38:47;BL03;Bereichsleitung;18237.29
+4500000068;Bestellung anlegen;2025-06-06 15:49:03;EK04;Einkauf;18237.29
+4500000068;Wareneingang buchen;2025-06-07 20:42:56;LG01;Lager;18237.29
+4500000068;Rechnung erfassen;2025-06-08 13:08:02;KB03;Kreditorenbuchhaltung;18237.29
+4500000068;Rechnungsprüfung;2025-06-08 23:58:51;KB02;Kreditorenbuchhaltung;18237.29
+4500000068;Rechnung freigeben;2025-06-30 06:34:00;BL04;Bereichsleitung;18237.29
+4500000068;Zahlung ausführen;2025-07-02 12:27:38;TR01;Treasury;18237.29
+4500000069;Bestellanforderung anlegen;2025-01-21 15:14:25;FA05;Fachabteilung;1958.63
+4500000069;Bestellung anlegen;2025-01-22 00:39:50;EK05;Einkauf;1958.63
+4500000069;Wareneingang buchen;2025-01-22 15:55:29;LG02;Lager;1958.63
+4500000069;Rechnung erfassen;2025-01-23 02:39:44;KB05;Kreditorenbuchhaltung;1958.63
+4500000069;Rechnungsprüfung;2025-01-24 12:21:47;KB02;Kreditorenbuchhaltung;1958.63
+4500000069;Rechnung freigeben;2025-01-26 19:02:36;BL02;Bereichsleitung;1958.63
+4500000069;Zahlung ausführen;2025-01-29 15:05:56;TR02;Treasury;1958.63
+4500000070;Bestellanforderung anlegen;2025-01-07 10:27:43;FA05;Fachabteilung;57016.52
+4500000070;Bestellanforderung genehmigen;2025-01-07 21:24:40;BL02;Bereichsleitung;57016.52
+4500000070;Bestellung anlegen;2025-01-08 05:44:36;EK05;Einkauf;57016.52
+4500000070;Wareneingang buchen;2025-01-12 17:03:08;LG01;Lager;57016.52
+4500000070;Rechnung erfassen;2025-01-13 12:42:55;KB01;Kreditorenbuchhaltung;57016.52
+4500000070;Rechnungsprüfung;2025-01-14 14:36:27;KB02;Kreditorenbuchhaltung;57016.52
+4500000070;Rechnung korrigieren;2025-01-16 18:05:59;EK01;Einkauf;57016.52
+4500000070;Rechnungsprüfung;2025-01-16 23:45:51;KB05;Kreditorenbuchhaltung;57016.52
+4500000070;Rechnung freigeben;2025-01-19 12:11:38;BL02;Bereichsleitung;57016.52
+4500000070;Zahlung ausführen;2025-01-21 17:15:56;TR01;Treasury;57016.52
+4500000071;Bestellanforderung anlegen;2025-09-29 10:45:29;FA01;Fachabteilung;3918.28
+4500000071;Bestellung anlegen;2025-09-29 22:24:58;EK04;Einkauf;3918.28
+4500000071;Wareneingang buchen;2025-10-03 13:38:35;LG01;Lager;3918.28
+4500000071;Rechnung erfassen;2025-10-04 09:54:01;KB02;Kreditorenbuchhaltung;3918.28
+4500000071;Rechnungsprüfung;2025-10-05 05:27:09;KB05;Kreditorenbuchhaltung;3918.28
+4500000071;Rechnung freigeben;2025-10-06 06:28:39;BL02;Bereichsleitung;3918.28
+4500000071;Zahlung ausführen;2025-10-09 17:33:35;TR01;Treasury;3918.28
+4500000072;Bestellanforderung anlegen;2025-06-02 13:30:25;FA05;Fachabteilung;6190.43
+4500000072;Bestellanforderung genehmigen;2025-06-03 13:47:41;BL02;Bereichsleitung;6190.43
+4500000072;Bestellung anlegen;2025-06-03 23:59:11;EK01;Einkauf;6190.43
+4500000072;Wareneingang buchen;2025-06-06 09:55:45;LG04;Lager;6190.43
+4500000072;Rechnung erfassen;2025-06-08 01:51:27;KB02;Kreditorenbuchhaltung;6190.43
+4500000072;Rechnungsprüfung;2025-06-09 13:53:00;KB03;Kreditorenbuchhaltung;6190.43
+4500000072;Rechnung freigeben;2025-06-13 09:04:12;BL05;Bereichsleitung;6190.43
+4500000072;Zahlung ausführen;2025-06-15 17:26:29;TR04;Treasury;6190.43
+4500000073;Bestellanforderung anlegen;2025-04-07 08:52:30;FA01;Fachabteilung;3487.88
+4500000073;Bestellung anlegen;2025-04-07 17:36:36;EK02;Einkauf;3487.88
+4500000073;Wareneingang buchen;2025-04-11 13:40:12;LG01;Lager;3487.88
+4500000073;Rechnung erfassen;2025-04-12 15:50:25;KB05;Kreditorenbuchhaltung;3487.88
+4500000073;Rechnungsprüfung;2025-04-15 01:11:50;KB02;Kreditorenbuchhaltung;3487.88
+4500000073;Rechnung freigeben;2025-04-16 08:27:25;BL03;Bereichsleitung;3487.88
+4500000073;Zahlung ausführen;2025-04-19 09:25:43;TR04;Treasury;3487.88
+4500000074;Bestellanforderung anlegen;2025-09-23 11:08:45;FA05;Fachabteilung;10151.27
+4500000074;Bestellanforderung genehmigen;2025-09-24 18:50:37;BL01;Bereichsleitung;10151.27
+4500000074;Bestellung anlegen;2025-09-25 01:47:50;EK01;Einkauf;10151.27
+4500000074;Wareneingang buchen;2025-09-27 23:12:23;LG02;Lager;10151.27
+4500000074;Rechnung erfassen;2025-09-28 14:55:57;KB02;Kreditorenbuchhaltung;10151.27
+4500000074;Rechnungsprüfung;2025-09-30 05:34:43;KB01;Kreditorenbuchhaltung;10151.27
+4500000074;Rechnung freigeben;2025-10-03 15:11:17;BL05;Bereichsleitung;10151.27
+4500000074;Zahlung ausführen;2025-10-05 12:03:06;TR05;Treasury;10151.27
+4500000075;Bestellanforderung anlegen;2025-07-16 13:38:40;FA05;Fachabteilung;16623.32
+4500000075;Bestellanforderung genehmigen;2025-07-17 01:10:19;BL02;Bereichsleitung;16623.32
+4500000075;Bestellung anlegen;2025-07-17 10:13:10;EK04;Einkauf;16623.32
+4500000075;Wareneingang buchen;2025-07-20 12:47:36;LG01;Lager;16623.32
+4500000075;Rechnung erfassen;2025-07-21 05:42:10;KB02;Kreditorenbuchhaltung;16623.32
+4500000075;Rechnungsprüfung;2025-07-21 17:35:02;KB02;Kreditorenbuchhaltung;16623.32
+4500000075;Rechnung freigeben;2025-07-24 17:04:44;BL02;Bereichsleitung;16623.32
+4500000075;Zahlung ausführen;2025-07-26 22:21:13;TR03;Treasury;16623.32
+4500000076;Bestellanforderung anlegen;2025-01-20 08:50:43;FA03;Fachabteilung;3496.13
+4500000076;Bestellung anlegen;2025-01-20 22:43:14;EK01;Einkauf;3496.13
+4500000076;Wareneingang buchen;2025-01-26 01:40:21;LG03;Lager;3496.13
+4500000076;Rechnung erfassen;2025-01-26 22:14:03;KB01;Kreditorenbuchhaltung;3496.13
+4500000076;Rechnungsprüfung;2025-01-29 09:56:47;KB03;Kreditorenbuchhaltung;3496.13
+4500000076;Rechnung freigeben;2025-01-31 18:55:51;BL02;Bereichsleitung;3496.13
+4500000076;Zahlung ausführen;2025-02-03 11:46:33;TR05;Treasury;3496.13
+4500000077;Bestellanforderung anlegen;2025-07-07 09:48:27;FA01;Fachabteilung;26932.59
+4500000077;Bestellanforderung genehmigen;2025-07-08 02:53:29;BL05;Bereichsleitung;26932.59
+4500000077;Bestellung anlegen;2025-07-08 08:57:22;EK05;Einkauf;26932.59
+4500000077;Wareneingang buchen;2025-07-13 16:38:19;LG01;Lager;26932.59
+4500000077;Rechnung erfassen;2025-07-15 23:59:16;KB05;Kreditorenbuchhaltung;26932.59
+4500000077;Rechnungsprüfung;2025-07-16 23:29:05;KB04;Kreditorenbuchhaltung;26932.59
+4500000077;Rechnung freigeben;2025-07-22 20:48:49;BL02;Bereichsleitung;26932.59
+4500000077;Zahlung ausführen;2025-07-25 13:42:38;TR04;Treasury;26932.59
+4500000078;Bestellanforderung anlegen;2025-07-02 15:48:43;FA01;Fachabteilung;3764.59
+4500000078;Bestellung anlegen;2025-07-04 02:03:44;EK02;Einkauf;3764.59
+4500000078;Wareneingang buchen;2025-07-12 08:50:31;LG02;Lager;3764.59
+4500000078;Rechnung erfassen;2025-07-13 11:28:48;KB02;Kreditorenbuchhaltung;3764.59
+4500000078;Rechnungsprüfung;2025-07-15 13:41:42;KB05;Kreditorenbuchhaltung;3764.59
+4500000078;Rechnung freigeben;2025-07-17 23:21:28;BL02;Bereichsleitung;3764.59
+4500000078;Zahlung ausführen;2025-07-21 06:08:37;TR02;Treasury;3764.59
+4500000079;Bestellanforderung anlegen;2025-01-13 14:18:39;FA03;Fachabteilung;13442.58
+4500000079;Bestellanforderung genehmigen;2025-01-14 09:02:44;BL01;Bereichsleitung;13442.58
+4500000079;Bestellung anlegen;2025-01-15 02:32:24;EK03;Einkauf;13442.58
+4500000079;Wareneingang buchen;2025-01-18 21:54:38;LG04;Lager;13442.58
+4500000079;Rechnung erfassen;2025-01-19 16:12:31;KB03;Kreditorenbuchhaltung;13442.58
+4500000079;Rechnungsprüfung;2025-01-20 09:17:33;KB05;Kreditorenbuchhaltung;13442.58
+4500000079;Rechnung freigeben;2025-01-25 02:16:05;BL05;Bereichsleitung;13442.58
+4500000079;Zahlung ausführen;2025-01-28 01:46:41;TR05;Treasury;13442.58
+4500000080;Bestellanforderung anlegen;2025-07-03 10:12:49;FA04;Fachabteilung;4501.92
+4500000080;Bestellung anlegen;2025-07-03 19:15:02;EK04;Einkauf;4501.92
+4500000080;Wareneingang buchen;2025-07-08 01:21:18;LG04;Lager;4501.92
+4500000080;Rechnung erfassen;2025-07-09 05:11:40;KB04;Kreditorenbuchhaltung;4501.92
+4500000080;Rechnungsprüfung;2025-07-09 19:04:17;KB01;Kreditorenbuchhaltung;4501.92
+4500000080;Rechnung korrigieren;2025-07-13 22:59:20;EK03;Einkauf;4501.92
+4500000080;Rechnungsprüfung;2025-07-14 13:38:58;KB03;Kreditorenbuchhaltung;4501.92
+4500000080;Rechnung freigeben;2025-07-17 11:50:22;BL03;Bereichsleitung;4501.92
+4500000080;Zahlung ausführen;2025-07-19 12:18:47;TR02;Treasury;4501.92
+4500000081;Bestellanforderung anlegen;2025-07-11 08:07:08;FA01;Fachabteilung;6153.01
+4500000081;Bestellanforderung genehmigen;2025-07-12 07:59:32;BL03;Bereichsleitung;6153.01
+4500000081;Bestellung anlegen;2025-07-12 16:49:10;EK04;Einkauf;6153.01
+4500000081;Wareneingang buchen;2025-07-15 03:37:08;LG02;Lager;6153.01
+4500000081;Rechnung erfassen;2025-07-16 17:27:14;KB04;Kreditorenbuchhaltung;6153.01
+4500000081;Rechnungsprüfung;2025-07-17 07:57:30;KB04;Kreditorenbuchhaltung;6153.01
+4500000081;Rechnung freigeben;2025-07-22 01:48:25;BL05;Bereichsleitung;6153.01
+4500000081;Zahlung ausführen;2025-07-25 23:33:40;TR05;Treasury;6153.01
+4500000082;Bestellanforderung anlegen;2025-08-13 15:45:15;FA01;Fachabteilung;17542.62
+4500000082;Bestellanforderung genehmigen;2025-08-14 01:31:29;BL01;Bereichsleitung;17542.62
+4500000082;Bestellung anlegen;2025-08-14 07:00:14;EK05;Einkauf;17542.62
+4500000082;Wareneingang buchen;2025-08-20 14:13:43;LG05;Lager;17542.62
+4500000082;Rechnung erfassen;2025-08-21 04:04:44;KB05;Kreditorenbuchhaltung;17542.62
+4500000082;Rechnungsprüfung;2025-08-22 11:06:53;KB04;Kreditorenbuchhaltung;17542.62
+4500000082;Rechnung freigeben;2025-08-27 23:58:37;BL05;Bereichsleitung;17542.62
+4500000082;Zahlung ausführen;2025-08-30 03:47:38;TR03;Treasury;17542.62
+4500000083;Bestellanforderung anlegen;2025-08-01 10:10:08;FA05;Fachabteilung;5085.17
+4500000083;Bestellanforderung genehmigen;2025-08-02 09:00:17;BL05;Bereichsleitung;5085.17
+4500000083;Bestellung anlegen;2025-08-02 17:25:10;EK04;Einkauf;5085.17
+4500000083;Wareneingang buchen;2025-08-07 15:02:37;LG01;Lager;5085.17
+4500000083;Rechnung erfassen;2025-08-08 00:05:16;KB03;Kreditorenbuchhaltung;5085.17
+4500000083;Rechnungsprüfung;2025-08-10 03:48:45;KB01;Kreditorenbuchhaltung;5085.17
+4500000083;Rechnung korrigieren;2025-08-14 03:21:29;EK05;Einkauf;5085.17
+4500000083;Rechnungsprüfung;2025-08-16 10:25:27;KB04;Kreditorenbuchhaltung;5085.17
+4500000083;Rechnung freigeben;2025-08-27 21:38:35;BL01;Bereichsleitung;5085.17
+4500000083;Zahlung ausführen;2025-08-30 11:30:50;TR04;Treasury;5085.17
+4500000084;Bestellanforderung anlegen;2025-01-27 12:20:07;FA02;Fachabteilung;3703.03
+4500000084;Bestellung anlegen;2025-01-28 02:19:03;EK03;Einkauf;3703.03
+4500000084;Bestellung ändern;2025-01-30 13:46:59;EK03;Einkauf;3703.03
+4500000084;Wareneingang buchen;2025-02-05 01:00:22;LG03;Lager;3703.03
+4500000084;Rechnung erfassen;2025-02-06 00:52:13;KB01;Kreditorenbuchhaltung;3703.03
+4500000084;Rechnungsprüfung;2025-02-07 01:43:07;KB02;Kreditorenbuchhaltung;3703.03
+4500000084;Rechnung freigeben;2025-02-10 01:10:10;BL05;Bereichsleitung;3703.03
+4500000084;Zahlung ausführen;2025-02-13 07:13:55;TR01;Treasury;3703.03
+4500000085;Bestellanforderung anlegen;2025-08-04 09:55:14;FA03;Fachabteilung;2623.01
+4500000085;Bestellung anlegen;2025-08-05 16:04:07;EK04;Einkauf;2623.01
+4500000085;Wareneingang buchen;2025-08-09 09:33:53;LG01;Lager;2623.01
+4500000085;Rechnung erfassen;2025-08-10 02:32:40;KB01;Kreditorenbuchhaltung;2623.01
+4500000085;Rechnungsprüfung;2025-08-10 17:17:49;KB02;Kreditorenbuchhaltung;2623.01
+4500000085;Rechnung freigeben;2025-08-12 23:25:43;BL02;Bereichsleitung;2623.01
+4500000085;Zahlung ausführen;2025-08-16 05:28:36;TR02;Treasury;2623.01
+4500000086;Bestellanforderung anlegen;2025-08-01 10:26:14;FA05;Fachabteilung;8044.71
+4500000086;Bestellanforderung genehmigen;2025-08-01 21:36:55;BL04;Bereichsleitung;8044.71
+4500000086;Bestellung anlegen;2025-08-02 03:39:23;EK03;Einkauf;8044.71
+4500000086;Wareneingang buchen;2025-08-04 12:12:55;LG02;Lager;8044.71
+4500000086;Rechnung erfassen;2025-08-05 01:00:06;KB02;Kreditorenbuchhaltung;8044.71
+4500000086;Rechnungsprüfung;2025-08-06 11:51:48;KB05;Kreditorenbuchhaltung;8044.71
+4500000086;Rechnung korrigieren;2025-08-08 19:08:38;EK02;Einkauf;8044.71
+4500000086;Rechnungsprüfung;2025-08-10 03:51:20;KB04;Kreditorenbuchhaltung;8044.71
+4500000086;Rechnung freigeben;2025-08-29 13:08:38;BL03;Bereichsleitung;8044.71
+4500000086;Zahlung ausführen;2025-09-01 22:34:32;TR02;Treasury;8044.71
+4500000087;Bestellanforderung anlegen;2025-07-14 09:45:45;FA01;Fachabteilung;3189.74
+4500000087;Bestellung anlegen;2025-07-14 17:04:31;EK01;Einkauf;3189.74
+4500000087;Wareneingang buchen;2025-07-20 07:21:59;LG02;Lager;3189.74
+4500000087;Rechnung erfassen;2025-07-20 12:55:31;KB05;Kreditorenbuchhaltung;3189.74
+4500000087;Rechnungsprüfung;2025-07-23 09:10:38;KB02;Kreditorenbuchhaltung;3189.74
+4500000087;Rechnung freigeben;2025-07-24 00:32:26;BL04;Bereichsleitung;3189.74
+4500000087;Zahlung ausführen;2025-07-26 19:17:01;TR05;Treasury;3189.74
+4500000088;Bestellanforderung anlegen;2025-08-22 09:53:45;FA01;Fachabteilung;1160.06
+4500000088;Bestellung anlegen;2025-08-22 15:44:08;EK05;Einkauf;1160.06
+4500000088;Wareneingang buchen;2025-08-26 19:20:24;LG02;Lager;1160.06
+4500000088;Rechnung erfassen;2025-08-27 13:01:29;KB04;Kreditorenbuchhaltung;1160.06
+4500000088;Rechnungsprüfung;2025-08-30 10:20:19;KB05;Kreditorenbuchhaltung;1160.06
+4500000088;Rechnung freigeben;2025-08-31 12:43:54;BL03;Bereichsleitung;1160.06
+4500000088;Zahlung ausführen;2025-09-02 00:15:57;TR04;Treasury;1160.06
+4500000089;Bestellanforderung anlegen;2025-09-09 14:52:21;FA05;Fachabteilung;15760.61
+4500000089;Bestellanforderung genehmigen;2025-09-10 10:36:23;BL05;Bereichsleitung;15760.61
+4500000089;Bestellung anlegen;2025-09-11 01:51:07;EK03;Einkauf;15760.61
+4500000089;Bestellung ändern;2025-09-12 04:00:34;EK05;Einkauf;15760.61
+4500000089;Wareneingang buchen;2025-09-13 11:01:29;LG01;Lager;15760.61
+4500000089;Rechnung erfassen;2025-09-14 13:08:33;KB05;Kreditorenbuchhaltung;15760.61
+4500000089;Rechnungsprüfung;2025-09-15 15:01:26;KB03;Kreditorenbuchhaltung;15760.61
+4500000089;Rechnung freigeben;2025-09-30 00:44:58;BL04;Bereichsleitung;15760.61
+4500000089;Zahlung ausführen;2025-10-02 22:01:23;TR01;Treasury;15760.61
+4500000090;Bestellanforderung anlegen;2025-09-03 15:30:37;FA04;Fachabteilung;7325.31
+4500000090;Bestellanforderung genehmigen;2025-09-04 10:10:28;BL02;Bereichsleitung;7325.31
+4500000090;Bestellung anlegen;2025-09-05 07:53:55;EK02;Einkauf;7325.31
+4500000090;Wareneingang buchen;2025-09-07 07:33:53;LG05;Lager;7325.31
+4500000090;Rechnung erfassen;2025-09-10 05:02:19;KB01;Kreditorenbuchhaltung;7325.31
+4500000090;Rechnungsprüfung;2025-09-11 01:41:29;KB01;Kreditorenbuchhaltung;7325.31
+4500000090;Rechnung freigeben;2025-10-01 20:50:51;BL01;Bereichsleitung;7325.31
+4500000090;Zahlung ausführen;2025-10-04 08:11:40;TR05;Treasury;7325.31
+4500000091;Bestellanforderung anlegen;2025-01-27 16:14:00;FA01;Fachabteilung;12827.81
+4500000091;Bestellanforderung genehmigen;2025-01-28 09:42:53;BL01;Bereichsleitung;12827.81
+4500000091;Bestellung anlegen;2025-01-29 05:12:43;EK02;Einkauf;12827.81
+4500000091;Wareneingang buchen;2025-02-01 20:33:43;LG05;Lager;12827.81
+4500000091;Rechnung erfassen;2025-02-02 13:16:09;KB02;Kreditorenbuchhaltung;12827.81
+4500000091;Rechnungsprüfung;2025-02-03 23:21:08;KB03;Kreditorenbuchhaltung;12827.81
+4500000091;Rechnung freigeben;2025-02-06 15:51:27;BL04;Bereichsleitung;12827.81
+4500000091;Zahlung ausführen;2025-02-08 00:35:52;TR04;Treasury;12827.81
+4500000092;Bestellanforderung anlegen;2025-02-13 11:38:23;FA02;Fachabteilung;7805.26
+4500000092;Bestellanforderung genehmigen;2025-02-14 02:46:03;BL03;Bereichsleitung;7805.26
+4500000092;Bestellung anlegen;2025-02-14 16:01:07;EK05;Einkauf;7805.26
+4500000092;Wareneingang buchen;2025-02-16 21:12:41;LG02;Lager;7805.26
+4500000092;Rechnung erfassen;2025-02-18 07:03:57;KB03;Kreditorenbuchhaltung;7805.26
+4500000092;Rechnungsprüfung;2025-02-20 10:51:28;KB04;Kreditorenbuchhaltung;7805.26
+4500000092;Rechnung freigeben;2025-03-03 18:45:23;BL05;Bereichsleitung;7805.26
+4500000092;Zahlung ausführen;2025-03-05 04:28:22;TR02;Treasury;7805.26
+4500000093;Bestellanforderung anlegen;2025-09-18 10:57:37;FA01;Fachabteilung;10793.54
+4500000093;Bestellanforderung genehmigen;2025-09-19 06:46:08;BL03;Bereichsleitung;10793.54
+4500000093;Bestellung anlegen;2025-09-19 18:29:07;EK03;Einkauf;10793.54
+4500000093;Wareneingang buchen;2025-10-01 05:08:02;LG02;Lager;10793.54
+4500000093;Rechnung erfassen;2025-10-02 15:17:49;KB01;Kreditorenbuchhaltung;10793.54
+4500000093;Rechnungsprüfung;2025-10-04 00:56:52;KB04;Kreditorenbuchhaltung;10793.54
+4500000093;Rechnung freigeben;2025-10-12 20:49:02;BL03;Bereichsleitung;10793.54
+4500000093;Zahlung ausführen;2025-10-14 05:36:59;TR01;Treasury;10793.54
+4500000094;Bestellanforderung anlegen;2025-06-04 15:44:25;FA02;Fachabteilung;1437.66
+4500000094;Bestellung anlegen;2025-06-04 22:43:16;EK03;Einkauf;1437.66
+4500000094;Wareneingang buchen;2025-06-07 11:23:24;LG02;Lager;1437.66
+4500000094;Rechnung erfassen;2025-06-08 08:37:19;KB05;Kreditorenbuchhaltung;1437.66
+4500000094;Rechnungsprüfung;2025-06-10 18:19:06;KB04;Kreditorenbuchhaltung;1437.66
+4500000094;Rechnung freigeben;2025-06-11 13:51:05;BL01;Bereichsleitung;1437.66
+4500000094;Zahlung ausführen;2025-06-15 09:37:28;TR05;Treasury;1437.66
+4500000095;Bestellanforderung anlegen;2025-04-18 15:52:53;FA02;Fachabteilung;13794.95
+4500000095;Bestellanforderung genehmigen;2025-04-19 06:02:41;BL03;Bereichsleitung;13794.95
+4500000095;Bestellung anlegen;2025-04-20 01:39:43;EK01;Einkauf;13794.95
+4500000095;Wareneingang buchen;2025-04-22 06:11:30;LG04;Lager;13794.95
+4500000095;Rechnung erfassen;2025-04-23 05:39:55;KB02;Kreditorenbuchhaltung;13794.95
+4500000095;Rechnungsprüfung;2025-04-23 23:46:45;KB05;Kreditorenbuchhaltung;13794.95
+4500000095;Rechnung freigeben;2025-05-22 07:50:11;BL05;Bereichsleitung;13794.95
+4500000095;Zahlung ausführen;2025-05-25 04:17:07;TR03;Treasury;13794.95
+4500000096;Bestellanforderung anlegen;2025-06-20 10:57:38;FA04;Fachabteilung;5845.67
+4500000096;Bestellanforderung genehmigen;2025-06-21 05:12:34;BL02;Bereichsleitung;5845.67
+4500000096;Bestellung anlegen;2025-06-21 15:00:01;EK03;Einkauf;5845.67
+4500000096;Wareneingang buchen;2025-06-25 03:09:51;LG03;Lager;5845.67
+4500000096;Rechnung erfassen;2025-06-25 22:24:14;KB05;Kreditorenbuchhaltung;5845.67
+4500000096;Rechnungsprüfung;2025-06-26 20:07:02;KB01;Kreditorenbuchhaltung;5845.67
+4500000096;Rechnung freigeben;2025-07-07 09:40:20;BL01;Bereichsleitung;5845.67
+4500000096;Zahlung ausführen;2025-07-10 01:00:06;TR02;Treasury;5845.67
+4500000097;Bestellanforderung anlegen;2025-03-13 14:49:57;FA02;Fachabteilung;1345.67
+4500000097;Bestellung anlegen;2025-03-13 20:33:04;EK03;Einkauf;1345.67
+4500000097;Wareneingang buchen;2025-03-17 11:00:09;LG03;Lager;1345.67
+4500000097;Rechnung erfassen;2025-03-18 10:58:38;KB03;Kreditorenbuchhaltung;1345.67
+4500000097;Rechnungsprüfung;2025-03-19 17:46:06;KB04;Kreditorenbuchhaltung;1345.67
+4500000097;Rechnung korrigieren;2025-03-22 00:38:12;EK03;Einkauf;1345.67
+4500000097;Rechnungsprüfung;2025-03-22 13:47:06;KB03;Kreditorenbuchhaltung;1345.67
+4500000097;Rechnung freigeben;2025-03-23 04:03:37;BL03;Bereichsleitung;1345.67
+4500000097;Zahlung ausführen;2025-03-26 11:58:48;TR01;Treasury;1345.67
+4500000098;Bestellanforderung anlegen;2025-06-04 09:30:48;FA04;Fachabteilung;47866.93
+4500000098;Bestellanforderung genehmigen;2025-06-06 17:31:15;BL01;Bereichsleitung;47866.93
+4500000098;Bestellung anlegen;2025-06-06 22:40:55;EK04;Einkauf;47866.93
+4500000098;Wareneingang buchen;2025-06-09 09:14:31;LG05;Lager;47866.93
+4500000098;Rechnung erfassen;2025-06-10 02:09:21;KB03;Kreditorenbuchhaltung;47866.93
+4500000098;Rechnungsprüfung;2025-06-11 18:48:03;KB04;Kreditorenbuchhaltung;47866.93
+4500000098;Rechnung korrigieren;2025-06-13 01:27:03;EK02;Einkauf;47866.93
+4500000098;Rechnungsprüfung;2025-06-14 03:49:02;KB04;Kreditorenbuchhaltung;47866.93
+4500000098;Rechnung freigeben;2025-06-23 00:12:27;BL01;Bereichsleitung;47866.93
+4500000098;Zahlung ausführen;2025-06-25 11:50:20;TR05;Treasury;47866.93
+4500000099;Bestellanforderung anlegen;2025-04-15 16:00:32;FA01;Fachabteilung;12891.7
+4500000099;Bestellanforderung genehmigen;2025-04-16 02:40:09;BL05;Bereichsleitung;12891.7
+4500000099;Bestellung anlegen;2025-04-16 16:26:58;EK05;Einkauf;12891.7
+4500000099;Wareneingang buchen;2025-04-20 14:20:43;LG05;Lager;12891.7
+4500000099;Rechnung erfassen;2025-04-22 02:20:05;KB03;Kreditorenbuchhaltung;12891.7
+4500000099;Rechnungsprüfung;2025-04-22 13:40:56;KB04;Kreditorenbuchhaltung;12891.7
+4500000099;Rechnung freigeben;2025-05-03 05:43:44;BL04;Bereichsleitung;12891.7
+4500000099;Zahlung ausführen;2025-05-05 00:06:12;TR02;Treasury;12891.7
+4500000100;Bestellanforderung anlegen;2025-07-25 08:10:56;FA05;Fachabteilung;7129.99
+4500000100;Bestellanforderung genehmigen;2025-07-25 23:15:52;BL05;Bereichsleitung;7129.99
+4500000100;Bestellung anlegen;2025-07-27 13:28:31;EK04;Einkauf;7129.99
+4500000100;Bestellung ändern;2025-07-29 03:13:30;EK05;Einkauf;7129.99
+4500000100;Wareneingang buchen;2025-08-02 11:34:45;LG02;Lager;7129.99
+4500000100;Rechnung erfassen;2025-08-02 23:20:43;KB05;Kreditorenbuchhaltung;7129.99
+4500000100;Rechnungsprüfung;2025-08-03 13:25:15;KB05;Kreditorenbuchhaltung;7129.99
+4500000100;Rechnung freigeben;2025-08-13 15:13:31;BL03;Bereichsleitung;7129.99
+4500000100;Zahlung ausführen;2025-08-14 16:00:48;TR02;Treasury;7129.99
+4500000101;Bestellanforderung anlegen;2025-06-10 16:10:58;FA05;Fachabteilung;11355.02
+4500000101;Bestellanforderung genehmigen;2025-06-11 06:32:08;BL03;Bereichsleitung;11355.02
+4500000101;Bestellung anlegen;2025-06-12 03:24:35;EK02;Einkauf;11355.02
+4500000101;Wareneingang buchen;2025-06-18 00:56:27;LG01;Lager;11355.02
+4500000101;Rechnung erfassen;2025-06-18 11:18:25;KB05;Kreditorenbuchhaltung;11355.02
+4500000101;Rechnungsprüfung;2025-06-19 08:57:33;KB01;Kreditorenbuchhaltung;11355.02
+4500000101;Rechnung freigeben;2025-07-09 04:02:04;BL03;Bereichsleitung;11355.02
+4500000101;Zahlung ausführen;2025-07-10 04:20:04;TR02;Treasury;11355.02
+4500000102;Bestellanforderung anlegen;2025-03-24 10:24:11;FA04;Fachabteilung;6541.15
+4500000102;Bestellanforderung genehmigen;2025-03-25 02:05:34;BL04;Bereichsleitung;6541.15
+4500000102;Bestellung anlegen;2025-03-25 20:35:07;EK03;Einkauf;6541.15
+4500000102;Wareneingang buchen;2025-03-28 18:42:53;LG01;Lager;6541.15
+4500000102;Rechnung erfassen;2025-03-29 22:47:07;KB05;Kreditorenbuchhaltung;6541.15
+4500000102;Rechnungsprüfung;2025-03-31 17:54:39;KB03;Kreditorenbuchhaltung;6541.15
+4500000102;Rechnung freigeben;2025-04-19 02:46:15;BL03;Bereichsleitung;6541.15
+4500000102;Zahlung ausführen;2025-04-22 18:29:12;TR04;Treasury;6541.15
+4500000103;Bestellanforderung anlegen;2025-06-16 16:28:31;FA04;Fachabteilung;3237.86
+4500000103;Bestellung anlegen;2025-06-17 03:00:03;EK04;Einkauf;3237.86
+4500000103;Bestellung ändern;2025-06-17 20:39:34;EK02;Einkauf;3237.86
+4500000103;Wareneingang buchen;2025-06-21 05:06:23;LG01;Lager;3237.86
+4500000103;Rechnung erfassen;2025-06-22 03:57:24;KB05;Kreditorenbuchhaltung;3237.86
+4500000103;Rechnungsprüfung;2025-06-23 00:24:18;KB02;Kreditorenbuchhaltung;3237.86
+4500000103;Rechnung freigeben;2025-06-26 11:19:46;BL05;Bereichsleitung;3237.86
+4500000103;Zahlung ausführen;2025-06-29 11:04:37;TR03;Treasury;3237.86
+4500000104;Bestellanforderung anlegen;2025-05-28 14:58:14;FA04;Fachabteilung;42470.66
+4500000104;Bestellanforderung genehmigen;2025-05-29 02:08:28;BL02;Bereichsleitung;42470.66
+4500000104;Bestellung anlegen;2025-05-29 13:09:18;EK03;Einkauf;42470.66
+4500000104;Wareneingang buchen;2025-05-31 21:26:10;LG01;Lager;42470.66
+4500000104;Rechnung erfassen;2025-06-01 07:50:54;KB05;Kreditorenbuchhaltung;42470.66
+4500000104;Rechnungsprüfung;2025-06-01 21:14:00;KB02;Kreditorenbuchhaltung;42470.66
+4500000104;Rechnung freigeben;2025-06-03 21:36:38;BL03;Bereichsleitung;42470.66
+4500000104;Zahlung ausführen;2025-06-07 06:19:54;TR04;Treasury;42470.66
+4500000105;Bestellanforderung anlegen;2025-07-29 08:41:53;FA02;Fachabteilung;15112.8
+4500000105;Bestellanforderung genehmigen;2025-07-30 20:36:54;BL01;Bereichsleitung;15112.8
+4500000105;Bestellung anlegen;2025-07-31 14:16:44;EK03;Einkauf;15112.8
+4500000105;Wareneingang buchen;2025-08-03 05:37:18;LG02;Lager;15112.8
+4500000105;Rechnung erfassen;2025-08-04 07:48:10;KB05;Kreditorenbuchhaltung;15112.8
+4500000105;Rechnungsprüfung;2025-08-04 22:47:34;KB04;Kreditorenbuchhaltung;15112.8
+4500000105;Rechnung korrigieren;2025-08-07 22:49:15;EK03;Einkauf;15112.8
+4500000105;Rechnungsprüfung;2025-08-08 10:42:07;KB04;Kreditorenbuchhaltung;15112.8
+4500000105;Rechnung freigeben;2025-08-17 21:39:55;BL03;Bereichsleitung;15112.8
+4500000105;Zahlung ausführen;2025-08-19 23:57:08;TR03;Treasury;15112.8
+4500000106;Bestellanforderung anlegen;2025-09-09 14:31:48;FA05;Fachabteilung;67215.35
+4500000106;Bestellanforderung genehmigen;2025-09-10 10:22:32;BL01;Bereichsleitung;67215.35
+4500000106;Bestellung anlegen;2025-09-10 20:19:55;EK05;Einkauf;67215.35
+4500000106;Wareneingang buchen;2025-09-14 09:55:33;LG05;Lager;67215.35
+4500000106;Rechnung erfassen;2025-09-16 10:28:24;KB04;Kreditorenbuchhaltung;67215.35
+4500000106;Rechnungsprüfung;2025-09-17 01:15:56;KB04;Kreditorenbuchhaltung;67215.35
+4500000106;Rechnung freigeben;2025-09-26 06:06:00;BL03;Bereichsleitung;67215.35
+4500000106;Zahlung ausführen;2025-09-28 00:53:10;TR05;Treasury;67215.35
+4500000107;Bestellanforderung anlegen;2025-02-06 10:31:19;FA02;Fachabteilung;9791.56
+4500000107;Bestellanforderung genehmigen;2025-02-07 06:41:24;BL04;Bereichsleitung;9791.56
+4500000107;Bestellung anlegen;2025-02-07 16:47:19;EK03;Einkauf;9791.56
+4500000107;Wareneingang buchen;2025-02-16 16:34:30;LG03;Lager;9791.56
+4500000107;Rechnung erfassen;2025-02-18 01:54:54;KB01;Kreditorenbuchhaltung;9791.56
+4500000107;Rechnungsprüfung;2025-02-20 16:53:24;KB05;Kreditorenbuchhaltung;9791.56
+4500000107;Rechnung freigeben;2025-02-23 18:47:10;BL01;Bereichsleitung;9791.56
+4500000107;Zahlung ausführen;2025-02-26 20:01:02;TR05;Treasury;9791.56
+4500000108;Bestellanforderung anlegen;2025-09-23 16:02:03;FA01;Fachabteilung;15069.6
+4500000108;Bestellanforderung genehmigen;2025-09-24 12:46:14;BL05;Bereichsleitung;15069.6
+4500000108;Bestellung anlegen;2025-09-24 19:33:21;EK01;Einkauf;15069.6
+4500000108;Wareneingang buchen;2025-09-27 09:44:45;LG05;Lager;15069.6
+4500000108;Rechnung erfassen;2025-09-27 21:37:08;KB01;Kreditorenbuchhaltung;15069.6
+4500000108;Rechnungsprüfung;2025-09-28 15:24:40;KB04;Kreditorenbuchhaltung;15069.6
+4500000108;Rechnung freigeben;2025-10-04 01:13:09;BL02;Bereichsleitung;15069.6
+4500000108;Zahlung ausführen;2025-10-06 15:20:24;TR03;Treasury;15069.6
+4500000109;Bestellanforderung anlegen;2025-03-19 14:47:04;FA01;Fachabteilung;10766.19
+4500000109;Bestellanforderung genehmigen;2025-03-20 03:39:21;BL05;Bereichsleitung;10766.19
+4500000109;Bestellung anlegen;2025-03-20 19:06:04;EK04;Einkauf;10766.19
+4500000109;Wareneingang buchen;2025-03-21 11:32:51;LG02;Lager;10766.19
+4500000109;Rechnung erfassen;2025-03-22 00:47:34;KB02;Kreditorenbuchhaltung;10766.19
+4500000109;Rechnungsprüfung;2025-03-23 01:17:24;KB05;Kreditorenbuchhaltung;10766.19
+4500000109;Rechnung freigeben;2025-03-28 19:59:01;BL01;Bereichsleitung;10766.19
+4500000109;Zahlung ausführen;2025-03-31 07:09:02;TR05;Treasury;10766.19
+4500000110;Bestellanforderung anlegen;2025-07-04 10:25:49;FA03;Fachabteilung;4362.33
+4500000110;Bestellung anlegen;2025-07-04 23:34:08;EK04;Einkauf;4362.33
+4500000110;Wareneingang buchen;2025-07-10 12:58:27;LG02;Lager;4362.33
+4500000110;Rechnung erfassen;2025-07-13 14:03:54;KB01;Kreditorenbuchhaltung;4362.33
+4500000110;Rechnungsprüfung;2025-07-15 05:35:03;KB04;Kreditorenbuchhaltung;4362.33
+4500000110;Rechnung freigeben;2025-07-15 22:53:14;BL05;Bereichsleitung;4362.33
+4500000110;Zahlung ausführen;2025-07-18 02:17:25;TR05;Treasury;4362.33
+4500000111;Bestellanforderung anlegen;2025-01-06 13:31:05;FA01;Fachabteilung;10808.73
+4500000111;Bestellanforderung genehmigen;2025-01-06 20:40:36;BL02;Bereichsleitung;10808.73
+4500000111;Bestellung anlegen;2025-01-07 04:41:44;EK01;Einkauf;10808.73
+4500000111;Wareneingang buchen;2025-01-08 19:33:34;LG04;Lager;10808.73
+4500000111;Rechnung erfassen;2025-01-09 11:52:33;KB05;Kreditorenbuchhaltung;10808.73
+4500000111;Rechnungsprüfung;2025-01-10 05:20:47;KB03;Kreditorenbuchhaltung;10808.73
+4500000111;Rechnung freigeben;2025-01-21 16:36:35;BL05;Bereichsleitung;10808.73
+4500000111;Zahlung ausführen;2025-01-25 13:42:59;TR05;Treasury;10808.73
+4500000112;Bestellanforderung anlegen;2025-02-26 15:15:41;FA02;Fachabteilung;7006.77
+4500000112;Bestellanforderung genehmigen;2025-02-27 09:28:49;BL05;Bereichsleitung;7006.77
+4500000112;Bestellung anlegen;2025-02-27 18:22:41;EK04;Einkauf;7006.77
+4500000112;Wareneingang buchen;2025-03-04 09:49:09;LG04;Lager;7006.77
+4500000112;Rechnung erfassen;2025-03-05 17:17:14;KB04;Kreditorenbuchhaltung;7006.77
+4500000112;Rechnungsprüfung;2025-03-06 13:17:34;KB01;Kreditorenbuchhaltung;7006.77
+4500000112;Rechnung freigeben;2025-03-14 09:35:26;BL05;Bereichsleitung;7006.77
+4500000112;Zahlung ausführen;2025-03-17 00:58:30;TR02;Treasury;7006.77
+4500000113;Bestellanforderung anlegen;2025-06-30 15:58:54;FA05;Fachabteilung;2009.06
+4500000113;Bestellung anlegen;2025-06-30 23:38:25;EK04;Einkauf;2009.06
+4500000113;Wareneingang buchen;2025-07-02 17:42:14;LG05;Lager;2009.06
+4500000113;Rechnung erfassen;2025-07-03 17:42:01;KB05;Kreditorenbuchhaltung;2009.06
+4500000113;Rechnungsprüfung;2025-07-04 17:01:38;KB01;Kreditorenbuchhaltung;2009.06
+4500000113;Rechnung freigeben;2025-07-06 13:34:16;BL01;Bereichsleitung;2009.06
+4500000113;Zahlung ausführen;2025-07-08 18:54:00;TR03;Treasury;2009.06
+4500000114;Bestellanforderung anlegen;2025-03-14 09:30:23;FA03;Fachabteilung;1794.1
+4500000114;Bestellung anlegen;2025-03-14 23:06:10;EK05;Einkauf;1794.1
+4500000114;Bestellung ändern;2025-03-16 12:12:16;EK05;Einkauf;1794.1
+4500000114;Wareneingang buchen;2025-03-18 01:27:16;LG05;Lager;1794.1
+4500000114;Rechnung erfassen;2025-03-19 10:40:56;KB04;Kreditorenbuchhaltung;1794.1
+4500000114;Rechnungsprüfung;2025-03-20 00:39:00;KB02;Kreditorenbuchhaltung;1794.1
+4500000114;Rechnung freigeben;2025-03-20 21:06:56;BL02;Bereichsleitung;1794.1
+4500000114;Zahlung ausführen;2025-03-22 17:47:31;TR04;Treasury;1794.1
+4500000115;Bestellanforderung anlegen;2025-05-21 14:27:50;FA03;Fachabteilung;14455.36
+4500000115;Bestellanforderung genehmigen;2025-05-23 05:30:11;BL01;Bereichsleitung;14455.36
+4500000115;Bestellung anlegen;2025-05-23 18:21:21;EK04;Einkauf;14455.36
+4500000115;Wareneingang buchen;2025-05-27 00:15:09;LG05;Lager;14455.36
+4500000115;Rechnung erfassen;2025-05-27 16:01:40;KB04;Kreditorenbuchhaltung;14455.36
+4500000115;Rechnungsprüfung;2025-05-28 04:33:49;KB05;Kreditorenbuchhaltung;14455.36
+4500000115;Rechnung freigeben;2025-06-02 11:31:21;BL03;Bereichsleitung;14455.36
+4500000115;Zahlung ausführen;2025-06-04 01:13:11;TR04;Treasury;14455.36
+4500000116;Bestellanforderung anlegen;2025-09-25 13:05:14;FA04;Fachabteilung;6791.45
+4500000116;Bestellanforderung genehmigen;2025-09-26 08:32:20;BL05;Bereichsleitung;6791.45
+4500000116;Bestellung anlegen;2025-09-26 16:52:08;EK05;Einkauf;6791.45
+4500000116;Wareneingang buchen;2025-09-27 22:49:19;LG01;Lager;6791.45
+4500000116;Rechnung erfassen;2025-09-28 23:57:28;KB02;Kreditorenbuchhaltung;6791.45
+4500000116;Rechnungsprüfung;2025-09-29 07:36:06;KB05;Kreditorenbuchhaltung;6791.45
+4500000116;Rechnung freigeben;2025-10-04 10:59:08;BL03;Bereichsleitung;6791.45
+4500000116;Zahlung ausführen;2025-10-06 05:00:28;TR05;Treasury;6791.45
+4500000117;Bestellanforderung anlegen;2025-02-26 14:43:51;FA01;Fachabteilung;3478.66
+4500000117;Bestellung anlegen;2025-02-27 06:52:48;EK04;Einkauf;3478.66
+4500000117;Bestellung ändern;2025-02-28 05:07:01;EK04;Einkauf;3478.66
+4500000117;Wareneingang buchen;2025-03-03 10:21:29;LG01;Lager;3478.66
+4500000117;Rechnung erfassen;2025-03-04 09:47:14;KB04;Kreditorenbuchhaltung;3478.66
+4500000117;Rechnungsprüfung;2025-03-05 00:46:53;KB01;Kreditorenbuchhaltung;3478.66
+4500000117;Rechnung freigeben;2025-03-06 02:59:30;BL03;Bereichsleitung;3478.66
+4500000117;Zahlung ausführen;2025-03-08 03:46:23;TR01;Treasury;3478.66
+4500000118;Bestellanforderung anlegen;2025-09-29 13:04:23;FA04;Fachabteilung;2884.49
+4500000118;Bestellung anlegen;2025-09-30 01:04:26;EK04;Einkauf;2884.49
+4500000118;Wareneingang buchen;2025-10-01 06:45:22;LG01;Lager;2884.49
+4500000118;Rechnung erfassen;2025-10-02 01:08:19;KB01;Kreditorenbuchhaltung;2884.49
+4500000118;Rechnungsprüfung;2025-10-02 19:00:11;KB03;Kreditorenbuchhaltung;2884.49
+4500000118;Rechnung freigeben;2025-10-04 10:11:16;BL02;Bereichsleitung;2884.49
+4500000118;Zahlung ausführen;2025-10-08 02:15:14;TR04;Treasury;2884.49
+4500000119;Bestellanforderung anlegen;2025-07-15 12:01:51;FA02;Fachabteilung;5582.75
+4500000119;Bestellanforderung genehmigen;2025-07-15 18:29:53;BL04;Bereichsleitung;5582.75
+4500000119;Bestellung anlegen;2025-07-16 01:34:30;EK05;Einkauf;5582.75
+4500000119;Wareneingang buchen;2025-07-17 22:08:28;LG05;Lager;5582.75
+4500000119;Rechnung erfassen;2025-07-19 20:27:01;KB01;Kreditorenbuchhaltung;5582.75
+4500000119;Rechnungsprüfung;2025-07-23 05:07:36;KB01;Kreditorenbuchhaltung;5582.75
+4500000119;Rechnung korrigieren;2025-07-25 05:52:22;EK05;Einkauf;5582.75
+4500000119;Rechnungsprüfung;2025-07-25 14:47:25;KB02;Kreditorenbuchhaltung;5582.75
+4500000119;Rechnung freigeben;2025-08-04 08:21:20;BL01;Bereichsleitung;5582.75
+4500000119;Zahlung ausführen;2025-08-05 20:50:43;TR03;Treasury;5582.75
+4500000120;Bestellanforderung anlegen;2025-05-14 15:23:46;FA04;Fachabteilung;4253.02
+4500000120;Bestellung anlegen;2025-05-15 07:27:31;EK02;Einkauf;4253.02
+4500000120;Wareneingang buchen;2025-05-17 10:33:53;LG02;Lager;4253.02
+4500000120;Rechnung erfassen;2025-05-18 21:38:52;KB03;Kreditorenbuchhaltung;4253.02
+4500000120;Rechnungsprüfung;2025-05-20 01:43:58;KB01;Kreditorenbuchhaltung;4253.02
+4500000120;Rechnung korrigieren;2025-05-21 15:28:59;EK02;Einkauf;4253.02
+4500000120;Rechnungsprüfung;2025-05-21 23:15:45;KB01;Kreditorenbuchhaltung;4253.02
+4500000120;Rechnung freigeben;2025-05-25 16:15:40;BL04;Bereichsleitung;4253.02
+4500000120;Zahlung ausführen;2025-05-29 11:03:37;TR03;Treasury;4253.02
+4500000121;Bestellanforderung anlegen;2025-06-06 14:39:21;FA04;Fachabteilung;5200.34
+4500000121;Bestellanforderung genehmigen;2025-06-06 23:08:45;BL04;Bereichsleitung;5200.34
+4500000121;Bestellung anlegen;2025-06-07 10:56:11;EK04;Einkauf;5200.34
+4500000121;Wareneingang buchen;2025-06-10 00:32:16;LG04;Lager;5200.34
+4500000121;Rechnung erfassen;2025-06-10 07:56:29;KB04;Kreditorenbuchhaltung;5200.34
+4500000121;Rechnungsprüfung;2025-06-11 04:37:24;KB01;Kreditorenbuchhaltung;5200.34
+4500000121;Rechnung freigeben;2025-06-16 06:34:20;BL01;Bereichsleitung;5200.34
+4500000121;Zahlung ausführen;2025-06-19 07:53:35;TR05;Treasury;5200.34
+4500000122;Bestellanforderung anlegen;2025-03-20 14:55:11;FA03;Fachabteilung;7590.66
+4500000122;Bestellanforderung genehmigen;2025-03-21 02:36:17;BL04;Bereichsleitung;7590.66
+4500000122;Bestellung anlegen;2025-03-21 12:38:52;EK02;Einkauf;7590.66
+4500000122;Wareneingang buchen;2025-03-25 07:19:14;LG01;Lager;7590.66
+4500000122;Rechnung erfassen;2025-03-25 19:24:44;KB05;Kreditorenbuchhaltung;7590.66
+4500000122;Rechnungsprüfung;2025-03-27 01:52:40;KB01;Kreditorenbuchhaltung;7590.66
+4500000122;Rechnung freigeben;2025-03-29 12:03:04;BL03;Bereichsleitung;7590.66
+4500000122;Zahlung ausführen;2025-03-31 11:03:12;TR01;Treasury;7590.66
+4500000123;Bestellanforderung anlegen;2025-09-11 07:37:32;FA02;Fachabteilung;6306.36
+4500000123;Bestellanforderung genehmigen;2025-09-11 15:47:21;BL03;Bereichsleitung;6306.36
+4500000123;Bestellung anlegen;2025-09-11 22:39:28;EK05;Einkauf;6306.36
+4500000123;Wareneingang buchen;2025-09-13 13:05:08;LG02;Lager;6306.36
+4500000123;Rechnung erfassen;2025-09-15 09:30:04;KB04;Kreditorenbuchhaltung;6306.36
+4500000123;Rechnungsprüfung;2025-09-15 21:46:12;KB05;Kreditorenbuchhaltung;6306.36
+4500000123;Rechnung freigeben;2025-09-22 17:47:15;BL02;Bereichsleitung;6306.36
+4500000123;Zahlung ausführen;2025-09-26 10:21:36;TR04;Treasury;6306.36
+4500000124;Bestellanforderung anlegen;2025-05-09 14:41:04;FA05;Fachabteilung;18750.15
+4500000124;Bestellanforderung genehmigen;2025-05-10 21:22:18;BL05;Bereichsleitung;18750.15
+4500000124;Bestellung anlegen;2025-05-12 01:56:47;EK01;Einkauf;18750.15
+4500000124;Bestellung ändern;2025-05-12 18:27:39;EK03;Einkauf;18750.15
+4500000124;Wareneingang buchen;2025-05-13 20:32:22;LG01;Lager;18750.15
+4500000124;Rechnung erfassen;2025-05-14 23:07:23;KB04;Kreditorenbuchhaltung;18750.15
+4500000124;Rechnungsprüfung;2025-05-16 19:31:30;KB02;Kreditorenbuchhaltung;18750.15
+4500000124;Rechnung freigeben;2025-06-06 00:51:05;BL03;Bereichsleitung;18750.15
+4500000124;Zahlung ausführen;2025-06-07 03:59:36;TR05;Treasury;18750.15
+4500000125;Bestellanforderung anlegen;2025-06-19 07:38:07;FA05;Fachabteilung;7940.02
+4500000125;Bestellanforderung genehmigen;2025-06-20 18:39:55;BL04;Bereichsleitung;7940.02
+4500000125;Bestellung anlegen;2025-06-21 01:30:53;EK01;Einkauf;7940.02
+4500000125;Wareneingang buchen;2025-06-25 12:52:30;LG01;Lager;7940.02
+4500000125;Rechnung erfassen;2025-06-26 12:18:13;KB04;Kreditorenbuchhaltung;7940.02
+4500000125;Rechnungsprüfung;2025-06-27 05:14:16;KB04;Kreditorenbuchhaltung;7940.02
+4500000125;Rechnung freigeben;2025-06-30 11:51:41;BL01;Bereichsleitung;7940.02
+4500000125;Zahlung ausführen;2025-07-02 05:11:30;TR03;Treasury;7940.02
+4500000126;Bestellanforderung anlegen;2025-08-12 10:39:34;FA02;Fachabteilung;11809.23
+4500000126;Bestellanforderung genehmigen;2025-08-13 06:53:53;BL01;Bereichsleitung;11809.23
+4500000126;Bestellung anlegen;2025-08-13 15:22:37;EK03;Einkauf;11809.23
+4500000126;Wareneingang buchen;2025-08-15 07:07:08;LG05;Lager;11809.23
+4500000126;Rechnung erfassen;2025-08-16 02:32:45;KB03;Kreditorenbuchhaltung;11809.23
+4500000126;Rechnungsprüfung;2025-08-17 22:24:01;KB04;Kreditorenbuchhaltung;11809.23
+4500000126;Rechnung korrigieren;2025-08-20 01:25:01;EK01;Einkauf;11809.23
+4500000126;Rechnungsprüfung;2025-08-20 20:02:37;KB03;Kreditorenbuchhaltung;11809.23
+4500000126;Rechnung freigeben;2025-08-25 23:25:09;BL04;Bereichsleitung;11809.23
+4500000126;Zahlung ausführen;2025-08-28 07:09:43;TR03;Treasury;11809.23
+4500000127;Bestellanforderung anlegen;2025-08-29 16:01:42;FA04;Fachabteilung;10438.14
+4500000127;Bestellanforderung genehmigen;2025-08-30 04:39:03;BL04;Bereichsleitung;10438.14
+4500000127;Bestellung anlegen;2025-08-31 15:45:15;EK04;Einkauf;10438.14
+4500000127;Wareneingang buchen;2025-09-05 15:40:02;LG05;Lager;10438.14
+4500000127;Rechnung erfassen;2025-09-06 13:25:07;KB03;Kreditorenbuchhaltung;10438.14
+4500000127;Rechnungsprüfung;2025-09-08 16:53:35;KB03;Kreditorenbuchhaltung;10438.14
+4500000127;Rechnung freigeben;2025-09-21 20:29:04;BL05;Bereichsleitung;10438.14
+4500000127;Zahlung ausführen;2025-09-25 16:51:40;TR03;Treasury;10438.14
+4500000128;Bestellanforderung anlegen;2025-04-14 07:59:10;FA01;Fachabteilung;7321.12
+4500000128;Bestellanforderung genehmigen;2025-04-14 14:21:03;BL03;Bereichsleitung;7321.12
+4500000128;Bestellung anlegen;2025-04-14 20:19:37;EK05;Einkauf;7321.12
+4500000128;Wareneingang buchen;2025-04-18 08:42:02;LG02;Lager;7321.12
+4500000128;Rechnung erfassen;2025-04-19 08:21:40;KB03;Kreditorenbuchhaltung;7321.12
+4500000128;Rechnungsprüfung;2025-04-20 06:35:32;KB01;Kreditorenbuchhaltung;7321.12
+4500000128;Rechnung freigeben;2025-05-02 13:01:04;BL02;Bereichsleitung;7321.12
+4500000128;Zahlung ausführen;2025-05-04 13:35:27;TR02;Treasury;7321.12
+4500000129;Bestellanforderung anlegen;2025-05-23 14:04:50;FA04;Fachabteilung;2731.33
+4500000129;Bestellung anlegen;2025-05-23 20:49:15;EK02;Einkauf;2731.33
+4500000129;Wareneingang buchen;2025-05-27 13:42:04;LG04;Lager;2731.33
+4500000129;Rechnung erfassen;2025-05-28 06:35:21;KB05;Kreditorenbuchhaltung;2731.33
+4500000129;Rechnungsprüfung;2025-05-29 16:43:36;KB03;Kreditorenbuchhaltung;2731.33
+4500000129;Rechnung freigeben;2025-05-30 17:47:32;BL04;Bereichsleitung;2731.33
+4500000129;Zahlung ausführen;2025-06-02 05:29:55;TR04;Treasury;2731.33
+4500000130;Bestellanforderung anlegen;2025-01-28 11:51:42;FA02;Fachabteilung;52315.28
+4500000130;Bestellanforderung genehmigen;2025-01-28 20:41:27;BL03;Bereichsleitung;52315.28
+4500000130;Bestellung anlegen;2025-01-29 00:44:51;EK05;Einkauf;52315.28
+4500000130;Wareneingang buchen;2025-01-31 23:15:37;LG01;Lager;52315.28
+4500000130;Rechnung erfassen;2025-02-02 15:06:36;KB03;Kreditorenbuchhaltung;52315.28
+4500000130;Rechnungsprüfung;2025-02-03 22:47:54;KB02;Kreditorenbuchhaltung;52315.28
+4500000130;Rechnung freigeben;2025-02-21 09:04:23;BL05;Bereichsleitung;52315.28
+4500000130;Zahlung ausführen;2025-02-23 01:27:20;TR05;Treasury;52315.28
+4500000131;Bestellanforderung anlegen;2025-02-13 10:51:12;FA05;Fachabteilung;6599.83
+4500000131;Bestellanforderung genehmigen;2025-02-14 04:03:08;BL04;Bereichsleitung;6599.83
+4500000131;Bestellung anlegen;2025-02-14 15:55:58;EK04;Einkauf;6599.83
+4500000131;Wareneingang buchen;2025-02-17 14:23:05;LG02;Lager;6599.83
+4500000131;Rechnung erfassen;2025-02-17 21:45:11;KB02;Kreditorenbuchhaltung;6599.83
+4500000131;Rechnungsprüfung;2025-02-20 09:27:25;KB01;Kreditorenbuchhaltung;6599.83
+4500000131;Rechnung freigeben;2025-02-25 09:45:03;BL02;Bereichsleitung;6599.83
+4500000131;Zahlung ausführen;2025-02-28 18:38:04;TR05;Treasury;6599.83
+4500000132;Bestellanforderung anlegen;2025-09-15 14:17:24;FA05;Fachabteilung;2829.08
+4500000132;Bestellung anlegen;2025-09-15 20:21:37;EK02;Einkauf;2829.08
+4500000132;Wareneingang buchen;2025-09-18 23:14:47;LG02;Lager;2829.08
+4500000132;Rechnung erfassen;2025-09-19 20:17:36;KB02;Kreditorenbuchhaltung;2829.08
+4500000132;Rechnungsprüfung;2025-09-21 08:14:04;KB03;Kreditorenbuchhaltung;2829.08
+4500000132;Rechnung freigeben;2025-09-21 23:17:45;BL04;Bereichsleitung;2829.08
+4500000132;Zahlung ausführen;2025-09-25 12:35:04;TR01;Treasury;2829.08
+4500000133;Bestellanforderung anlegen;2025-09-30 13:48:34;FA04;Fachabteilung;8708.23
+4500000133;Bestellanforderung genehmigen;2025-10-01 08:25:51;BL01;Bereichsleitung;8708.23
+4500000133;Bestellung anlegen;2025-10-01 12:00:02;EK03;Einkauf;8708.23
+4500000133;Wareneingang buchen;2025-10-03 07:59:46;LG04;Lager;8708.23
+4500000133;Rechnung erfassen;2025-10-03 23:57:09;KB01;Kreditorenbuchhaltung;8708.23
+4500000133;Rechnungsprüfung;2025-10-04 17:50:00;KB04;Kreditorenbuchhaltung;8708.23
+4500000133;Rechnung freigeben;2025-10-10 01:17:02;BL02;Bereichsleitung;8708.23
+4500000133;Zahlung ausführen;2025-10-13 00:03:45;TR01;Treasury;8708.23
+4500000134;Bestellanforderung anlegen;2025-05-27 11:13:06;FA03;Fachabteilung;3482.56
+4500000134;Bestellung anlegen;2025-05-27 21:42:11;EK02;Einkauf;3482.56
+4500000134;Wareneingang buchen;2025-05-30 11:18:27;LG05;Lager;3482.56
+4500000134;Rechnung erfassen;2025-05-30 22:26:05;KB02;Kreditorenbuchhaltung;3482.56
+4500000134;Rechnungsprüfung;2025-06-01 03:51:17;KB04;Kreditorenbuchhaltung;3482.56
+4500000134;Rechnung korrigieren;2025-06-03 08:25:04;EK02;Einkauf;3482.56
+4500000134;Rechnungsprüfung;2025-06-03 19:22:28;KB01;Kreditorenbuchhaltung;3482.56
+4500000134;Rechnung freigeben;2025-06-05 11:30:30;BL03;Bereichsleitung;3482.56
+4500000134;Zahlung ausführen;2025-06-07 03:41:08;TR02;Treasury;3482.56
+4500000135;Bestellanforderung anlegen;2025-07-31 13:58:38;FA02;Fachabteilung;48592.78
+4500000135;Bestellanforderung genehmigen;2025-08-01 01:16:46;BL05;Bereichsleitung;48592.78
+4500000135;Bestellung anlegen;2025-08-01 21:48:14;EK04;Einkauf;48592.78
+4500000135;Bestellung ändern;2025-08-02 13:52:19;EK02;Einkauf;48592.78
+4500000135;Wareneingang buchen;2025-08-03 23:14:00;LG05;Lager;48592.78
+4500000135;Rechnung erfassen;2025-08-05 01:35:15;KB02;Kreditorenbuchhaltung;48592.78
+4500000135;Rechnungsprüfung;2025-08-06 02:13:49;KB01;Kreditorenbuchhaltung;48592.78
+4500000135;Rechnung freigeben;2025-08-11 13:26:58;BL01;Bereichsleitung;48592.78
+4500000135;Zahlung ausführen;2025-08-13 03:02:41;TR05;Treasury;48592.78
+4500000136;Bestellanforderung anlegen;2025-01-07 08:47:20;FA01;Fachabteilung;4259.09
+4500000136;Bestellung anlegen;2025-01-07 17:57:36;EK05;Einkauf;4259.09
+4500000136;Wareneingang buchen;2025-01-10 16:32:47;LG03;Lager;4259.09
+4500000136;Rechnung erfassen;2025-01-11 16:57:43;KB05;Kreditorenbuchhaltung;4259.09
+4500000136;Rechnungsprüfung;2025-01-12 15:02:43;KB02;Kreditorenbuchhaltung;4259.09
+4500000136;Rechnung korrigieren;2025-01-14 02:51:25;EK04;Einkauf;4259.09
+4500000136;Rechnungsprüfung;2025-01-15 12:23:34;KB05;Kreditorenbuchhaltung;4259.09
+4500000136;Rechnung freigeben;2025-01-16 13:57:24;BL05;Bereichsleitung;4259.09
+4500000136;Zahlung ausführen;2025-01-18 14:54:18;TR03;Treasury;4259.09
+4500000137;Bestellanforderung anlegen;2025-08-11 12:19:19;FA05;Fachabteilung;9850.66
+4500000137;Bestellanforderung genehmigen;2025-08-12 15:26:49;BL03;Bereichsleitung;9850.66
+4500000137;Bestellung anlegen;2025-08-12 20:33:33;EK01;Einkauf;9850.66
+4500000137;Wareneingang buchen;2025-08-14 12:28:06;LG05;Lager;9850.66
+4500000137;Rechnung erfassen;2025-08-15 10:46:08;KB01;Kreditorenbuchhaltung;9850.66
+4500000137;Rechnungsprüfung;2025-08-17 00:59:34;KB05;Kreditorenbuchhaltung;9850.66
+4500000137;Rechnung freigeben;2025-08-21 14:50:50;BL04;Bereichsleitung;9850.66
+4500000137;Zahlung ausführen;2025-08-23 20:52:30;TR04;Treasury;9850.66
+4500000138;Bestellanforderung anlegen;2025-01-09 11:32:57;FA04;Fachabteilung;5009.94
+4500000138;Bestellanforderung genehmigen;2025-01-09 23:20:17;BL04;Bereichsleitung;5009.94
+4500000138;Bestellung anlegen;2025-01-10 05:40:21;EK02;Einkauf;5009.94
+4500000138;Wareneingang buchen;2025-01-12 13:25:49;LG01;Lager;5009.94
+4500000138;Rechnung erfassen;2025-01-13 20:24:30;KB02;Kreditorenbuchhaltung;5009.94
+4500000138;Rechnungsprüfung;2025-01-14 08:37:50;KB02;Kreditorenbuchhaltung;5009.94
+4500000138;Rechnung freigeben;2025-01-23 11:24:38;BL04;Bereichsleitung;5009.94
+4500000138;Zahlung ausführen;2025-01-25 04:40:14;TR03;Treasury;5009.94
+4500000139;Bestellanforderung anlegen;2025-09-17 15:05:34;FA05;Fachabteilung;5362.99
+4500000139;Bestellanforderung genehmigen;2025-09-18 02:41:03;BL05;Bereichsleitung;5362.99
+4500000139;Bestellung anlegen;2025-09-18 10:50:20;EK03;Einkauf;5362.99
+4500000139;Wareneingang buchen;2025-09-20 15:05:28;LG04;Lager;5362.99
+4500000139;Rechnung erfassen;2025-09-21 20:24:54;KB01;Kreditorenbuchhaltung;5362.99
+4500000139;Rechnungsprüfung;2025-09-22 14:15:09;KB01;Kreditorenbuchhaltung;5362.99
+4500000139;Rechnung freigeben;2025-09-24 05:13:34;BL05;Bereichsleitung;5362.99
+4500000139;Zahlung ausführen;2025-09-27 11:31:27;TR04;Treasury;5362.99
+4500000140;Bestellanforderung anlegen;2025-01-31 11:28:56;FA04;Fachabteilung;33051.31
+4500000140;Bestellanforderung genehmigen;2025-02-01 08:04:18;BL03;Bereichsleitung;33051.31
+4500000140;Bestellung anlegen;2025-02-01 21:06:50;EK01;Einkauf;33051.31
+4500000140;Wareneingang buchen;2025-02-04 01:33:25;LG05;Lager;33051.31
+4500000140;Rechnung erfassen;2025-02-04 10:28:06;KB02;Kreditorenbuchhaltung;33051.31
+4500000140;Rechnungsprüfung;2025-02-07 13:16:40;KB05;Kreditorenbuchhaltung;33051.31
+4500000140;Rechnung freigeben;2025-02-18 15:29:39;BL01;Bereichsleitung;33051.31
+4500000140;Zahlung ausführen;2025-02-19 16:09:55;TR02;Treasury;33051.31
+4500000141;Bestellanforderung anlegen;2025-06-16 09:52:09;FA01;Fachabteilung;5833.73
+4500000141;Bestellanforderung genehmigen;2025-06-16 18:01:09;BL04;Bereichsleitung;5833.73
+4500000141;Bestellung anlegen;2025-06-17 01:07:51;EK02;Einkauf;5833.73
+4500000141;Wareneingang buchen;2025-06-20 06:54:26;LG01;Lager;5833.73
+4500000141;Rechnung erfassen;2025-06-21 13:13:36;KB05;Kreditorenbuchhaltung;5833.73
+4500000141;Rechnungsprüfung;2025-06-24 00:00:15;KB05;Kreditorenbuchhaltung;5833.73
+4500000141;Rechnung freigeben;2025-06-29 06:19:29;BL04;Bereichsleitung;5833.73
+4500000141;Zahlung ausführen;2025-07-01 12:54:44;TR02;Treasury;5833.73
+4500000142;Bestellanforderung anlegen;2025-05-28 14:58:44;FA01;Fachabteilung;3066.64
+4500000142;Bestellung anlegen;2025-05-28 23:06:10;EK03;Einkauf;3066.64
+4500000142;Wareneingang buchen;2025-06-02 03:29:37;LG02;Lager;3066.64
+4500000142;Rechnung erfassen;2025-06-02 21:35:09;KB01;Kreditorenbuchhaltung;3066.64
+4500000142;Rechnungsprüfung;2025-06-03 14:03:19;KB03;Kreditorenbuchhaltung;3066.64
+4500000142;Rechnung freigeben;2025-06-04 16:18:46;BL04;Bereichsleitung;3066.64
+4500000142;Zahlung ausführen;2025-06-08 02:59:54;TR04;Treasury;3066.64
+4500000143;Bestellanforderung anlegen;2025-01-29 10:29:16;FA05;Fachabteilung;6143.68
+4500000143;Bestellanforderung genehmigen;2025-01-30 13:50:25;BL03;Bereichsleitung;6143.68
+4500000143;Bestellung anlegen;2025-01-30 23:23:27;EK05;Einkauf;6143.68
+4500000143;Wareneingang buchen;2025-02-02 05:29:13;LG02;Lager;6143.68
+4500000143;Rechnung erfassen;2025-02-03 17:13:04;KB05;Kreditorenbuchhaltung;6143.68
+4500000143;Rechnungsprüfung;2025-02-04 08:44:18;KB05;Kreditorenbuchhaltung;6143.68
+4500000143;Rechnung freigeben;2025-02-08 08:30:56;BL02;Bereichsleitung;6143.68
+4500000143;Zahlung ausführen;2025-02-10 01:04:32;TR04;Treasury;6143.68
+4500000144;Bestellanforderung anlegen;2025-09-11 07:30:47;FA01;Fachabteilung;8518.79
+4500000144;Bestellanforderung genehmigen;2025-09-11 17:24:32;BL02;Bereichsleitung;8518.79
+4500000144;Bestellung anlegen;2025-09-12 04:25:12;EK02;Einkauf;8518.79
+4500000144;Wareneingang buchen;2025-09-13 21:37:36;LG05;Lager;8518.79
+4500000144;Rechnung erfassen;2025-09-14 13:54:16;KB02;Kreditorenbuchhaltung;8518.79
+4500000144;Rechnungsprüfung;2025-09-15 00:48:54;KB01;Kreditorenbuchhaltung;8518.79
+4500000144;Rechnung freigeben;2025-09-19 22:29:15;BL01;Bereichsleitung;8518.79
+4500000144;Zahlung ausführen;2025-09-23 00:25:50;TR02;Treasury;8518.79
+4500000145;Bestellanforderung anlegen;2025-06-20 09:34:27;FA03;Fachabteilung;1177.32
+4500000145;Bestellung anlegen;2025-06-20 18:27:59;EK01;Einkauf;1177.32
+4500000145;Wareneingang buchen;2025-06-22 17:12:29;LG03;Lager;1177.32
+4500000145;Rechnung erfassen;2025-06-23 10:56:37;KB03;Kreditorenbuchhaltung;1177.32
+4500000145;Rechnungsprüfung;2025-06-24 09:01:16;KB02;Kreditorenbuchhaltung;1177.32
+4500000145;Rechnung freigeben;2025-06-26 05:18:30;BL02;Bereichsleitung;1177.32
+4500000145;Zahlung ausführen;2025-06-29 16:11:09;TR04;Treasury;1177.32
+4500000146;Bestellanforderung anlegen;2025-01-10 08:38:53;FA01;Fachabteilung;35402.41
+4500000146;Bestellanforderung genehmigen;2025-01-10 20:16:48;BL01;Bereichsleitung;35402.41
+4500000146;Bestellung anlegen;2025-01-10 23:43:02;EK02;Einkauf;35402.41
+4500000146;Wareneingang buchen;2025-01-14 05:22:32;LG03;Lager;35402.41
+4500000146;Rechnung erfassen;2025-01-15 09:01:19;KB01;Kreditorenbuchhaltung;35402.41
+4500000146;Rechnungsprüfung;2025-01-15 16:16:04;KB01;Kreditorenbuchhaltung;35402.41
+4500000146;Rechnung freigeben;2025-01-22 16:12:28;BL03;Bereichsleitung;35402.41
+4500000146;Zahlung ausführen;2025-01-26 13:38:50;TR02;Treasury;35402.41
+4500000147;Bestellanforderung anlegen;2025-08-27 16:17:58;FA04;Fachabteilung;13617.77
+4500000147;Bestellanforderung genehmigen;2025-08-28 10:44:30;BL04;Bereichsleitung;13617.77
+4500000147;Bestellung anlegen;2025-08-29 05:25:19;EK01;Einkauf;13617.77
+4500000147;Wareneingang buchen;2025-09-01 00:46:55;LG03;Lager;13617.77
+4500000147;Rechnung erfassen;2025-09-01 12:10:31;KB05;Kreditorenbuchhaltung;13617.77
+4500000147;Rechnungsprüfung;2025-09-03 00:37:54;KB05;Kreditorenbuchhaltung;13617.77
+4500000147;Rechnung freigeben;2025-09-17 19:26:04;BL01;Bereichsleitung;13617.77
+4500000147;Zahlung ausführen;2025-09-19 04:02:31;TR05;Treasury;13617.77
+4500000148;Bestellanforderung anlegen;2025-04-03 10:52:12;FA05;Fachabteilung;8329.66
+4500000148;Bestellanforderung genehmigen;2025-04-05 11:57:42;BL02;Bereichsleitung;8329.66
+4500000148;Bestellung anlegen;2025-04-05 20:13:18;EK02;Einkauf;8329.66
+4500000148;Bestellung ändern;2025-04-06 16:40:01;EK05;Einkauf;8329.66
+4500000148;Wareneingang buchen;2025-04-11 06:32:01;LG03;Lager;8329.66
+4500000148;Rechnung erfassen;2025-04-12 14:17:00;KB01;Kreditorenbuchhaltung;8329.66
+4500000148;Rechnungsprüfung;2025-04-14 02:16:02;KB05;Kreditorenbuchhaltung;8329.66
+4500000148;Rechnung korrigieren;2025-04-15 12:17:57;EK02;Einkauf;8329.66
+4500000148;Rechnungsprüfung;2025-04-16 11:26:06;KB02;Kreditorenbuchhaltung;8329.66
+4500000148;Rechnung freigeben;2025-04-19 20:06:57;BL03;Bereichsleitung;8329.66
+4500000148;Zahlung ausführen;2025-04-21 18:56:15;TR02;Treasury;8329.66
+4500000149;Bestellanforderung anlegen;2025-08-14 11:54:28;FA03;Fachabteilung;20354.26
+4500000149;Bestellanforderung genehmigen;2025-08-15 00:42:36;BL01;Bereichsleitung;20354.26
+4500000149;Bestellung anlegen;2025-08-15 10:51:34;EK02;Einkauf;20354.26
+4500000149;Wareneingang buchen;2025-08-17 19:40:31;LG04;Lager;20354.26
+4500000149;Rechnung erfassen;2025-08-18 21:56:58;KB02;Kreditorenbuchhaltung;20354.26
+4500000149;Rechnungsprüfung;2025-08-19 21:32:26;KB04;Kreditorenbuchhaltung;20354.26
+4500000149;Rechnung korrigieren;2025-08-21 14:07:15;EK02;Einkauf;20354.26
+4500000149;Rechnungsprüfung;2025-08-22 08:32:28;KB03;Kreditorenbuchhaltung;20354.26
+4500000149;Rechnung freigeben;2025-08-24 18:35:28;BL05;Bereichsleitung;20354.26
+4500000149;Zahlung ausführen;2025-08-25 19:03:54;TR02;Treasury;20354.26
+4500000150;Bestellanforderung anlegen;2025-04-10 08:09:57;FA02;Fachabteilung;2926.64
+4500000150;Bestellung anlegen;2025-04-10 14:12:46;EK02;Einkauf;2926.64
+4500000150;Wareneingang buchen;2025-04-11 22:35:17;LG02;Lager;2926.64
+4500000150;Rechnung erfassen;2025-04-12 11:47:32;KB05;Kreditorenbuchhaltung;2926.64
+4500000150;Rechnungsprüfung;2025-04-14 01:47:47;KB05;Kreditorenbuchhaltung;2926.64
+4500000150;Rechnung freigeben;2025-04-15 02:01:43;BL01;Bereichsleitung;2926.64
+4500000150;Zahlung ausführen;2025-04-18 23:05:48;TR05;Treasury;2926.64
+4500000151;Bestellanforderung anlegen;2025-01-24 15:08:55;FA01;Fachabteilung;4549.23
+4500000151;Bestellung anlegen;2025-01-24 19:18:47;EK02;Einkauf;4549.23
+4500000151;Wareneingang buchen;2025-01-27 14:04:25;LG01;Lager;4549.23
+4500000151;Rechnung erfassen;2025-01-28 04:33:43;KB01;Kreditorenbuchhaltung;4549.23
+4500000151;Rechnungsprüfung;2025-01-29 14:41:11;KB03;Kreditorenbuchhaltung;4549.23
+4500000151;Rechnung freigeben;2025-01-31 17:38:58;BL05;Bereichsleitung;4549.23
+4500000151;Zahlung ausführen;2025-02-03 16:07:11;TR04;Treasury;4549.23
+4500000152;Bestellanforderung anlegen;2025-08-26 12:05:18;FA04;Fachabteilung;15294.72
+4500000152;Bestellanforderung genehmigen;2025-08-28 02:44:28;BL03;Bereichsleitung;15294.72
+4500000152;Bestellung anlegen;2025-08-28 17:02:44;EK05;Einkauf;15294.72
+4500000152;Wareneingang buchen;2025-09-01 19:42:44;LG02;Lager;15294.72
+4500000152;Rechnung erfassen;2025-09-02 15:56:59;KB02;Kreditorenbuchhaltung;15294.72
+4500000152;Rechnungsprüfung;2025-09-03 17:19:11;KB05;Kreditorenbuchhaltung;15294.72
+4500000152;Rechnung freigeben;2025-09-09 15:39:54;BL05;Bereichsleitung;15294.72
+4500000152;Zahlung ausführen;2025-09-12 03:31:02;TR03;Treasury;15294.72
+4500000153;Bestellanforderung anlegen;2025-02-25 12:22:11;FA01;Fachabteilung;7638.74
+4500000153;Bestellanforderung genehmigen;2025-02-26 00:58:43;BL04;Bereichsleitung;7638.74
+4500000153;Bestellung anlegen;2025-02-26 13:14:49;EK01;Einkauf;7638.74
+4500000153;Wareneingang buchen;2025-03-02 21:22:26;LG01;Lager;7638.74
+4500000153;Rechnung erfassen;2025-03-03 06:34:55;KB04;Kreditorenbuchhaltung;7638.74
+4500000153;Rechnungsprüfung;2025-03-05 19:27:51;KB01;Kreditorenbuchhaltung;7638.74
+4500000153;Rechnung freigeben;2025-03-30 03:38:35;BL03;Bereichsleitung;7638.74
+4500000153;Zahlung ausführen;2025-04-01 23:38:28;TR05;Treasury;7638.74
+4500000154;Bestellanforderung anlegen;2025-04-15 08:10:18;FA01;Fachabteilung;19056.46
+4500000154;Bestellanforderung genehmigen;2025-04-15 18:32:56;BL03;Bereichsleitung;19056.46
+4500000154;Bestellung anlegen;2025-04-16 03:28:59;EK05;Einkauf;19056.46
+4500000154;Wareneingang buchen;2025-04-18 23:44:36;LG01;Lager;19056.46
+4500000154;Rechnung erfassen;2025-04-19 11:48:08;KB03;Kreditorenbuchhaltung;19056.46
+4500000154;Rechnungsprüfung;2025-04-19 19:28:44;KB01;Kreditorenbuchhaltung;19056.46
+4500000154;Rechnung freigeben;2025-04-23 04:30:06;BL03;Bereichsleitung;19056.46
+4500000154;Zahlung ausführen;2025-04-25 11:07:56;TR04;Treasury;19056.46
+4500000155;Bestellanforderung anlegen;2025-08-11 11:08:54;FA05;Fachabteilung;3754.27
+4500000155;Bestellung anlegen;2025-08-11 23:14:57;EK01;Einkauf;3754.27
+4500000155;Wareneingang buchen;2025-08-17 16:03:25;LG03;Lager;3754.27
+4500000155;Rechnung erfassen;2025-08-18 07:54:13;KB02;Kreditorenbuchhaltung;3754.27
+4500000155;Rechnungsprüfung;2025-08-20 04:14:34;KB04;Kreditorenbuchhaltung;3754.27
+4500000155;Rechnung freigeben;2025-08-23 15:13:02;BL02;Bereichsleitung;3754.27
+4500000155;Zahlung ausführen;2025-08-25 09:43:45;TR02;Treasury;3754.27
+4500000156;Bestellanforderung anlegen;2025-08-08 15:01:00;FA03;Fachabteilung;22100.36
+4500000156;Bestellanforderung genehmigen;2025-08-09 10:28:09;BL05;Bereichsleitung;22100.36
+4500000156;Bestellung anlegen;2025-08-10 01:28:39;EK04;Einkauf;22100.36
+4500000156;Wareneingang buchen;2025-08-13 22:48:18;LG01;Lager;22100.36
+4500000156;Rechnung erfassen;2025-08-14 17:27:44;KB04;Kreditorenbuchhaltung;22100.36
+4500000156;Rechnungsprüfung;2025-08-16 08:54:03;KB03;Kreditorenbuchhaltung;22100.36
+4500000156;Rechnung freigeben;2025-08-28 13:11:30;BL05;Bereichsleitung;22100.36
+4500000156;Zahlung ausführen;2025-08-30 11:42:41;TR03;Treasury;22100.36
+4500000157;Bestellanforderung anlegen;2025-02-24 07:39:18;FA03;Fachabteilung;6346.32
+4500000157;Bestellanforderung genehmigen;2025-02-24 18:27:54;BL05;Bereichsleitung;6346.32
+4500000157;Bestellung anlegen;2025-02-25 03:21:18;EK03;Einkauf;6346.32
+4500000157;Bestellung ändern;2025-02-25 22:26:26;EK01;Einkauf;6346.32
+4500000157;Wareneingang buchen;2025-03-01 23:06:03;LG04;Lager;6346.32
+4500000157;Rechnung erfassen;2025-03-02 21:38:32;KB03;Kreditorenbuchhaltung;6346.32
+4500000157;Rechnungsprüfung;2025-03-03 18:35:58;KB04;Kreditorenbuchhaltung;6346.32
+4500000157;Rechnung freigeben;2025-03-10 03:58:26;BL01;Bereichsleitung;6346.32
+4500000157;Zahlung ausführen;2025-03-13 20:37:25;TR03;Treasury;6346.32
+4500000158;Bestellanforderung anlegen;2025-03-24 12:47:03;FA05;Fachabteilung;16647.43
+4500000158;Bestellanforderung genehmigen;2025-03-25 18:29:47;BL01;Bereichsleitung;16647.43
+4500000158;Bestellung anlegen;2025-03-26 17:01:21;EK05;Einkauf;16647.43
+4500000158;Wareneingang buchen;2025-03-28 10:06:27;LG01;Lager;16647.43
+4500000158;Rechnung erfassen;2025-03-29 00:53:59;KB01;Kreditorenbuchhaltung;16647.43
+4500000158;Rechnungsprüfung;2025-03-29 13:12:28;KB03;Kreditorenbuchhaltung;16647.43
+4500000158;Rechnung freigeben;2025-04-10 08:44:20;BL02;Bereichsleitung;16647.43
+4500000158;Zahlung ausführen;2025-04-13 13:24:50;TR04;Treasury;16647.43
+4500000159;Bestellanforderung anlegen;2025-04-18 11:56:27;FA01;Fachabteilung;3014.26
+4500000159;Bestellung anlegen;2025-04-18 15:52:01;EK05;Einkauf;3014.26
+4500000159;Wareneingang buchen;2025-04-20 18:15:29;LG04;Lager;3014.26
+4500000159;Rechnung erfassen;2025-04-21 13:31:32;KB01;Kreditorenbuchhaltung;3014.26
+4500000159;Rechnungsprüfung;2025-04-22 11:16:38;KB01;Kreditorenbuchhaltung;3014.26
+4500000159;Rechnung freigeben;2025-04-23 12:43:14;BL04;Bereichsleitung;3014.26
+4500000159;Zahlung ausführen;2025-04-26 17:33:28;TR04;Treasury;3014.26
+4500000160;Bestellanforderung anlegen;2025-08-01 08:40:38;FA03;Fachabteilung;9528.67
+4500000160;Bestellanforderung genehmigen;2025-08-01 15:28:16;BL05;Bereichsleitung;9528.67
+4500000160;Bestellung anlegen;2025-08-01 23:13:53;EK01;Einkauf;9528.67
+4500000160;Bestellung ändern;2025-08-04 16:03:42;EK02;Einkauf;9528.67
+4500000160;Wareneingang buchen;2025-08-06 23:31:14;LG03;Lager;9528.67
+4500000160;Rechnung erfassen;2025-08-08 05:12:02;KB05;Kreditorenbuchhaltung;9528.67
+4500000160;Rechnungsprüfung;2025-08-09 16:50:36;KB02;Kreditorenbuchhaltung;9528.67
+4500000160;Rechnung freigeben;2025-08-22 19:54:13;BL01;Bereichsleitung;9528.67
+4500000160;Zahlung ausführen;2025-08-24 01:29:17;TR01;Treasury;9528.67
+4500000161;Bestellanforderung anlegen;2025-02-25 15:07:38;FA04;Fachabteilung;12510.49
+4500000161;Bestellanforderung genehmigen;2025-02-26 07:25:03;BL01;Bereichsleitung;12510.49
+4500000161;Bestellung anlegen;2025-02-26 15:42:06;EK05;Einkauf;12510.49
+4500000161;Wareneingang buchen;2025-02-28 15:37:11;LG04;Lager;12510.49
+4500000161;Rechnung erfassen;2025-02-28 22:59:24;KB03;Kreditorenbuchhaltung;12510.49
+4500000161;Rechnungsprüfung;2025-03-02 11:45:51;KB04;Kreditorenbuchhaltung;12510.49
+4500000161;Rechnung korrigieren;2025-03-04 07:09:50;EK04;Einkauf;12510.49
+4500000161;Rechnungsprüfung;2025-03-04 15:34:26;KB02;Kreditorenbuchhaltung;12510.49
+4500000161;Rechnung freigeben;2025-03-11 00:18:57;BL04;Bereichsleitung;12510.49
+4500000161;Zahlung ausführen;2025-03-15 00:18:52;TR02;Treasury;12510.49
+4500000162;Bestellanforderung anlegen;2025-01-07 13:59:05;FA04;Fachabteilung;4234.76
+4500000162;Bestellung anlegen;2025-01-07 21:07:11;EK05;Einkauf;4234.76
+4500000162;Wareneingang buchen;2025-01-12 00:05:07;LG02;Lager;4234.76
+4500000162;Rechnung erfassen;2025-01-13 01:19:35;KB04;Kreditorenbuchhaltung;4234.76
+4500000162;Rechnungsprüfung;2025-01-13 19:33:34;KB04;Kreditorenbuchhaltung;4234.76
+4500000162;Rechnung korrigieren;2025-01-15 11:12:02;EK04;Einkauf;4234.76
+4500000162;Rechnungsprüfung;2025-01-16 12:29:09;KB03;Kreditorenbuchhaltung;4234.76
+4500000162;Rechnung freigeben;2025-01-19 00:12:17;BL01;Bereichsleitung;4234.76
+4500000162;Zahlung ausführen;2025-01-21 19:32:17;TR02;Treasury;4234.76
+4500000163;Bestellanforderung anlegen;2025-02-20 14:33:58;FA04;Fachabteilung;11368.33
+4500000163;Bestellanforderung genehmigen;2025-02-22 17:55:12;BL03;Bereichsleitung;11368.33
+4500000163;Bestellung anlegen;2025-02-23 04:14:26;EK03;Einkauf;11368.33
+4500000163;Wareneingang buchen;2025-02-26 11:57:35;LG05;Lager;11368.33
+4500000163;Rechnung erfassen;2025-02-27 07:39:17;KB04;Kreditorenbuchhaltung;11368.33
+4500000163;Rechnungsprüfung;2025-02-28 00:50:34;KB03;Kreditorenbuchhaltung;11368.33
+4500000163;Rechnung korrigieren;2025-03-01 19:43:35;EK04;Einkauf;11368.33
+4500000163;Rechnungsprüfung;2025-03-02 14:33:58;KB01;Kreditorenbuchhaltung;11368.33
+4500000163;Rechnung freigeben;2025-03-08 03:52:22;BL02;Bereichsleitung;11368.33
+4500000163;Zahlung ausführen;2025-03-10 20:10:04;TR01;Treasury;11368.33
+4500000164;Bestellanforderung anlegen;2025-08-29 16:02:03;FA05;Fachabteilung;6871.91
+4500000164;Bestellanforderung genehmigen;2025-08-30 13:09:25;BL02;Bereichsleitung;6871.91
+4500000164;Bestellung anlegen;2025-08-30 20:27:26;EK01;Einkauf;6871.91
+4500000164;Wareneingang buchen;2025-09-01 14:28:14;LG04;Lager;6871.91
+4500000164;Rechnung erfassen;2025-09-02 21:36:23;KB05;Kreditorenbuchhaltung;6871.91
+4500000164;Rechnungsprüfung;2025-09-03 21:47:27;KB02;Kreditorenbuchhaltung;6871.91
+4500000164;Rechnung freigeben;2025-09-06 20:04:17;BL05;Bereichsleitung;6871.91
+4500000164;Zahlung ausführen;2025-09-10 19:51:57;TR03;Treasury;6871.91
+4500000165;Bestellanforderung anlegen;2025-03-17 10:53:29;FA02;Fachabteilung;4492.65
+4500000165;Bestellung anlegen;2025-03-17 15:22:28;EK03;Einkauf;4492.65
+4500000165;Bestellung ändern;2025-03-19 01:09:26;EK03;Einkauf;4492.65
+4500000165;Wareneingang buchen;2025-03-21 16:36:57;LG03;Lager;4492.65
+4500000165;Rechnung erfassen;2025-03-22 00:40:10;KB01;Kreditorenbuchhaltung;4492.65
+4500000165;Rechnungsprüfung;2025-03-22 16:00:30;KB05;Kreditorenbuchhaltung;4492.65
+4500000165;Rechnung korrigieren;2025-03-24 02:35:41;EK04;Einkauf;4492.65
+4500000165;Rechnungsprüfung;2025-03-25 17:46:15;KB02;Kreditorenbuchhaltung;4492.65
+4500000165;Rechnung freigeben;2025-03-27 12:30:05;BL05;Bereichsleitung;4492.65
+4500000165;Zahlung ausführen;2025-03-29 16:52:17;TR02;Treasury;4492.65
+4500000166;Bestellanforderung anlegen;2025-02-06 13:09:28;FA05;Fachabteilung;4923.51
+4500000166;Bestellung anlegen;2025-02-07 04:32:17;EK04;Einkauf;4923.51
+4500000166;Wareneingang buchen;2025-02-10 16:58:34;LG02;Lager;4923.51
+4500000166;Rechnung erfassen;2025-02-11 18:48:05;KB04;Kreditorenbuchhaltung;4923.51
+4500000166;Rechnungsprüfung;2025-02-14 08:02:45;KB02;Kreditorenbuchhaltung;4923.51
+4500000166;Rechnung korrigieren;2025-02-17 11:40:12;EK05;Einkauf;4923.51
+4500000166;Rechnungsprüfung;2025-02-19 06:39:18;KB05;Kreditorenbuchhaltung;4923.51
+4500000166;Rechnung freigeben;2025-02-20 04:05:41;BL03;Bereichsleitung;4923.51
+4500000166;Zahlung ausführen;2025-02-22 23:17:59;TR01;Treasury;4923.51
+4500000167;Bestellanforderung anlegen;2025-04-21 09:49:59;FA02;Fachabteilung;11520.21
+4500000167;Bestellanforderung genehmigen;2025-04-22 13:16:36;BL03;Bereichsleitung;11520.21
+4500000167;Bestellung anlegen;2025-04-23 10:49:43;EK02;Einkauf;11520.21
+4500000167;Wareneingang buchen;2025-04-26 12:01:10;LG01;Lager;11520.21
+4500000167;Rechnung erfassen;2025-04-27 01:19:12;KB03;Kreditorenbuchhaltung;11520.21
+4500000167;Rechnungsprüfung;2025-04-29 09:19:14;KB02;Kreditorenbuchhaltung;11520.21
+4500000167;Rechnung freigeben;2025-05-02 15:53:45;BL03;Bereichsleitung;11520.21
+4500000167;Zahlung ausführen;2025-05-06 15:39:46;TR03;Treasury;11520.21
+4500000168;Bestellanforderung anlegen;2025-04-10 12:20:56;FA05;Fachabteilung;3140.03
+4500000168;Bestellung anlegen;2025-04-11 01:56:03;EK03;Einkauf;3140.03
+4500000168;Wareneingang buchen;2025-04-13 20:04:05;LG03;Lager;3140.03
+4500000168;Rechnung erfassen;2025-04-14 06:56:25;KB01;Kreditorenbuchhaltung;3140.03
+4500000168;Rechnungsprüfung;2025-04-15 23:25:31;KB05;Kreditorenbuchhaltung;3140.03
+4500000168;Rechnung freigeben;2025-04-17 14:14:02;BL05;Bereichsleitung;3140.03
+4500000168;Zahlung ausführen;2025-04-19 19:49:42;TR02;Treasury;3140.03
+4500000169;Bestellanforderung anlegen;2025-01-21 10:43:22;FA05;Fachabteilung;9166.25
+4500000169;Bestellanforderung genehmigen;2025-01-21 21:08:09;BL03;Bereichsleitung;9166.25
+4500000169;Bestellung anlegen;2025-01-22 14:58:58;EK01;Einkauf;9166.25
+4500000169;Wareneingang buchen;2025-01-27 07:17:13;LG03;Lager;9166.25
+4500000169;Rechnung erfassen;2025-01-27 14:37:14;KB03;Kreditorenbuchhaltung;9166.25
+4500000169;Rechnungsprüfung;2025-01-29 03:48:12;KB01;Kreditorenbuchhaltung;9166.25
+4500000169;Rechnung freigeben;2025-02-07 02:02:57;BL02;Bereichsleitung;9166.25
+4500000169;Zahlung ausführen;2025-02-09 16:55:45;TR04;Treasury;9166.25
+4500000170;Bestellanforderung anlegen;2025-01-08 13:18:59;FA05;Fachabteilung;16391.1
+4500000170;Bestellanforderung genehmigen;2025-01-09 03:24:28;BL03;Bereichsleitung;16391.1
+4500000170;Bestellung anlegen;2025-01-09 09:40:26;EK03;Einkauf;16391.1
+4500000170;Wareneingang buchen;2025-01-10 18:11:45;LG01;Lager;16391.1
+4500000170;Rechnung erfassen;2025-01-11 21:31:47;KB04;Kreditorenbuchhaltung;16391.1
+4500000170;Rechnungsprüfung;2025-01-13 06:01:54;KB01;Kreditorenbuchhaltung;16391.1
+4500000170;Rechnung freigeben;2025-01-21 23:31:34;BL03;Bereichsleitung;16391.1
+4500000170;Zahlung ausführen;2025-01-25 12:48:02;TR01;Treasury;16391.1
+4500000171;Bestellanforderung anlegen;2025-03-26 10:11:52;FA04;Fachabteilung;10130.59
+4500000171;Bestellanforderung genehmigen;2025-03-26 20:51:10;BL04;Bereichsleitung;10130.59
+4500000171;Bestellung anlegen;2025-03-27 07:34:52;EK05;Einkauf;10130.59
+4500000171;Wareneingang buchen;2025-03-30 16:58:48;LG03;Lager;10130.59
+4500000171;Rechnung erfassen;2025-03-31 10:37:57;KB01;Kreditorenbuchhaltung;10130.59
+4500000171;Rechnungsprüfung;2025-04-01 16:21:40;KB05;Kreditorenbuchhaltung;10130.59
+4500000171;Rechnung korrigieren;2025-04-02 17:53:01;EK03;Einkauf;10130.59
+4500000171;Rechnungsprüfung;2025-04-03 06:51:06;KB03;Kreditorenbuchhaltung;10130.59
+4500000171;Rechnung freigeben;2025-04-18 01:32:39;BL05;Bereichsleitung;10130.59
+4500000171;Zahlung ausführen;2025-04-20 12:38:04;TR03;Treasury;10130.59
+4500000172;Bestellanforderung anlegen;2025-08-05 09:02:31;FA04;Fachabteilung;70352.57
+4500000172;Bestellanforderung genehmigen;2025-08-06 04:09:37;BL03;Bereichsleitung;70352.57
+4500000172;Bestellung anlegen;2025-08-06 14:02:36;EK03;Einkauf;70352.57
+4500000172;Wareneingang buchen;2025-08-08 05:33:26;LG04;Lager;70352.57
+4500000172;Rechnung erfassen;2025-08-08 10:44:20;KB04;Kreditorenbuchhaltung;70352.57
+4500000172;Rechnungsprüfung;2025-08-10 12:05:34;KB02;Kreditorenbuchhaltung;70352.57
+4500000172;Rechnung korrigieren;2025-08-12 00:49:46;EK02;Einkauf;70352.57
+4500000172;Rechnungsprüfung;2025-08-12 07:54:23;KB03;Kreditorenbuchhaltung;70352.57
+4500000172;Rechnung freigeben;2025-08-20 10:59:12;BL01;Bereichsleitung;70352.57
+4500000172;Zahlung ausführen;2025-08-22 00:40:30;TR02;Treasury;70352.57
+4500000173;Bestellanforderung anlegen;2025-02-26 08:45:59;FA02;Fachabteilung;16758.7
+4500000173;Bestellanforderung genehmigen;2025-02-27 07:34:08;BL02;Bereichsleitung;16758.7
+4500000173;Bestellung anlegen;2025-02-28 00:35:01;EK05;Einkauf;16758.7
+4500000173;Wareneingang buchen;2025-02-28 18:48:50;LG03;Lager;16758.7
+4500000173;Rechnung erfassen;2025-03-02 15:37:31;KB01;Kreditorenbuchhaltung;16758.7
+4500000173;Rechnungsprüfung;2025-03-03 22:17:45;KB01;Kreditorenbuchhaltung;16758.7
+4500000173;Rechnung freigeben;2025-03-17 20:23:28;BL05;Bereichsleitung;16758.7
+4500000173;Zahlung ausführen;2025-03-20 07:23:46;TR05;Treasury;16758.7
+4500000174;Bestellanforderung anlegen;2025-07-29 15:57:43;FA03;Fachabteilung;12860.37
+4500000174;Bestellanforderung genehmigen;2025-07-30 01:24:23;BL01;Bereichsleitung;12860.37
+4500000174;Bestellung anlegen;2025-07-30 15:38:39;EK01;Einkauf;12860.37
+4500000174;Wareneingang buchen;2025-08-03 22:58:33;LG04;Lager;12860.37
+4500000174;Rechnung erfassen;2025-08-04 07:02:47;KB04;Kreditorenbuchhaltung;12860.37
+4500000174;Rechnungsprüfung;2025-08-06 11:53:43;KB03;Kreditorenbuchhaltung;12860.37
+4500000174;Rechnung korrigieren;2025-08-07 02:18:48;EK03;Einkauf;12860.37
+4500000174;Rechnungsprüfung;2025-08-08 08:30:20;KB03;Kreditorenbuchhaltung;12860.37
+4500000174;Rechnung freigeben;2025-08-12 15:02:13;BL05;Bereichsleitung;12860.37
+4500000174;Zahlung ausführen;2025-08-14 21:24:11;TR01;Treasury;12860.37
+4500000175;Bestellanforderung anlegen;2025-01-30 15:10:01;FA04;Fachabteilung;57178.97
+4500000175;Bestellanforderung genehmigen;2025-01-31 04:24:52;BL02;Bereichsleitung;57178.97
+4500000175;Bestellung anlegen;2025-01-31 10:42:25;EK03;Einkauf;57178.97
+4500000175;Wareneingang buchen;2025-02-05 02:04:47;LG01;Lager;57178.97
+4500000175;Rechnung erfassen;2025-02-05 12:06:17;KB03;Kreditorenbuchhaltung;57178.97
+4500000175;Rechnungsprüfung;2025-02-06 20:40:40;KB03;Kreditorenbuchhaltung;57178.97
+4500000175;Rechnung freigeben;2025-02-16 00:41:49;BL03;Bereichsleitung;57178.97
+4500000175;Zahlung ausführen;2025-02-17 16:40:16;TR03;Treasury;57178.97
+4500000176;Bestellanforderung anlegen;2025-09-03 10:03:47;FA05;Fachabteilung;12393.53
+4500000176;Bestellanforderung genehmigen;2025-09-04 00:39:37;BL05;Bereichsleitung;12393.53
+4500000176;Bestellung anlegen;2025-09-04 06:31:50;EK03;Einkauf;12393.53
+4500000176;Wareneingang buchen;2025-09-08 05:50:31;LG01;Lager;12393.53
+4500000176;Rechnung erfassen;2025-09-09 10:36:17;KB03;Kreditorenbuchhaltung;12393.53
+4500000176;Rechnungsprüfung;2025-09-10 09:16:17;KB05;Kreditorenbuchhaltung;12393.53
+4500000176;Rechnung freigeben;2025-09-14 10:06:46;BL05;Bereichsleitung;12393.53
+4500000176;Zahlung ausführen;2025-09-17 22:01:01;TR04;Treasury;12393.53
+4500000177;Bestellanforderung anlegen;2025-06-19 07:54:35;FA01;Fachabteilung;9863.42
+4500000177;Bestellanforderung genehmigen;2025-06-19 19:09:54;BL02;Bereichsleitung;9863.42
+4500000177;Bestellung anlegen;2025-06-20 05:07:59;EK04;Einkauf;9863.42
+4500000177;Wareneingang buchen;2025-06-23 23:53:32;LG02;Lager;9863.42
+4500000177;Rechnung erfassen;2025-06-24 09:44:57;KB03;Kreditorenbuchhaltung;9863.42
+4500000177;Rechnungsprüfung;2025-06-25 06:31:18;KB05;Kreditorenbuchhaltung;9863.42
+4500000177;Rechnung freigeben;2025-07-02 08:57:19;BL05;Bereichsleitung;9863.42
+4500000177;Zahlung ausführen;2025-07-05 17:44:56;TR05;Treasury;9863.42
+4500000178;Bestellanforderung anlegen;2025-05-16 07:49:28;FA02;Fachabteilung;7573.58
+4500000178;Bestellanforderung genehmigen;2025-05-16 22:02:23;BL01;Bereichsleitung;7573.58
+4500000178;Bestellung anlegen;2025-05-17 19:20:07;EK03;Einkauf;7573.58
+4500000178;Wareneingang buchen;2025-05-21 17:51:14;LG04;Lager;7573.58
+4500000178;Rechnung erfassen;2025-05-22 12:17:34;KB02;Kreditorenbuchhaltung;7573.58
+4500000178;Rechnungsprüfung;2025-05-23 03:51:37;KB03;Kreditorenbuchhaltung;7573.58
+4500000178;Rechnung freigeben;2025-05-27 05:37:47;BL04;Bereichsleitung;7573.58
+4500000178;Zahlung ausführen;2025-05-28 23:40:44;TR02;Treasury;7573.58
+4500000179;Bestellanforderung anlegen;2025-05-02 12:38:42;FA05;Fachabteilung;5050.3
+4500000179;Bestellanforderung genehmigen;2025-05-03 02:03:18;BL01;Bereichsleitung;5050.3
+4500000179;Bestellung anlegen;2025-05-03 18:03:17;EK03;Einkauf;5050.3
+4500000179;Wareneingang buchen;2025-05-06 00:02:20;LG03;Lager;5050.3
+4500000179;Rechnung erfassen;2025-05-07 17:54:20;KB03;Kreditorenbuchhaltung;5050.3
+4500000179;Rechnungsprüfung;2025-05-08 19:48:40;KB01;Kreditorenbuchhaltung;5050.3
+4500000179;Rechnung freigeben;2025-05-20 23:41:57;BL03;Bereichsleitung;5050.3
+4500000179;Zahlung ausführen;2025-05-24 05:24:46;TR04;Treasury;5050.3
+4500000180;Bestellanforderung anlegen;2025-05-26 14:44:02;FA02;Fachabteilung;10408.89
+4500000180;Bestellanforderung genehmigen;2025-05-27 03:04:44;BL03;Bereichsleitung;10408.89
+4500000180;Bestellung anlegen;2025-05-27 10:59:03;EK03;Einkauf;10408.89
+4500000180;Wareneingang buchen;2025-05-31 03:13:41;LG01;Lager;10408.89
+4500000180;Rechnung erfassen;2025-05-31 18:46:01;KB03;Kreditorenbuchhaltung;10408.89
+4500000180;Rechnungsprüfung;2025-06-01 04:18:27;KB05;Kreditorenbuchhaltung;10408.89
+4500000180;Rechnung freigeben;2025-06-06 14:27:44;BL04;Bereichsleitung;10408.89
+4500000180;Zahlung ausführen;2025-06-10 13:51:51;TR04;Treasury;10408.89
+4500000181;Bestellanforderung anlegen;2025-05-01 12:28:44;FA02;Fachabteilung;10995.4
+4500000181;Bestellanforderung genehmigen;2025-05-01 23:20:41;BL02;Bereichsleitung;10995.4
+4500000181;Bestellung anlegen;2025-05-02 02:29:40;EK04;Einkauf;10995.4
+4500000181;Wareneingang buchen;2025-05-06 14:39:42;LG05;Lager;10995.4
+4500000181;Rechnung erfassen;2025-05-08 21:05:47;KB01;Kreditorenbuchhaltung;10995.4
+4500000181;Rechnungsprüfung;2025-05-11 12:54:26;KB03;Kreditorenbuchhaltung;10995.4
+4500000181;Rechnung freigeben;2025-05-17 02:20:49;BL04;Bereichsleitung;10995.4
+4500000181;Zahlung ausführen;2025-05-19 02:46:50;TR01;Treasury;10995.4
+4500000182;Bestellanforderung anlegen;2025-06-26 15:21:04;FA03;Fachabteilung;8698.45
+4500000182;Bestellanforderung genehmigen;2025-06-27 01:26:10;BL01;Bereichsleitung;8698.45
+4500000182;Bestellung anlegen;2025-06-27 04:18:09;EK04;Einkauf;8698.45
+4500000182;Wareneingang buchen;2025-06-29 16:51:34;LG01;Lager;8698.45
+4500000182;Rechnung erfassen;2025-06-30 04:26:13;KB02;Kreditorenbuchhaltung;8698.45
+4500000182;Rechnungsprüfung;2025-07-01 12:29:59;KB01;Kreditorenbuchhaltung;8698.45
+4500000182;Rechnung freigeben;2025-07-06 15:07:22;BL04;Bereichsleitung;8698.45
+4500000182;Zahlung ausführen;2025-07-08 01:46:30;TR04;Treasury;8698.45
+4500000183;Bestellanforderung anlegen;2025-03-21 15:57:02;FA01;Fachabteilung;15545.57
+4500000183;Bestellanforderung genehmigen;2025-03-22 01:05:05;BL01;Bereichsleitung;15545.57
+4500000183;Bestellung anlegen;2025-03-22 16:43:35;EK05;Einkauf;15545.57
+4500000183;Wareneingang buchen;2025-03-28 07:43:38;LG01;Lager;15545.57
+4500000183;Rechnung erfassen;2025-03-29 19:49:56;KB03;Kreditorenbuchhaltung;15545.57
+4500000183;Rechnungsprüfung;2025-04-01 04:03:48;KB03;Kreditorenbuchhaltung;15545.57
+4500000183;Rechnung freigeben;2025-04-22 19:11:36;BL04;Bereichsleitung;15545.57
+4500000183;Zahlung ausführen;2025-04-25 23:31:25;TR04;Treasury;15545.57
+4500000184;Bestellanforderung anlegen;2025-07-22 07:43:11;FA02;Fachabteilung;8078.63
+4500000184;Bestellanforderung genehmigen;2025-07-22 21:35:01;BL05;Bereichsleitung;8078.63
+4500000184;Bestellung anlegen;2025-07-23 11:23:29;EK04;Einkauf;8078.63
+4500000184;Wareneingang buchen;2025-07-25 06:29:58;LG01;Lager;8078.63
+4500000184;Rechnung erfassen;2025-07-26 04:13:37;KB01;Kreditorenbuchhaltung;8078.63
+4500000184;Rechnungsprüfung;2025-07-27 12:29:23;KB03;Kreditorenbuchhaltung;8078.63
+4500000184;Rechnung freigeben;2025-08-08 17:51:15;BL01;Bereichsleitung;8078.63
+4500000184;Zahlung ausführen;2025-08-12 05:36:16;TR05;Treasury;8078.63
+4500000185;Bestellanforderung anlegen;2025-03-21 10:43:09;FA05;Fachabteilung;12976.04
+4500000185;Bestellanforderung genehmigen;2025-03-22 00:56:37;BL04;Bereichsleitung;12976.04
+4500000185;Bestellung anlegen;2025-03-22 04:10:03;EK02;Einkauf;12976.04
+4500000185;Wareneingang buchen;2025-03-25 02:00:18;LG01;Lager;12976.04
+4500000185;Rechnung erfassen;2025-03-25 16:01:28;KB04;Kreditorenbuchhaltung;12976.04
+4500000185;Rechnungsprüfung;2025-03-28 04:11:18;KB03;Kreditorenbuchhaltung;12976.04
+4500000185;Rechnung freigeben;2025-04-05 00:04:11;BL01;Bereichsleitung;12976.04
+4500000185;Zahlung ausführen;2025-04-08 19:23:00;TR03;Treasury;12976.04
+4500000186;Bestellanforderung anlegen;2025-09-04 08:52:28;FA05;Fachabteilung;13773.54
+4500000186;Bestellanforderung genehmigen;2025-09-04 15:55:31;BL04;Bereichsleitung;13773.54
+4500000186;Bestellung anlegen;2025-09-04 20:54:11;EK03;Einkauf;13773.54
+4500000186;Wareneingang buchen;2025-09-13 03:42:16;LG03;Lager;13773.54
+4500000186;Rechnung erfassen;2025-09-14 11:34:47;KB05;Kreditorenbuchhaltung;13773.54
+4500000186;Rechnungsprüfung;2025-09-15 01:24:39;KB05;Kreditorenbuchhaltung;13773.54
+4500000186;Rechnung freigeben;2025-09-17 11:52:28;BL02;Bereichsleitung;13773.54
+4500000186;Zahlung ausführen;2025-09-21 03:48:07;TR01;Treasury;13773.54
+4500000187;Bestellanforderung anlegen;2025-01-29 07:52:57;FA03;Fachabteilung;22050.3
+4500000187;Bestellanforderung genehmigen;2025-01-30 20:03:22;BL01;Bereichsleitung;22050.3
+4500000187;Bestellung anlegen;2025-01-31 04:13:49;EK05;Einkauf;22050.3
+4500000187;Wareneingang buchen;2025-02-04 18:22:50;LG02;Lager;22050.3
+4500000187;Rechnung erfassen;2025-02-05 07:32:25;KB02;Kreditorenbuchhaltung;22050.3
+4500000187;Rechnungsprüfung;2025-02-06 09:49:06;KB02;Kreditorenbuchhaltung;22050.3
+4500000187;Rechnung freigeben;2025-02-09 12:31:03;BL03;Bereichsleitung;22050.3
+4500000187;Zahlung ausführen;2025-02-12 18:48:29;TR03;Treasury;22050.3
+4500000188;Bestellanforderung anlegen;2025-02-13 13:16:57;FA01;Fachabteilung;1322.71
+4500000188;Bestellung anlegen;2025-02-13 22:31:32;EK02;Einkauf;1322.71
+4500000188;Bestellung ändern;2025-02-16 13:38:48;EK01;Einkauf;1322.71
+4500000188;Wareneingang buchen;2025-02-19 18:43:17;LG05;Lager;1322.71
+4500000188;Rechnung erfassen;2025-02-20 13:42:01;KB05;Kreditorenbuchhaltung;1322.71
+4500000188;Rechnungsprüfung;2025-02-21 07:19:27;KB02;Kreditorenbuchhaltung;1322.71
+4500000188;Rechnung freigeben;2025-02-21 19:51:02;BL01;Bereichsleitung;1322.71
+4500000188;Zahlung ausführen;2025-02-24 10:13:44;TR02;Treasury;1322.71
+4500000189;Bestellanforderung anlegen;2025-06-30 12:19:30;FA05;Fachabteilung;4560.31
+4500000189;Bestellung anlegen;2025-06-30 18:49:29;EK01;Einkauf;4560.31
+4500000189;Bestellung ändern;2025-07-01 22:56:13;EK01;Einkauf;4560.31
+4500000189;Wareneingang buchen;2025-07-06 17:14:47;LG01;Lager;4560.31
+4500000189;Rechnung erfassen;2025-07-07 15:25:24;KB05;Kreditorenbuchhaltung;4560.31
+4500000189;Rechnungsprüfung;2025-07-08 14:30:59;KB03;Kreditorenbuchhaltung;4560.31
+4500000189;Rechnung freigeben;2025-07-10 01:31:11;BL01;Bereichsleitung;4560.31
+4500000189;Zahlung ausführen;2025-07-11 19:14:32;TR05;Treasury;4560.31
+4500000190;Bestellanforderung anlegen;2025-02-12 12:29:54;FA01;Fachabteilung;9441.38
+4500000190;Bestellanforderung genehmigen;2025-02-13 07:31:36;BL04;Bereichsleitung;9441.38
+4500000190;Bestellung anlegen;2025-02-13 16:11:12;EK04;Einkauf;9441.38
+4500000190;Wareneingang buchen;2025-02-18 17:02:24;LG01;Lager;9441.38
+4500000190;Rechnung erfassen;2025-02-19 06:58:56;KB05;Kreditorenbuchhaltung;9441.38
+4500000190;Rechnungsprüfung;2025-02-19 17:42:20;KB02;Kreditorenbuchhaltung;9441.38
+4500000190;Rechnung freigeben;2025-02-23 20:25:59;BL04;Bereichsleitung;9441.38
+4500000190;Zahlung ausführen;2025-02-25 23:23:12;TR05;Treasury;9441.38
+4500000191;Bestellanforderung anlegen;2025-02-19 12:25:01;FA01;Fachabteilung;3479.77
+4500000191;Bestellung anlegen;2025-02-19 23:55:46;EK03;Einkauf;3479.77
+4500000191;Wareneingang buchen;2025-02-20 23:55:30;LG03;Lager;3479.77
+4500000191;Rechnung erfassen;2025-02-21 15:07:40;KB01;Kreditorenbuchhaltung;3479.77
+4500000191;Rechnungsprüfung;2025-02-23 12:02:59;KB02;Kreditorenbuchhaltung;3479.77
+4500000191;Rechnung freigeben;2025-03-01 03:09:31;BL05;Bereichsleitung;3479.77
+4500000191;Zahlung ausführen;2025-03-02 04:24:18;TR04;Treasury;3479.77
+4500000192;Bestellanforderung anlegen;2025-02-05 09:06:56;FA03;Fachabteilung;4376.39
+4500000192;Bestellung anlegen;2025-02-05 15:33:03;EK02;Einkauf;4376.39
+4500000192;Wareneingang buchen;2025-02-07 19:03:12;LG03;Lager;4376.39
+4500000192;Rechnung erfassen;2025-02-08 11:18:54;KB04;Kreditorenbuchhaltung;4376.39
+4500000192;Rechnungsprüfung;2025-02-09 03:05:21;KB02;Kreditorenbuchhaltung;4376.39
+4500000192;Rechnung korrigieren;2025-02-10 14:11:53;EK03;Einkauf;4376.39
+4500000192;Rechnungsprüfung;2025-02-11 15:01:53;KB05;Kreditorenbuchhaltung;4376.39
+4500000192;Rechnung freigeben;2025-02-12 17:46:05;BL03;Bereichsleitung;4376.39
+4500000192;Zahlung ausführen;2025-02-14 10:05:19;TR04;Treasury;4376.39
+4500000193;Bestellanforderung anlegen;2025-03-12 07:44:21;FA01;Fachabteilung;3921.81
+4500000193;Bestellung anlegen;2025-03-12 12:30:36;EK03;Einkauf;3921.81
+4500000193;Wareneingang buchen;2025-03-18 13:53:31;LG02;Lager;3921.81
+4500000193;Rechnung erfassen;2025-03-19 17:44:38;KB05;Kreditorenbuchhaltung;3921.81
+4500000193;Rechnungsprüfung;2025-03-20 11:38:12;KB02;Kreditorenbuchhaltung;3921.81
+4500000193;Rechnung freigeben;2025-03-21 20:39:26;BL04;Bereichsleitung;3921.81
+4500000193;Zahlung ausführen;2025-03-25 18:28:13;TR03;Treasury;3921.81
+4500000194;Bestellanforderung anlegen;2025-05-13 11:52:36;FA03;Fachabteilung;7141.57
+4500000194;Bestellanforderung genehmigen;2025-05-14 01:17:05;BL03;Bereichsleitung;7141.57
+4500000194;Bestellung anlegen;2025-05-14 16:46:33;EK03;Einkauf;7141.57
+4500000194;Wareneingang buchen;2025-05-19 20:06:33;LG01;Lager;7141.57
+4500000194;Rechnung erfassen;2025-05-20 07:45:31;KB03;Kreditorenbuchhaltung;7141.57
+4500000194;Rechnungsprüfung;2025-05-21 00:05:00;KB03;Kreditorenbuchhaltung;7141.57
+4500000194;Rechnung freigeben;2025-06-07 19:22:00;BL04;Bereichsleitung;7141.57
+4500000194;Zahlung ausführen;2025-06-11 10:51:15;TR03;Treasury;7141.57
+4500000195;Bestellanforderung anlegen;2025-02-28 12:05:18;FA01;Fachabteilung;14825.31
+4500000195;Bestellanforderung genehmigen;2025-03-01 06:59:51;BL02;Bereichsleitung;14825.31
+4500000195;Bestellung anlegen;2025-03-02 23:04:06;EK04;Einkauf;14825.31
+4500000195;Bestellung ändern;2025-03-04 01:34:38;EK02;Einkauf;14825.31
+4500000195;Wareneingang buchen;2025-03-09 06:14:55;LG01;Lager;14825.31
+4500000195;Rechnung erfassen;2025-03-09 22:40:50;KB04;Kreditorenbuchhaltung;14825.31
+4500000195;Rechnungsprüfung;2025-03-11 15:30:53;KB04;Kreditorenbuchhaltung;14825.31
+4500000195;Rechnung freigeben;2025-03-17 00:44:46;BL03;Bereichsleitung;14825.31
+4500000195;Zahlung ausführen;2025-03-18 14:03:43;TR03;Treasury;14825.31
+4500000196;Bestellanforderung anlegen;2025-08-01 15:19:32;FA02;Fachabteilung;3229.22
+4500000196;Bestellung anlegen;2025-08-02 14:17:57;EK02;Einkauf;3229.22
+4500000196;Wareneingang buchen;2025-08-09 00:28:41;LG02;Lager;3229.22
+4500000196;Rechnung erfassen;2025-08-09 22:01:55;KB02;Kreditorenbuchhaltung;3229.22
+4500000196;Rechnungsprüfung;2025-08-11 08:31:42;KB03;Kreditorenbuchhaltung;3229.22
+4500000196;Rechnung freigeben;2025-08-12 06:52:54;BL01;Bereichsleitung;3229.22
+4500000196;Zahlung ausführen;2025-08-14 11:13:32;TR03;Treasury;3229.22
+4500000197;Bestellanforderung anlegen;2025-08-20 10:30:32;FA02;Fachabteilung;13444.55
+4500000197;Bestellanforderung genehmigen;2025-08-21 00:36:28;BL05;Bereichsleitung;13444.55
+4500000197;Bestellung anlegen;2025-08-21 05:35:24;EK05;Einkauf;13444.55
+4500000197;Wareneingang buchen;2025-08-23 10:40:23;LG05;Lager;13444.55
+4500000197;Rechnung erfassen;2025-08-25 04:00:27;KB05;Kreditorenbuchhaltung;13444.55
+4500000197;Rechnungsprüfung;2025-08-25 11:42:17;KB04;Kreditorenbuchhaltung;13444.55
+4500000197;Rechnung freigeben;2025-08-29 07:36:56;BL04;Bereichsleitung;13444.55
+4500000197;Zahlung ausführen;2025-08-30 16:09:55;TR04;Treasury;13444.55
+4500000198;Bestellanforderung anlegen;2025-06-25 10:55:58;FA02;Fachabteilung;18547.1
+4500000198;Bestellanforderung genehmigen;2025-06-25 17:49:40;BL05;Bereichsleitung;18547.1
+4500000198;Bestellung anlegen;2025-06-26 03:39:10;EK04;Einkauf;18547.1
+4500000198;Wareneingang buchen;2025-06-29 02:06:52;LG02;Lager;18547.1
+4500000198;Rechnung erfassen;2025-06-29 18:15:04;KB04;Kreditorenbuchhaltung;18547.1
+4500000198;Rechnungsprüfung;2025-07-01 12:42:50;KB05;Kreditorenbuchhaltung;18547.1
+4500000198;Rechnung freigeben;2025-07-08 19:42:38;BL04;Bereichsleitung;18547.1
+4500000198;Zahlung ausführen;2025-07-10 04:15:55;TR05;Treasury;18547.1
+4500000199;Bestellanforderung anlegen;2025-05-09 12:57:09;FA01;Fachabteilung;4170.85
+4500000199;Bestellung anlegen;2025-05-09 18:39:38;EK01;Einkauf;4170.85
+4500000199;Wareneingang buchen;2025-05-21 15:51:27;LG04;Lager;4170.85
+4500000199;Rechnung erfassen;2025-05-22 10:29:05;KB01;Kreditorenbuchhaltung;4170.85
+4500000199;Rechnungsprüfung;2025-05-23 20:22:19;KB02;Kreditorenbuchhaltung;4170.85
+4500000199;Rechnung freigeben;2025-05-24 13:19:57;BL05;Bereichsleitung;4170.85
+4500000199;Zahlung ausführen;2025-05-26 13:11:13;TR01;Treasury;4170.85
+4500000200;Bestellanforderung anlegen;2025-06-27 14:53:22;FA04;Fachabteilung;3918.34
+4500000200;Bestellung anlegen;2025-06-28 07:21:25;EK01;Einkauf;3918.34
+4500000200;Wareneingang buchen;2025-06-30 18:30:14;LG01;Lager;3918.34
+4500000200;Rechnung erfassen;2025-07-01 09:23:29;KB05;Kreditorenbuchhaltung;3918.34
+4500000200;Rechnungsprüfung;2025-07-03 02:04:56;KB01;Kreditorenbuchhaltung;3918.34
+4500000200;Rechnung freigeben;2025-07-03 10:52:57;BL04;Bereichsleitung;3918.34
+4500000200;Zahlung ausführen;2025-07-06 23:19:15;TR05;Treasury;3918.34
+4500000201;Bestellanforderung anlegen;2025-02-17 12:08:31;FA04;Fachabteilung;18911.4
+4500000201;Bestellanforderung genehmigen;2025-02-18 01:53:40;BL05;Bereichsleitung;18911.4
+4500000201;Bestellung anlegen;2025-02-18 23:21:46;EK05;Einkauf;18911.4
+4500000201;Bestellung ändern;2025-02-20 23:08:03;EK05;Einkauf;18911.4
+4500000201;Wareneingang buchen;2025-02-23 07:13:01;LG03;Lager;18911.4
+4500000201;Rechnung erfassen;2025-02-23 19:04:21;KB03;Kreditorenbuchhaltung;18911.4
+4500000201;Rechnungsprüfung;2025-02-24 14:29:02;KB01;Kreditorenbuchhaltung;18911.4
+4500000201;Rechnung freigeben;2025-03-07 20:47:02;BL03;Bereichsleitung;18911.4
+4500000201;Zahlung ausführen;2025-03-10 05:12:48;TR04;Treasury;18911.4
+4500000202;Bestellanforderung anlegen;2025-09-01 08:17:40;FA03;Fachabteilung;47525.4
+4500000202;Bestellanforderung genehmigen;2025-09-02 11:27:27;BL01;Bereichsleitung;47525.4
+4500000202;Bestellung anlegen;2025-09-03 01:02:36;EK04;Einkauf;47525.4
+4500000202;Wareneingang buchen;2025-09-10 10:15:17;LG05;Lager;47525.4
+4500000202;Rechnung erfassen;2025-09-11 11:55:54;KB03;Kreditorenbuchhaltung;47525.4
+4500000202;Rechnungsprüfung;2025-09-12 09:10:34;KB01;Kreditorenbuchhaltung;47525.4
+4500000202;Rechnung korrigieren;2025-09-14 00:17:25;EK01;Einkauf;47525.4
+4500000202;Rechnungsprüfung;2025-09-14 16:10:26;KB04;Kreditorenbuchhaltung;47525.4
+4500000202;Rechnung freigeben;2025-09-19 06:35:02;BL01;Bereichsleitung;47525.4
+4500000202;Zahlung ausführen;2025-09-20 20:36:45;TR02;Treasury;47525.4
+4500000203;Bestellanforderung anlegen;2025-08-27 15:55:31;FA05;Fachabteilung;11868.25
+4500000203;Bestellanforderung genehmigen;2025-08-28 08:13:12;BL02;Bereichsleitung;11868.25
+4500000203;Bestellung anlegen;2025-08-28 15:02:22;EK02;Einkauf;11868.25
+4500000203;Wareneingang buchen;2025-09-01 00:11:46;LG02;Lager;11868.25
+4500000203;Rechnung erfassen;2025-09-01 23:46:39;KB05;Kreditorenbuchhaltung;11868.25
+4500000203;Rechnungsprüfung;2025-09-03 17:47:31;KB04;Kreditorenbuchhaltung;11868.25
+4500000203;Rechnung freigeben;2025-09-17 11:40:21;BL02;Bereichsleitung;11868.25
+4500000203;Zahlung ausführen;2025-09-21 00:14:02;TR04;Treasury;11868.25
+4500000204;Bestellanforderung anlegen;2025-03-06 09:37:17;FA02;Fachabteilung;7823.48
+4500000204;Bestellanforderung genehmigen;2025-03-07 03:03:03;BL05;Bereichsleitung;7823.48
+4500000204;Bestellung anlegen;2025-03-07 08:37:39;EK04;Einkauf;7823.48
+4500000204;Bestellung ändern;2025-03-08 14:52:18;EK02;Einkauf;7823.48
+4500000204;Wareneingang buchen;2025-03-12 20:22:36;LG02;Lager;7823.48
+4500000204;Rechnung erfassen;2025-03-13 22:05:46;KB05;Kreditorenbuchhaltung;7823.48
+4500000204;Rechnungsprüfung;2025-03-14 16:36:11;KB05;Kreditorenbuchhaltung;7823.48
+4500000204;Rechnung freigeben;2025-03-20 17:33:15;BL04;Bereichsleitung;7823.48
+4500000204;Zahlung ausführen;2025-03-24 13:09:29;TR01;Treasury;7823.48
+4500000205;Bestellanforderung anlegen;2025-09-04 07:47:54;FA02;Fachabteilung;5134.11
+4500000205;Bestellanforderung genehmigen;2025-09-05 01:09:15;BL01;Bereichsleitung;5134.11
+4500000205;Bestellung anlegen;2025-09-05 09:54:18;EK02;Einkauf;5134.11
+4500000205;Bestellung ändern;2025-09-09 18:25:59;EK02;Einkauf;5134.11
+4500000205;Wareneingang buchen;2025-09-13 19:20:38;LG01;Lager;5134.11
+4500000205;Rechnung erfassen;2025-09-14 06:35:19;KB03;Kreditorenbuchhaltung;5134.11
+4500000205;Rechnungsprüfung;2025-09-14 18:39:11;KB05;Kreditorenbuchhaltung;5134.11
+4500000205;Rechnung freigeben;2025-09-22 17:07:53;BL02;Bereichsleitung;5134.11
+4500000205;Zahlung ausführen;2025-09-26 10:57:07;TR05;Treasury;5134.11
+4500000206;Bestellanforderung anlegen;2025-07-01 09:24:24;FA04;Fachabteilung;11908.77
+4500000206;Bestellanforderung genehmigen;2025-07-02 01:27:22;BL01;Bereichsleitung;11908.77
+4500000206;Bestellung anlegen;2025-07-02 13:29:19;EK01;Einkauf;11908.77
+4500000206;Bestellung ändern;2025-07-05 03:47:17;EK04;Einkauf;11908.77
+4500000206;Wareneingang buchen;2025-07-08 13:11:40;LG03;Lager;11908.77
+4500000206;Rechnung erfassen;2025-07-09 02:29:20;KB03;Kreditorenbuchhaltung;11908.77
+4500000206;Rechnungsprüfung;2025-07-11 09:20:20;KB02;Kreditorenbuchhaltung;11908.77
+4500000206;Rechnung korrigieren;2025-07-13 06:57:46;EK04;Einkauf;11908.77
+4500000206;Rechnungsprüfung;2025-07-14 09:27:47;KB05;Kreditorenbuchhaltung;11908.77
+4500000206;Rechnung freigeben;2025-07-18 17:18:29;BL01;Bereichsleitung;11908.77
+4500000206;Zahlung ausführen;2025-07-21 06:54:42;TR01;Treasury;11908.77
+4500000207;Bestellanforderung anlegen;2025-07-31 15:05:06;FA04;Fachabteilung;3807.33
+4500000207;Bestellung anlegen;2025-08-01 00:27:40;EK02;Einkauf;3807.33
+4500000207;Wareneingang buchen;2025-08-04 21:53:24;LG03;Lager;3807.33
+4500000207;Rechnung erfassen;2025-08-06 01:43:12;KB04;Kreditorenbuchhaltung;3807.33
+4500000207;Rechnungsprüfung;2025-08-07 01:42:32;KB01;Kreditorenbuchhaltung;3807.33
+4500000207;Rechnung freigeben;2025-08-07 18:49:20;BL01;Bereichsleitung;3807.33
+4500000207;Zahlung ausführen;2025-08-09 19:37:42;TR02;Treasury;3807.33
+4500000208;Bestellanforderung anlegen;2025-01-14 09:59:33;FA05;Fachabteilung;13950.04
+4500000208;Bestellanforderung genehmigen;2025-01-14 23:40:33;BL02;Bereichsleitung;13950.04
+4500000208;Bestellung anlegen;2025-01-15 15:45:11;EK01;Einkauf;13950.04
+4500000208;Wareneingang buchen;2025-01-18 20:54:44;LG04;Lager;13950.04
+4500000208;Rechnung erfassen;2025-01-19 19:46:39;KB03;Kreditorenbuchhaltung;13950.04
+4500000208;Rechnungsprüfung;2025-01-20 04:28:51;KB01;Kreditorenbuchhaltung;13950.04
+4500000208;Rechnung freigeben;2025-01-23 16:15:06;BL01;Bereichsleitung;13950.04
+4500000208;Zahlung ausführen;2025-01-26 09:18:29;TR03;Treasury;13950.04
+4500000209;Bestellanforderung anlegen;2025-06-13 13:02:47;FA03;Fachabteilung;4318.86
+4500000209;Bestellung anlegen;2025-06-13 20:08:42;EK03;Einkauf;4318.86
+4500000209;Wareneingang buchen;2025-06-16 23:17:19;LG03;Lager;4318.86
+4500000209;Rechnung erfassen;2025-06-17 14:39:55;KB02;Kreditorenbuchhaltung;4318.86
+4500000209;Rechnungsprüfung;2025-06-18 01:36:39;KB05;Kreditorenbuchhaltung;4318.86
+4500000209;Rechnung freigeben;2025-06-18 16:05:30;BL01;Bereichsleitung;4318.86
+4500000209;Zahlung ausführen;2025-06-21 18:02:38;TR04;Treasury;4318.86
+4500000210;Bestellanforderung anlegen;2025-07-28 15:16:41;FA04;Fachabteilung;3279.29
+4500000210;Bestellung anlegen;2025-07-29 04:22:17;EK02;Einkauf;3279.29
+4500000210;Wareneingang buchen;2025-08-06 04:03:23;LG04;Lager;3279.29
+4500000210;Rechnung erfassen;2025-08-06 23:14:32;KB01;Kreditorenbuchhaltung;3279.29
+4500000210;Rechnungsprüfung;2025-08-07 12:25:43;KB05;Kreditorenbuchhaltung;3279.29
+4500000210;Rechnung freigeben;2025-08-08 16:39:16;BL05;Bereichsleitung;3279.29
+4500000210;Zahlung ausführen;2025-08-12 00:29:11;TR04;Treasury;3279.29
+4500000211;Bestellanforderung anlegen;2025-07-22 11:08:20;FA03;Fachabteilung;8998.8
+4500000211;Bestellanforderung genehmigen;2025-07-23 05:49:30;BL02;Bereichsleitung;8998.8
+4500000211;Bestellung anlegen;2025-07-23 22:40:17;EK05;Einkauf;8998.8
+4500000211;Wareneingang buchen;2025-07-26 08:20:26;LG01;Lager;8998.8
+4500000211;Rechnung erfassen;2025-07-27 01:31:04;KB04;Kreditorenbuchhaltung;8998.8
+4500000211;Rechnungsprüfung;2025-07-29 04:31:39;KB05;Kreditorenbuchhaltung;8998.8
+4500000211;Rechnung freigeben;2025-07-31 22:23:52;BL05;Bereichsleitung;8998.8
+4500000211;Zahlung ausführen;2025-08-02 03:02:02;TR03;Treasury;8998.8
+4500000212;Bestellanforderung anlegen;2025-05-26 10:44:50;FA04;Fachabteilung;8889.57
+4500000212;Bestellanforderung genehmigen;2025-05-27 14:22:26;BL05;Bereichsleitung;8889.57
+4500000212;Bestellung anlegen;2025-05-28 02:14:15;EK04;Einkauf;8889.57
+4500000212;Wareneingang buchen;2025-06-01 16:52:17;LG05;Lager;8889.57
+4500000212;Rechnung erfassen;2025-06-02 04:49:52;KB05;Kreditorenbuchhaltung;8889.57
+4500000212;Rechnungsprüfung;2025-06-04 18:50:46;KB02;Kreditorenbuchhaltung;8889.57
+4500000212;Rechnung freigeben;2025-06-11 22:02:03;BL03;Bereichsleitung;8889.57
+4500000212;Zahlung ausführen;2025-06-14 09:20:18;TR02;Treasury;8889.57
+4500000213;Bestellanforderung anlegen;2025-09-01 08:33:07;FA01;Fachabteilung;11881.63
+4500000213;Bestellanforderung genehmigen;2025-09-01 20:55:06;BL01;Bereichsleitung;11881.63
+4500000213;Bestellung anlegen;2025-09-02 12:14:09;EK03;Einkauf;11881.63
+4500000213;Wareneingang buchen;2025-09-05 22:41:10;LG03;Lager;11881.63
+4500000213;Rechnung erfassen;2025-09-06 23:01:46;KB02;Kreditorenbuchhaltung;11881.63
+4500000213;Rechnungsprüfung;2025-09-08 10:18:44;KB05;Kreditorenbuchhaltung;11881.63
+4500000213;Rechnung freigeben;2025-09-14 08:09:48;BL05;Bereichsleitung;11881.63
+4500000213;Zahlung ausführen;2025-09-17 16:55:45;TR01;Treasury;11881.63
+4500000214;Bestellanforderung anlegen;2025-07-07 13:06:34;FA04;Fachabteilung;5286.24
+4500000214;Bestellanforderung genehmigen;2025-07-08 04:18:57;BL02;Bereichsleitung;5286.24
+4500000214;Bestellung anlegen;2025-07-08 12:25:20;EK03;Einkauf;5286.24
+4500000214;Wareneingang buchen;2025-07-09 09:05:47;LG03;Lager;5286.24
+4500000214;Rechnung erfassen;2025-07-10 04:57:56;KB04;Kreditorenbuchhaltung;5286.24
+4500000214;Rechnungsprüfung;2025-07-10 20:06:13;KB03;Kreditorenbuchhaltung;5286.24
+4500000214;Rechnung freigeben;2025-07-14 21:13:45;BL01;Bereichsleitung;5286.24
+4500000214;Zahlung ausführen;2025-07-17 21:59:20;TR03;Treasury;5286.24
+4500000215;Bestellanforderung anlegen;2025-04-11 10:28:23;FA02;Fachabteilung;5567.83
+4500000215;Bestellanforderung genehmigen;2025-04-11 17:28:38;BL05;Bereichsleitung;5567.83
+4500000215;Bestellung anlegen;2025-04-12 05:18:35;EK05;Einkauf;5567.83
+4500000215;Wareneingang buchen;2025-04-14 01:28:04;LG02;Lager;5567.83
+4500000215;Rechnung erfassen;2025-04-14 11:20:56;KB04;Kreditorenbuchhaltung;5567.83
+4500000215;Rechnungsprüfung;2025-04-15 18:47:10;KB04;Kreditorenbuchhaltung;5567.83
+4500000215;Rechnung freigeben;2025-04-26 00:42:21;BL01;Bereichsleitung;5567.83
+4500000215;Zahlung ausführen;2025-04-29 19:00:58;TR03;Treasury;5567.83
+4500000216;Bestellanforderung anlegen;2025-05-30 15:28:19;FA05;Fachabteilung;5217.65
+4500000216;Bestellanforderung genehmigen;2025-05-31 10:44:26;BL04;Bereichsleitung;5217.65
+4500000216;Bestellung anlegen;2025-06-01 07:59:26;EK03;Einkauf;5217.65
+4500000216;Wareneingang buchen;2025-06-06 16:02:10;LG04;Lager;5217.65
+4500000216;Rechnung erfassen;2025-06-07 19:52:03;KB01;Kreditorenbuchhaltung;5217.65
+4500000216;Rechnungsprüfung;2025-06-08 22:55:28;KB02;Kreditorenbuchhaltung;5217.65
+4500000216;Rechnung freigeben;2025-06-14 22:18:15;BL02;Bereichsleitung;5217.65
+4500000216;Zahlung ausführen;2025-06-16 16:01:11;TR03;Treasury;5217.65
+4500000217;Bestellanforderung anlegen;2025-07-08 15:29:27;FA03;Fachabteilung;15523.54
+4500000217;Bestellanforderung genehmigen;2025-07-09 02:37:36;BL04;Bereichsleitung;15523.54
+4500000217;Bestellung anlegen;2025-07-09 16:31:18;EK03;Einkauf;15523.54
+4500000217;Bestellung ändern;2025-07-10 17:35:28;EK03;Einkauf;15523.54
+4500000217;Wareneingang buchen;2025-07-13 14:07:48;LG04;Lager;15523.54
+4500000217;Rechnung erfassen;2025-07-14 18:25:15;KB03;Kreditorenbuchhaltung;15523.54
+4500000217;Rechnungsprüfung;2025-07-15 12:22:13;KB05;Kreditorenbuchhaltung;15523.54
+4500000217;Rechnung korrigieren;2025-07-18 21:20:05;EK02;Einkauf;15523.54
+4500000217;Rechnungsprüfung;2025-07-19 06:30:38;KB01;Kreditorenbuchhaltung;15523.54
+4500000217;Rechnung freigeben;2025-07-26 18:48:01;BL03;Bereichsleitung;15523.54
+4500000217;Zahlung ausführen;2025-07-28 13:14:03;TR03;Treasury;15523.54
+4500000218;Bestellanforderung anlegen;2025-09-15 14:57:45;FA01;Fachabteilung;7372.23
+4500000218;Bestellanforderung genehmigen;2025-09-16 02:52:37;BL04;Bereichsleitung;7372.23
+4500000218;Bestellung anlegen;2025-09-16 14:09:20;EK02;Einkauf;7372.23
+4500000218;Wareneingang buchen;2025-09-18 06:16:30;LG01;Lager;7372.23
+4500000218;Rechnung erfassen;2025-09-19 07:58:29;KB03;Kreditorenbuchhaltung;7372.23
+4500000218;Rechnungsprüfung;2025-09-19 23:48:22;KB04;Kreditorenbuchhaltung;7372.23
+4500000218;Rechnung freigeben;2025-09-24 04:50:41;BL03;Bereichsleitung;7372.23
+4500000218;Zahlung ausführen;2025-09-26 22:16:58;TR04;Treasury;7372.23
+4500000219;Bestellanforderung anlegen;2025-07-02 11:06:13;FA04;Fachabteilung;8825.75
+4500000219;Bestellanforderung genehmigen;2025-07-02 20:36:58;BL02;Bereichsleitung;8825.75
+4500000219;Bestellung anlegen;2025-07-03 07:09:47;EK04;Einkauf;8825.75
+4500000219;Wareneingang buchen;2025-07-04 13:05:55;LG04;Lager;8825.75
+4500000219;Rechnung erfassen;2025-07-05 15:46:07;KB04;Kreditorenbuchhaltung;8825.75
+4500000219;Rechnungsprüfung;2025-07-06 06:44:56;KB05;Kreditorenbuchhaltung;8825.75
+4500000219;Rechnung freigeben;2025-07-18 22:47:58;BL05;Bereichsleitung;8825.75
+4500000219;Zahlung ausführen;2025-07-22 13:09:26;TR01;Treasury;8825.75
+4500000220;Bestellanforderung anlegen;2025-01-20 12:57:20;FA01;Fachabteilung;13961.24
+4500000220;Bestellanforderung genehmigen;2025-01-21 02:42:46;BL02;Bereichsleitung;13961.24
+4500000220;Bestellung anlegen;2025-01-21 10:21:09;EK05;Einkauf;13961.24
+4500000220;Wareneingang buchen;2025-01-22 13:43:34;LG03;Lager;13961.24
+4500000220;Rechnung erfassen;2025-01-23 09:28:52;KB04;Kreditorenbuchhaltung;13961.24
+4500000220;Rechnungsprüfung;2025-01-24 10:01:41;KB03;Kreditorenbuchhaltung;13961.24
+4500000220;Rechnung korrigieren;2025-01-27 23:45:02;EK03;Einkauf;13961.24
+4500000220;Rechnungsprüfung;2025-01-28 09:12:49;KB02;Kreditorenbuchhaltung;13961.24
+4500000220;Rechnung freigeben;2025-02-01 15:25:11;BL02;Bereichsleitung;13961.24
+4500000220;Zahlung ausführen;2025-02-05 04:47:53;TR04;Treasury;13961.24
+4500000221;Bestellanforderung anlegen;2025-04-01 07:55:28;FA05;Fachabteilung;8687.0
+4500000221;Bestellanforderung genehmigen;2025-04-01 23:04:07;BL02;Bereichsleitung;8687.0
+4500000221;Bestellung anlegen;2025-04-02 11:06:07;EK02;Einkauf;8687.0
+4500000221;Wareneingang buchen;2025-04-04 10:51:08;LG02;Lager;8687.0
+4500000221;Rechnung erfassen;2025-04-05 02:20:54;KB02;Kreditorenbuchhaltung;8687.0
+4500000221;Rechnungsprüfung;2025-04-06 11:19:56;KB01;Kreditorenbuchhaltung;8687.0
+4500000221;Rechnung korrigieren;2025-04-08 01:20:12;EK01;Einkauf;8687.0
+4500000221;Rechnungsprüfung;2025-04-09 06:37:17;KB03;Kreditorenbuchhaltung;8687.0
+4500000221;Rechnung freigeben;2025-04-12 17:37:47;BL05;Bereichsleitung;8687.0
+4500000221;Zahlung ausführen;2025-04-15 19:54:17;TR01;Treasury;8687.0
+4500000222;Bestellanforderung anlegen;2025-01-13 09:45:11;FA01;Fachabteilung;26884.1
+4500000222;Bestellanforderung genehmigen;2025-01-13 23:23:37;BL04;Bereichsleitung;26884.1
+4500000222;Bestellung anlegen;2025-01-14 10:37:29;EK01;Einkauf;26884.1
+4500000222;Bestellung ändern;2025-01-15 20:18:32;EK02;Einkauf;26884.1
+4500000222;Wareneingang buchen;2025-01-26 03:21:36;LG03;Lager;26884.1
+4500000222;Rechnung erfassen;2025-01-27 02:22:36;KB04;Kreditorenbuchhaltung;26884.1
+4500000222;Rechnungsprüfung;2025-01-28 14:00:21;KB01;Kreditorenbuchhaltung;26884.1
+4500000222;Rechnung freigeben;2025-02-10 03:45:37;BL01;Bereichsleitung;26884.1
+4500000222;Zahlung ausführen;2025-02-11 06:21:41;TR02;Treasury;26884.1
+4500000223;Bestellanforderung anlegen;2025-03-18 13:50:14;FA01;Fachabteilung;11932.09
+4500000223;Bestellanforderung genehmigen;2025-03-20 00:36:09;BL04;Bereichsleitung;11932.09
+4500000223;Bestellung anlegen;2025-03-20 09:32:25;EK04;Einkauf;11932.09
+4500000223;Wareneingang buchen;2025-03-27 22:28:50;LG04;Lager;11932.09
+4500000223;Rechnung erfassen;2025-03-28 20:11:10;KB02;Kreditorenbuchhaltung;11932.09
+4500000223;Rechnungsprüfung;2025-03-29 21:27:42;KB04;Kreditorenbuchhaltung;11932.09
+4500000223;Rechnung freigeben;2025-04-05 14:20:00;BL01;Bereichsleitung;11932.09
+4500000223;Zahlung ausführen;2025-04-09 02:22:43;TR04;Treasury;11932.09
+4500000224;Bestellanforderung anlegen;2025-06-11 14:25:07;FA05;Fachabteilung;13021.87
+4500000224;Bestellanforderung genehmigen;2025-06-12 08:42:20;BL02;Bereichsleitung;13021.87
+4500000224;Bestellung anlegen;2025-06-12 13:16:40;EK02;Einkauf;13021.87
+4500000224;Wareneingang buchen;2025-06-14 20:32:05;LG01;Lager;13021.87
+4500000224;Rechnung erfassen;2025-06-15 20:34:02;KB04;Kreditorenbuchhaltung;13021.87
+4500000224;Rechnungsprüfung;2025-06-17 13:29:27;KB04;Kreditorenbuchhaltung;13021.87
+4500000224;Rechnung korrigieren;2025-06-20 21:17:18;EK02;Einkauf;13021.87
+4500000224;Rechnungsprüfung;2025-06-21 05:27:39;KB02;Kreditorenbuchhaltung;13021.87
+4500000224;Rechnung freigeben;2025-06-23 19:15:53;BL03;Bereichsleitung;13021.87
+4500000224;Zahlung ausführen;2025-06-26 09:40:44;TR04;Treasury;13021.87
+4500000225;Bestellanforderung anlegen;2025-02-20 14:09:23;FA05;Fachabteilung;12327.86
+4500000225;Bestellanforderung genehmigen;2025-02-21 16:38:04;BL03;Bereichsleitung;12327.86
+4500000225;Bestellung anlegen;2025-02-22 00:59:35;EK02;Einkauf;12327.86
+4500000225;Wareneingang buchen;2025-02-26 11:06:23;LG05;Lager;12327.86
+4500000225;Rechnung erfassen;2025-02-27 12:36:18;KB02;Kreditorenbuchhaltung;12327.86
+4500000225;Rechnungsprüfung;2025-03-01 14:58:12;KB04;Kreditorenbuchhaltung;12327.86
+4500000225;Rechnung freigeben;2025-03-07 16:04:01;BL01;Bereichsleitung;12327.86
+4500000225;Zahlung ausführen;2025-03-10 01:50:34;TR05;Treasury;12327.86
+4500000226;Bestellanforderung anlegen;2025-09-26 09:03:42;FA04;Fachabteilung;6041.19
+4500000226;Bestellanforderung genehmigen;2025-09-28 02:33:51;BL01;Bereichsleitung;6041.19
+4500000226;Bestellung anlegen;2025-09-28 08:25:15;EK02;Einkauf;6041.19
+4500000226;Wareneingang buchen;2025-10-03 21:48:23;LG05;Lager;6041.19
+4500000226;Rechnung erfassen;2025-10-05 07:07:59;KB02;Kreditorenbuchhaltung;6041.19
+4500000226;Rechnungsprüfung;2025-10-06 06:21:53;KB03;Kreditorenbuchhaltung;6041.19
+4500000226;Rechnung freigeben;2025-10-12 09:26:01;BL01;Bereichsleitung;6041.19
+4500000226;Zahlung ausführen;2025-10-15 15:42:45;TR04;Treasury;6041.19
+4500000227;Bestellanforderung anlegen;2025-05-12 16:20:25;FA04;Fachabteilung;5980.32
+4500000227;Bestellanforderung genehmigen;2025-05-12 22:37:54;BL04;Bereichsleitung;5980.32
+4500000227;Bestellung anlegen;2025-05-13 07:01:34;EK03;Einkauf;5980.32
+4500000227;Wareneingang buchen;2025-05-15 18:32:19;LG02;Lager;5980.32
+4500000227;Rechnung erfassen;2025-05-17 08:22:42;KB04;Kreditorenbuchhaltung;5980.32
+4500000227;Rechnungsprüfung;2025-05-18 04:14:02;KB03;Kreditorenbuchhaltung;5980.32
+4500000227;Rechnung freigeben;2025-05-27 12:09:30;BL04;Bereichsleitung;5980.32
+4500000227;Zahlung ausführen;2025-05-31 03:05:01;TR01;Treasury;5980.32
+4500000228;Bestellanforderung anlegen;2025-05-22 07:47:21;FA04;Fachabteilung;11198.91
+4500000228;Bestellanforderung genehmigen;2025-05-22 14:11:27;BL04;Bereichsleitung;11198.91
+4500000228;Bestellung anlegen;2025-05-22 22:33:48;EK05;Einkauf;11198.91
+4500000228;Wareneingang buchen;2025-05-24 14:24:42;LG01;Lager;11198.91
+4500000228;Rechnung erfassen;2025-05-25 11:33:58;KB02;Kreditorenbuchhaltung;11198.91
+4500000228;Rechnungsprüfung;2025-05-26 04:00:20;KB03;Kreditorenbuchhaltung;11198.91
+4500000228;Rechnung freigeben;2025-06-03 11:50:40;BL05;Bereichsleitung;11198.91
+4500000228;Zahlung ausführen;2025-06-04 21:09:52;TR02;Treasury;11198.91
+4500000229;Bestellanforderung anlegen;2025-01-28 11:54:11;FA02;Fachabteilung;3551.12
+4500000229;Bestellung anlegen;2025-01-28 18:48:45;EK03;Einkauf;3551.12
+4500000229;Wareneingang buchen;2025-02-01 02:59:34;LG05;Lager;3551.12
+4500000229;Rechnung erfassen;2025-02-03 02:08:25;KB05;Kreditorenbuchhaltung;3551.12
+4500000229;Rechnungsprüfung;2025-02-04 07:39:59;KB05;Kreditorenbuchhaltung;3551.12
+4500000229;Rechnung korrigieren;2025-02-07 20:49:27;EK04;Einkauf;3551.12
+4500000229;Rechnungsprüfung;2025-02-08 15:05:13;KB05;Kreditorenbuchhaltung;3551.12
+4500000229;Rechnung freigeben;2025-02-09 09:02:58;BL04;Bereichsleitung;3551.12
+4500000229;Zahlung ausführen;2025-02-10 13:20:10;TR01;Treasury;3551.12
+4500000230;Bestellanforderung anlegen;2025-05-07 12:24:18;FA05;Fachabteilung;6064.41
+4500000230;Bestellanforderung genehmigen;2025-05-08 13:30:00;BL03;Bereichsleitung;6064.41
+4500000230;Bestellung anlegen;2025-05-08 22:12:13;EK03;Einkauf;6064.41
+4500000230;Wareneingang buchen;2025-05-11 12:15:12;LG02;Lager;6064.41
+4500000230;Rechnung erfassen;2025-05-12 06:37:56;KB04;Kreditorenbuchhaltung;6064.41
+4500000230;Rechnungsprüfung;2025-05-13 20:00:30;KB04;Kreditorenbuchhaltung;6064.41
+4500000230;Rechnung freigeben;2025-05-20 17:40:06;BL04;Bereichsleitung;6064.41
+4500000230;Zahlung ausführen;2025-05-24 12:03:39;TR02;Treasury;6064.41
+4500000231;Bestellanforderung anlegen;2025-06-20 13:08:53;FA05;Fachabteilung;7152.06
+4500000231;Bestellanforderung genehmigen;2025-06-21 16:58:41;BL05;Bereichsleitung;7152.06
+4500000231;Bestellung anlegen;2025-06-22 00:50:07;EK01;Einkauf;7152.06
+4500000231;Wareneingang buchen;2025-06-25 05:38:27;LG04;Lager;7152.06
+4500000231;Rechnung erfassen;2025-06-25 12:46:47;KB02;Kreditorenbuchhaltung;7152.06
+4500000231;Rechnungsprüfung;2025-06-26 12:07:40;KB04;Kreditorenbuchhaltung;7152.06
+4500000231;Rechnung freigeben;2025-06-29 17:40:28;BL01;Bereichsleitung;7152.06
+4500000231;Zahlung ausführen;2025-07-02 00:55:26;TR03;Treasury;7152.06
+4500000232;Bestellanforderung anlegen;2025-06-02 12:54:01;FA01;Fachabteilung;19382.3
+4500000232;Bestellanforderung genehmigen;2025-06-03 07:09:05;BL05;Bereichsleitung;19382.3
+4500000232;Bestellung anlegen;2025-06-03 16:29:26;EK05;Einkauf;19382.3
+4500000232;Wareneingang buchen;2025-06-06 18:23:46;LG02;Lager;19382.3
+4500000232;Rechnung erfassen;2025-06-07 13:57:53;KB02;Kreditorenbuchhaltung;19382.3
+4500000232;Rechnungsprüfung;2025-06-08 21:25:46;KB05;Kreditorenbuchhaltung;19382.3
+4500000232;Rechnung korrigieren;2025-06-13 20:46:24;EK02;Einkauf;19382.3
+4500000232;Rechnungsprüfung;2025-06-14 06:37:34;KB01;Kreditorenbuchhaltung;19382.3
+4500000232;Rechnung freigeben;2025-06-26 16:18:54;BL03;Bereichsleitung;19382.3
+4500000232;Zahlung ausführen;2025-06-29 06:00:40;TR05;Treasury;19382.3
+4500000233;Bestellanforderung anlegen;2025-03-06 11:34:18;FA01;Fachabteilung;38264.43
+4500000233;Bestellanforderung genehmigen;2025-03-06 19:46:17;BL02;Bereichsleitung;38264.43
+4500000233;Bestellung anlegen;2025-03-07 04:47:51;EK02;Einkauf;38264.43
+4500000233;Wareneingang buchen;2025-03-09 10:18:35;LG02;Lager;38264.43
+4500000233;Rechnung erfassen;2025-03-09 21:27:30;KB05;Kreditorenbuchhaltung;38264.43
+4500000233;Rechnungsprüfung;2025-03-10 23:00:07;KB01;Kreditorenbuchhaltung;38264.43
+4500000233;Rechnung freigeben;2025-03-13 12:39:11;BL05;Bereichsleitung;38264.43
+4500000233;Zahlung ausführen;2025-03-16 19:34:29;TR05;Treasury;38264.43
+4500000234;Bestellanforderung anlegen;2025-03-14 12:21:40;FA04;Fachabteilung;3071.76
+4500000234;Bestellung anlegen;2025-03-15 03:28:01;EK03;Einkauf;3071.76
+4500000234;Wareneingang buchen;2025-03-17 01:55:14;LG05;Lager;3071.76
+4500000234;Rechnung erfassen;2025-03-17 19:57:53;KB05;Kreditorenbuchhaltung;3071.76
+4500000234;Rechnungsprüfung;2025-03-19 18:10:33;KB03;Kreditorenbuchhaltung;3071.76
+4500000234;Rechnung freigeben;2025-03-20 13:42:51;BL04;Bereichsleitung;3071.76
+4500000234;Zahlung ausführen;2025-03-23 05:16:16;TR01;Treasury;3071.76
+4500000235;Bestellanforderung anlegen;2025-07-08 14:46:32;FA03;Fachabteilung;918.85
+4500000235;Bestellung anlegen;2025-07-08 20:31:54;EK04;Einkauf;918.85
+4500000235;Wareneingang buchen;2025-07-12 23:06:53;LG02;Lager;918.85
+4500000235;Rechnung erfassen;2025-07-13 16:08:14;KB04;Kreditorenbuchhaltung;918.85
+4500000235;Rechnungsprüfung;2025-07-15 02:17:15;KB03;Kreditorenbuchhaltung;918.85
+4500000235;Rechnung freigeben;2025-07-16 14:34:08;BL02;Bereichsleitung;918.85
+4500000235;Zahlung ausführen;2025-07-18 12:17:37;TR03;Treasury;918.85
+4500000236;Bestellanforderung anlegen;2025-08-05 11:18:47;FA04;Fachabteilung;26274.66
+4500000236;Bestellanforderung genehmigen;2025-08-06 05:21:45;BL03;Bereichsleitung;26274.66
+4500000236;Bestellung anlegen;2025-08-06 15:15:10;EK01;Einkauf;26274.66
+4500000236;Wareneingang buchen;2025-08-08 08:10:46;LG01;Lager;26274.66
+4500000236;Rechnung erfassen;2025-08-09 22:23:46;KB04;Kreditorenbuchhaltung;26274.66
+4500000236;Rechnungsprüfung;2025-08-10 17:55:30;KB03;Kreditorenbuchhaltung;26274.66
+4500000236;Rechnung korrigieren;2025-08-14 01:06:48;EK03;Einkauf;26274.66
+4500000236;Rechnungsprüfung;2025-08-15 09:15:17;KB04;Kreditorenbuchhaltung;26274.66
+4500000236;Rechnung freigeben;2025-08-24 08:40:59;BL03;Bereichsleitung;26274.66
+4500000236;Zahlung ausführen;2025-08-27 08:24:31;TR05;Treasury;26274.66
+4500000237;Bestellanforderung anlegen;2025-01-15 15:41:56;FA03;Fachabteilung;16475.6
+4500000237;Bestellanforderung genehmigen;2025-01-16 21:04:40;BL02;Bereichsleitung;16475.6
+4500000237;Bestellung anlegen;2025-01-17 06:48:34;EK01;Einkauf;16475.6
+4500000237;Wareneingang buchen;2025-01-24 21:06:15;LG04;Lager;16475.6
+4500000237;Rechnung erfassen;2025-01-25 12:08:20;KB01;Kreditorenbuchhaltung;16475.6
+4500000237;Rechnungsprüfung;2025-01-26 17:07:19;KB05;Kreditorenbuchhaltung;16475.6
+4500000237;Rechnung freigeben;2025-01-31 12:46:30;BL02;Bereichsleitung;16475.6
+4500000237;Zahlung ausführen;2025-02-01 17:53:04;TR01;Treasury;16475.6
+4500000238;Bestellanforderung anlegen;2025-06-30 12:40:16;FA04;Fachabteilung;8896.38
+4500000238;Bestellanforderung genehmigen;2025-07-01 06:51:57;BL03;Bereichsleitung;8896.38
+4500000238;Bestellung anlegen;2025-07-01 11:32:46;EK03;Einkauf;8896.38
+4500000238;Wareneingang buchen;2025-07-04 08:14:16;LG03;Lager;8896.38
+4500000238;Rechnung erfassen;2025-07-05 18:49:36;KB02;Kreditorenbuchhaltung;8896.38
+4500000238;Rechnungsprüfung;2025-07-07 05:00:53;KB03;Kreditorenbuchhaltung;8896.38
+4500000238;Rechnung freigeben;2025-07-10 04:33:19;BL05;Bereichsleitung;8896.38
+4500000238;Zahlung ausführen;2025-07-14 01:36:28;TR04;Treasury;8896.38
+4500000239;Bestellanforderung anlegen;2025-03-10 08:29:08;FA01;Fachabteilung;7953.38
+4500000239;Bestellanforderung genehmigen;2025-03-11 01:33:23;BL05;Bereichsleitung;7953.38
+4500000239;Bestellung anlegen;2025-03-11 22:32:21;EK02;Einkauf;7953.38
+4500000239;Wareneingang buchen;2025-03-13 14:05:26;LG04;Lager;7953.38
+4500000239;Rechnung erfassen;2025-03-14 11:18:41;KB04;Kreditorenbuchhaltung;7953.38
+4500000239;Rechnungsprüfung;2025-03-15 13:23:58;KB05;Kreditorenbuchhaltung;7953.38
+4500000239;Rechnung korrigieren;2025-03-17 11:56:56;EK04;Einkauf;7953.38
+4500000239;Rechnungsprüfung;2025-03-18 02:48:53;KB03;Kreditorenbuchhaltung;7953.38
+4500000239;Rechnung freigeben;2025-03-23 03:28:46;BL02;Bereichsleitung;7953.38
+4500000239;Zahlung ausführen;2025-03-25 14:23:30;TR03;Treasury;7953.38
+4500000240;Bestellanforderung anlegen;2025-01-15 09:23:50;FA02;Fachabteilung;2713.64
+4500000240;Bestellung anlegen;2025-01-15 16:45:38;EK04;Einkauf;2713.64
+4500000240;Wareneingang buchen;2025-01-17 21:12:48;LG03;Lager;2713.64
+4500000240;Rechnung erfassen;2025-01-18 06:51:35;KB04;Kreditorenbuchhaltung;2713.64
+4500000240;Rechnungsprüfung;2025-01-19 02:25:00;KB03;Kreditorenbuchhaltung;2713.64
+4500000240;Rechnung freigeben;2025-01-20 19:55:26;BL02;Bereichsleitung;2713.64
+4500000240;Zahlung ausführen;2025-01-24 10:57:55;TR04;Treasury;2713.64
+4500000241;Bestellanforderung anlegen;2025-04-29 11:57:15;FA05;Fachabteilung;5013.89
+4500000241;Bestellanforderung genehmigen;2025-04-30 11:26:14;BL03;Bereichsleitung;5013.89
+4500000241;Bestellung anlegen;2025-04-30 18:59:53;EK01;Einkauf;5013.89
+4500000241;Wareneingang buchen;2025-05-06 06:08:18;LG05;Lager;5013.89
+4500000241;Rechnung erfassen;2025-05-06 19:12:33;KB03;Kreditorenbuchhaltung;5013.89
+4500000241;Rechnungsprüfung;2025-05-08 07:34:08;KB05;Kreditorenbuchhaltung;5013.89
+4500000241;Rechnung freigeben;2025-05-26 02:52:31;BL02;Bereichsleitung;5013.89
+4500000241;Zahlung ausführen;2025-05-27 21:05:43;TR01;Treasury;5013.89
+4500000242;Bestellanforderung anlegen;2025-07-04 09:00:38;FA04;Fachabteilung;55104.09
+4500000242;Bestellanforderung genehmigen;2025-07-05 01:30:40;BL03;Bereichsleitung;55104.09
+4500000242;Bestellung anlegen;2025-07-05 05:06:53;EK05;Einkauf;55104.09
+4500000242;Wareneingang buchen;2025-07-07 13:53:38;LG05;Lager;55104.09
+4500000242;Rechnung erfassen;2025-07-08 05:50:31;KB05;Kreditorenbuchhaltung;55104.09
+4500000242;Rechnungsprüfung;2025-07-09 11:09:14;KB01;Kreditorenbuchhaltung;55104.09
+4500000242;Rechnung korrigieren;2025-07-14 23:10:16;EK01;Einkauf;55104.09
+4500000242;Rechnungsprüfung;2025-07-15 17:40:16;KB03;Kreditorenbuchhaltung;55104.09
+4500000242;Rechnung freigeben;2025-07-17 16:59:47;BL04;Bereichsleitung;55104.09
+4500000242;Zahlung ausführen;2025-07-20 12:21:05;TR02;Treasury;55104.09
+4500000243;Bestellanforderung anlegen;2025-06-02 14:06:22;FA05;Fachabteilung;6579.91
+4500000243;Bestellanforderung genehmigen;2025-06-02 21:51:47;BL02;Bereichsleitung;6579.91
+4500000243;Bestellung anlegen;2025-06-03 11:18:58;EK05;Einkauf;6579.91
+4500000243;Wareneingang buchen;2025-06-09 12:07:42;LG01;Lager;6579.91
+4500000243;Rechnung erfassen;2025-06-10 04:26:56;KB02;Kreditorenbuchhaltung;6579.91
+4500000243;Rechnungsprüfung;2025-06-12 13:14:44;KB02;Kreditorenbuchhaltung;6579.91
+4500000243;Rechnung freigeben;2025-06-14 20:47:02;BL03;Bereichsleitung;6579.91
+4500000243;Zahlung ausführen;2025-06-18 15:52:28;TR02;Treasury;6579.91
+4500000244;Bestellanforderung anlegen;2025-08-29 13:14:07;FA01;Fachabteilung;4971.44
+4500000244;Bestellung anlegen;2025-08-29 22:43:09;EK04;Einkauf;4971.44
+4500000244;Wareneingang buchen;2025-09-01 02:51:26;LG01;Lager;4971.44
+4500000244;Rechnung erfassen;2025-09-01 13:48:10;KB03;Kreditorenbuchhaltung;4971.44
+4500000244;Rechnungsprüfung;2025-09-03 03:53:33;KB02;Kreditorenbuchhaltung;4971.44
+4500000244;Rechnung freigeben;2025-09-06 02:21:22;BL05;Bereichsleitung;4971.44
+4500000244;Zahlung ausführen;2025-09-08 00:54:39;TR04;Treasury;4971.44
+4500000245;Bestellanforderung anlegen;2025-04-08 12:29:44;FA02;Fachabteilung;1026.45
+4500000245;Bestellung anlegen;2025-04-09 00:51:12;EK01;Einkauf;1026.45
+4500000245;Bestellung ändern;2025-04-10 13:04:34;EK01;Einkauf;1026.45
+4500000245;Wareneingang buchen;2025-04-11 23:52:19;LG01;Lager;1026.45
+4500000245;Rechnung erfassen;2025-04-12 20:45:40;KB02;Kreditorenbuchhaltung;1026.45
+4500000245;Rechnungsprüfung;2025-04-13 15:51:18;KB03;Kreditorenbuchhaltung;1026.45
+4500000245;Rechnung freigeben;2025-04-15 04:47:36;BL03;Bereichsleitung;1026.45
+4500000245;Zahlung ausführen;2025-04-18 21:54:11;TR02;Treasury;1026.45
+4500000246;Bestellanforderung anlegen;2025-03-06 13:40:55;FA04;Fachabteilung;7781.62
+4500000246;Bestellanforderung genehmigen;2025-03-08 03:22:11;BL05;Bereichsleitung;7781.62
+4500000246;Bestellung anlegen;2025-03-08 11:50:55;EK02;Einkauf;7781.62
+4500000246;Wareneingang buchen;2025-03-10 18:33:54;LG04;Lager;7781.62
+4500000246;Rechnung erfassen;2025-03-11 11:19:26;KB03;Kreditorenbuchhaltung;7781.62
+4500000246;Rechnungsprüfung;2025-03-11 22:59:36;KB02;Kreditorenbuchhaltung;7781.62
+4500000246;Rechnung freigeben;2025-03-14 11:07:19;BL02;Bereichsleitung;7781.62
+4500000246;Zahlung ausführen;2025-03-16 18:49:08;TR05;Treasury;7781.62
+4500000247;Bestellanforderung anlegen;2025-01-31 14:18:29;FA04;Fachabteilung;17752.54
+4500000247;Bestellanforderung genehmigen;2025-02-01 13:20:32;BL04;Bereichsleitung;17752.54
+4500000247;Bestellung anlegen;2025-02-01 18:16:52;EK02;Einkauf;17752.54
+4500000247;Wareneingang buchen;2025-02-05 03:57:37;LG04;Lager;17752.54
+4500000247;Rechnung erfassen;2025-02-05 17:56:53;KB02;Kreditorenbuchhaltung;17752.54
+4500000247;Rechnungsprüfung;2025-02-06 11:53:40;KB05;Kreditorenbuchhaltung;17752.54
+4500000247;Rechnung freigeben;2025-02-25 16:24:31;BL05;Bereichsleitung;17752.54
+4500000247;Zahlung ausführen;2025-02-28 14:06:55;TR03;Treasury;17752.54
+4500000248;Bestellanforderung anlegen;2025-06-02 10:32:28;FA05;Fachabteilung;4961.34
+4500000248;Bestellung anlegen;2025-06-02 19:23:05;EK04;Einkauf;4961.34
+4500000248;Wareneingang buchen;2025-06-04 03:45:20;LG03;Lager;4961.34
+4500000248;Rechnung erfassen;2025-06-04 15:32:59;KB04;Kreditorenbuchhaltung;4961.34
+4500000248;Rechnungsprüfung;2025-06-06 17:17:44;KB01;Kreditorenbuchhaltung;4961.34
+4500000248;Rechnung korrigieren;2025-06-10 05:35:05;EK04;Einkauf;4961.34
+4500000248;Rechnungsprüfung;2025-06-11 13:35:39;KB01;Kreditorenbuchhaltung;4961.34
+4500000248;Rechnung freigeben;2025-06-12 04:07:52;BL04;Bereichsleitung;4961.34
+4500000248;Zahlung ausführen;2025-06-13 09:44:04;TR05;Treasury;4961.34
+4500000249;Bestellanforderung anlegen;2025-04-30 08:26:30;FA03;Fachabteilung;2889.92
+4500000249;Bestellung anlegen;2025-05-01 01:49:23;EK01;Einkauf;2889.92
+4500000249;Wareneingang buchen;2025-05-02 22:32:37;LG01;Lager;2889.92
+4500000249;Rechnung erfassen;2025-05-04 10:24:44;KB03;Kreditorenbuchhaltung;2889.92
+4500000249;Rechnungsprüfung;2025-05-05 00:07:50;KB02;Kreditorenbuchhaltung;2889.92
+4500000249;Rechnung freigeben;2025-05-07 05:51:54;BL05;Bereichsleitung;2889.92
+4500000249;Zahlung ausführen;2025-05-09 17:33:19;TR01;Treasury;2889.92
+4500000250;Bestellanforderung anlegen;2025-01-30 12:28:23;FA03;Fachabteilung;11687.96
+4500000250;Bestellanforderung genehmigen;2025-01-31 13:26:39;BL03;Bereichsleitung;11687.96
+4500000250;Bestellung anlegen;2025-01-31 23:49:12;EK01;Einkauf;11687.96
+4500000250;Wareneingang buchen;2025-02-03 14:21:35;LG05;Lager;11687.96
+4500000250;Rechnung erfassen;2025-02-04 19:42:10;KB05;Kreditorenbuchhaltung;11687.96
+4500000250;Rechnungsprüfung;2025-02-06 01:18:10;KB02;Kreditorenbuchhaltung;11687.96
+4500000250;Rechnung freigeben;2025-02-11 16:45:38;BL01;Bereichsleitung;11687.96
+4500000250;Zahlung ausführen;2025-02-14 21:29:38;TR05;Treasury;11687.96
+4500000251;Bestellanforderung anlegen;2025-01-28 15:53:50;FA04;Fachabteilung;9962.95
+4500000251;Bestellanforderung genehmigen;2025-01-29 10:25:40;BL01;Bereichsleitung;9962.95
+4500000251;Bestellung anlegen;2025-01-29 19:31:41;EK05;Einkauf;9962.95
+4500000251;Wareneingang buchen;2025-02-06 21:39:08;LG04;Lager;9962.95
+4500000251;Rechnung erfassen;2025-02-07 11:30:35;KB05;Kreditorenbuchhaltung;9962.95
+4500000251;Rechnungsprüfung;2025-02-09 01:15:48;KB04;Kreditorenbuchhaltung;9962.95
+4500000251;Rechnung freigeben;2025-02-14 23:54:10;BL03;Bereichsleitung;9962.95
+4500000251;Zahlung ausführen;2025-02-17 14:25:19;TR03;Treasury;9962.95
+4500000252;Bestellanforderung anlegen;2025-07-18 10:34:53;FA02;Fachabteilung;4491.87
+4500000252;Bestellung anlegen;2025-07-18 17:10:49;EK02;Einkauf;4491.87
+4500000252;Bestellung ändern;2025-07-19 22:44:58;EK03;Einkauf;4491.87
+4500000252;Wareneingang buchen;2025-07-22 08:50:34;LG02;Lager;4491.87
+4500000252;Rechnung erfassen;2025-07-23 13:57:42;KB03;Kreditorenbuchhaltung;4491.87
+4500000252;Rechnungsprüfung;2025-07-24 10:25:02;KB04;Kreditorenbuchhaltung;4491.87
+4500000252;Rechnung freigeben;2025-07-26 06:15:09;BL03;Bereichsleitung;4491.87
+4500000252;Zahlung ausführen;2025-07-28 12:32:45;TR01;Treasury;4491.87
+4500000253;Bestellanforderung anlegen;2025-08-19 14:54:42;FA02;Fachabteilung;17286.58
+4500000253;Bestellanforderung genehmigen;2025-08-19 22:45:02;BL01;Bereichsleitung;17286.58
+4500000253;Bestellung anlegen;2025-08-20 04:58:27;EK02;Einkauf;17286.58
+4500000253;Wareneingang buchen;2025-08-21 12:46:45;LG03;Lager;17286.58
+4500000253;Rechnung erfassen;2025-08-22 12:59:56;KB03;Kreditorenbuchhaltung;17286.58
+4500000253;Rechnungsprüfung;2025-08-23 02:23:26;KB01;Kreditorenbuchhaltung;17286.58
+4500000253;Rechnung freigeben;2025-08-31 13:07:24;BL04;Bereichsleitung;17286.58
+4500000253;Zahlung ausführen;2025-09-03 02:45:44;TR02;Treasury;17286.58
+4500000254;Bestellanforderung anlegen;2025-06-04 11:54:51;FA03;Fachabteilung;4522.39
+4500000254;Bestellung anlegen;2025-06-04 20:00:12;EK05;Einkauf;4522.39
+4500000254;Bestellung ändern;2025-06-05 20:19:59;EK02;Einkauf;4522.39
+4500000254;Wareneingang buchen;2025-06-09 07:42:28;LG04;Lager;4522.39
+4500000254;Rechnung erfassen;2025-06-10 03:44:15;KB01;Kreditorenbuchhaltung;4522.39
+4500000254;Rechnungsprüfung;2025-06-11 13:13:39;KB05;Kreditorenbuchhaltung;4522.39
+4500000254;Rechnung freigeben;2025-06-12 17:39:53;BL01;Bereichsleitung;4522.39
+4500000254;Zahlung ausführen;2025-06-14 09:19:54;TR02;Treasury;4522.39
+4500000255;Bestellanforderung anlegen;2025-09-08 14:31:00;FA03;Fachabteilung;9616.78
+4500000255;Bestellanforderung genehmigen;2025-09-09 07:06:48;BL04;Bereichsleitung;9616.78
+4500000255;Bestellung anlegen;2025-09-09 14:11:14;EK04;Einkauf;9616.78
+4500000255;Wareneingang buchen;2025-09-14 01:43:36;LG01;Lager;9616.78
+4500000255;Rechnung erfassen;2025-09-14 19:11:57;KB04;Kreditorenbuchhaltung;9616.78
+4500000255;Rechnungsprüfung;2025-09-15 07:19:31;KB04;Kreditorenbuchhaltung;9616.78
+4500000255;Rechnung freigeben;2025-09-20 20:45:21;BL01;Bereichsleitung;9616.78
+4500000255;Zahlung ausführen;2025-09-22 15:56:46;TR02;Treasury;9616.78
+4500000256;Bestellanforderung anlegen;2025-07-14 11:31:14;FA05;Fachabteilung;7607.42
+4500000256;Bestellanforderung genehmigen;2025-07-15 08:54:21;BL04;Bereichsleitung;7607.42
+4500000256;Bestellung anlegen;2025-07-15 19:33:57;EK04;Einkauf;7607.42
+4500000256;Wareneingang buchen;2025-07-17 01:56:31;LG02;Lager;7607.42
+4500000256;Rechnung erfassen;2025-07-17 13:44:03;KB05;Kreditorenbuchhaltung;7607.42
+4500000256;Rechnungsprüfung;2025-07-18 09:44:19;KB04;Kreditorenbuchhaltung;7607.42
+4500000256;Rechnung freigeben;2025-07-29 18:01:43;BL02;Bereichsleitung;7607.42
+4500000256;Zahlung ausführen;2025-07-31 20:17:19;TR01;Treasury;7607.42
+4500000257;Bestellanforderung anlegen;2025-01-06 14:00:15;FA02;Fachabteilung;3299.72
+4500000257;Bestellung anlegen;2025-01-06 22:25:06;EK04;Einkauf;3299.72
+4500000257;Wareneingang buchen;2025-01-08 15:02:28;LG05;Lager;3299.72
+4500000257;Rechnung erfassen;2025-01-09 07:10:22;KB04;Kreditorenbuchhaltung;3299.72
+4500000257;Rechnungsprüfung;2025-01-10 14:50:06;KB04;Kreditorenbuchhaltung;3299.72
+4500000257;Rechnung freigeben;2025-01-11 17:32:03;BL03;Bereichsleitung;3299.72
+4500000257;Zahlung ausführen;2025-01-14 03:37:59;TR03;Treasury;3299.72
+4500000258;Bestellanforderung anlegen;2025-03-21 14:12:48;FA04;Fachabteilung;4885.25
+4500000258;Bestellung anlegen;2025-03-21 18:32:36;EK05;Einkauf;4885.25
+4500000258;Wareneingang buchen;2025-03-26 06:12:07;LG01;Lager;4885.25
+4500000258;Rechnung erfassen;2025-03-27 02:21:50;KB04;Kreditorenbuchhaltung;4885.25
+4500000258;Rechnungsprüfung;2025-03-28 09:27:17;KB04;Kreditorenbuchhaltung;4885.25
+4500000258;Rechnung freigeben;2025-03-30 04:59:30;BL01;Bereichsleitung;4885.25
+4500000258;Zahlung ausführen;2025-03-31 12:21:47;TR01;Treasury;4885.25
+4500000259;Bestellanforderung anlegen;2025-05-02 11:54:50;FA03;Fachabteilung;29191.09
+4500000259;Bestellanforderung genehmigen;2025-05-03 15:03:02;BL04;Bereichsleitung;29191.09
+4500000259;Bestellung anlegen;2025-05-03 23:23:35;EK04;Einkauf;29191.09
+4500000259;Wareneingang buchen;2025-05-08 06:20:11;LG05;Lager;29191.09
+4500000259;Rechnung erfassen;2025-05-09 01:56:07;KB03;Kreditorenbuchhaltung;29191.09
+4500000259;Rechnungsprüfung;2025-05-09 17:00:07;KB03;Kreditorenbuchhaltung;29191.09
+4500000259;Rechnung freigeben;2025-05-10 21:00:40;BL02;Bereichsleitung;29191.09
+4500000259;Zahlung ausführen;2025-05-14 20:00:21;TR03;Treasury;29191.09
+4500000260;Bestellanforderung anlegen;2025-03-27 08:38:57;FA03;Fachabteilung;4203.3
+4500000260;Bestellung anlegen;2025-03-28 05:26:00;EK02;Einkauf;4203.3
+4500000260;Wareneingang buchen;2025-04-02 12:11:27;LG04;Lager;4203.3
+4500000260;Rechnung erfassen;2025-04-03 06:01:45;KB05;Kreditorenbuchhaltung;4203.3
+4500000260;Rechnungsprüfung;2025-04-03 17:53:06;KB04;Kreditorenbuchhaltung;4203.3
+4500000260;Rechnung freigeben;2025-04-04 20:40:14;BL02;Bereichsleitung;4203.3
+4500000260;Zahlung ausführen;2025-04-05 23:36:45;TR05;Treasury;4203.3
+4500000261;Bestellanforderung anlegen;2025-08-20 08:58:01;FA02;Fachabteilung;12899.83
+4500000261;Bestellanforderung genehmigen;2025-08-21 05:22:52;BL05;Bereichsleitung;12899.83
+4500000261;Bestellung anlegen;2025-08-22 06:22:26;EK01;Einkauf;12899.83
+4500000261;Wareneingang buchen;2025-08-23 22:23:37;LG05;Lager;12899.83
+4500000261;Rechnung erfassen;2025-08-25 07:23:10;KB02;Kreditorenbuchhaltung;12899.83
+4500000261;Rechnungsprüfung;2025-08-27 05:14:23;KB01;Kreditorenbuchhaltung;12899.83
+4500000261;Rechnung freigeben;2025-08-29 19:04:42;BL05;Bereichsleitung;12899.83
+4500000261;Zahlung ausführen;2025-08-31 01:00:31;TR04;Treasury;12899.83
+4500000262;Bestellanforderung anlegen;2025-07-17 09:36:31;FA05;Fachabteilung;7232.12
+4500000262;Bestellanforderung genehmigen;2025-07-17 18:56:05;BL02;Bereichsleitung;7232.12
+4500000262;Bestellung anlegen;2025-07-18 02:49:55;EK05;Einkauf;7232.12
+4500000262;Wareneingang buchen;2025-07-21 07:11:42;LG01;Lager;7232.12
+4500000262;Rechnung erfassen;2025-07-22 07:40:36;KB02;Kreditorenbuchhaltung;7232.12
+4500000262;Rechnungsprüfung;2025-07-24 07:08:51;KB04;Kreditorenbuchhaltung;7232.12
+4500000262;Rechnung freigeben;2025-07-31 12:28:55;BL03;Bereichsleitung;7232.12
+4500000262;Zahlung ausführen;2025-08-03 08:32:25;TR04;Treasury;7232.12
+4500000263;Bestellanforderung anlegen;2025-03-25 12:06:47;FA01;Fachabteilung;10132.2
+4500000263;Bestellanforderung genehmigen;2025-03-25 23:53:26;BL01;Bereichsleitung;10132.2
+4500000263;Bestellung anlegen;2025-03-26 15:10:24;EK02;Einkauf;10132.2
+4500000263;Bestellung ändern;2025-03-27 15:26:50;EK05;Einkauf;10132.2
+4500000263;Wareneingang buchen;2025-03-29 04:10:45;LG01;Lager;10132.2
+4500000263;Rechnung erfassen;2025-03-30 15:53:32;KB01;Kreditorenbuchhaltung;10132.2
+4500000263;Rechnungsprüfung;2025-03-31 08:07:23;KB05;Kreditorenbuchhaltung;10132.2
+4500000263;Rechnung korrigieren;2025-04-02 11:00:43;EK01;Einkauf;10132.2
+4500000263;Rechnungsprüfung;2025-04-03 10:01:21;KB02;Kreditorenbuchhaltung;10132.2
+4500000263;Rechnung freigeben;2025-04-09 16:18:45;BL04;Bereichsleitung;10132.2
+4500000263;Zahlung ausführen;2025-04-11 01:15:24;TR01;Treasury;10132.2
+4500000264;Bestellanforderung anlegen;2025-01-03 09:40:09;FA04;Fachabteilung;54269.45
+4500000264;Bestellanforderung genehmigen;2025-01-04 02:19:30;BL02;Bereichsleitung;54269.45
+4500000264;Bestellung anlegen;2025-01-04 09:50:50;EK02;Einkauf;54269.45
+4500000264;Wareneingang buchen;2025-01-10 05:54:38;LG01;Lager;54269.45
+4500000264;Rechnung erfassen;2025-01-11 01:31:16;KB04;Kreditorenbuchhaltung;54269.45
+4500000264;Rechnungsprüfung;2025-01-11 13:24:18;KB01;Kreditorenbuchhaltung;54269.45
+4500000264;Rechnung freigeben;2025-01-24 15:36:02;BL01;Bereichsleitung;54269.45
+4500000264;Zahlung ausführen;2025-01-27 05:10:34;TR02;Treasury;54269.45
+4500000265;Bestellanforderung anlegen;2025-02-10 14:05:40;FA03;Fachabteilung;8116.71
+4500000265;Bestellanforderung genehmigen;2025-02-11 03:50:22;BL02;Bereichsleitung;8116.71
+4500000265;Bestellung anlegen;2025-02-11 18:46:39;EK04;Einkauf;8116.71
+4500000265;Wareneingang buchen;2025-02-12 11:16:15;LG05;Lager;8116.71
+4500000265;Rechnung erfassen;2025-02-13 06:33:22;KB05;Kreditorenbuchhaltung;8116.71
+4500000265;Rechnungsprüfung;2025-02-14 07:15:04;KB03;Kreditorenbuchhaltung;8116.71
+4500000265;Rechnung freigeben;2025-02-20 01:13:51;BL01;Bereichsleitung;8116.71
+4500000265;Zahlung ausführen;2025-02-22 08:33:41;TR05;Treasury;8116.71
+4500000266;Bestellanforderung anlegen;2025-03-25 07:39:08;FA05;Fachabteilung;12550.61
+4500000266;Bestellanforderung genehmigen;2025-03-25 20:04:32;BL01;Bereichsleitung;12550.61
+4500000266;Bestellung anlegen;2025-03-26 05:23:32;EK02;Einkauf;12550.61
+4500000266;Wareneingang buchen;2025-03-28 19:52:31;LG02;Lager;12550.61
+4500000266;Rechnung erfassen;2025-03-29 22:26:46;KB04;Kreditorenbuchhaltung;12550.61
+4500000266;Rechnungsprüfung;2025-03-31 01:52:13;KB04;Kreditorenbuchhaltung;12550.61
+4500000266;Rechnung freigeben;2025-04-03 23:00:28;BL01;Bereichsleitung;12550.61
+4500000266;Zahlung ausführen;2025-04-05 18:38:52;TR04;Treasury;12550.61
+4500000267;Bestellanforderung anlegen;2025-07-23 12:41:10;FA01;Fachabteilung;26924.82
+4500000267;Bestellanforderung genehmigen;2025-07-24 02:56:41;BL02;Bereichsleitung;26924.82
+4500000267;Bestellung anlegen;2025-07-24 12:08:42;EK01;Einkauf;26924.82
+4500000267;Wareneingang buchen;2025-07-27 00:28:00;LG02;Lager;26924.82
+4500000267;Rechnung erfassen;2025-07-29 03:28:48;KB03;Kreditorenbuchhaltung;26924.82
+4500000267;Rechnungsprüfung;2025-07-30 00:35:44;KB05;Kreditorenbuchhaltung;26924.82
+4500000267;Rechnung freigeben;2025-08-06 16:38:37;BL04;Bereichsleitung;26924.82
+4500000267;Zahlung ausführen;2025-08-09 13:03:19;TR04;Treasury;26924.82
+4500000268;Bestellanforderung anlegen;2025-03-24 14:31:36;FA01;Fachabteilung;12010.66
+4500000268;Bestellanforderung genehmigen;2025-03-25 04:23:11;BL01;Bereichsleitung;12010.66
+4500000268;Bestellung anlegen;2025-03-26 05:46:22;EK02;Einkauf;12010.66
+4500000268;Wareneingang buchen;2025-03-28 09:17:02;LG04;Lager;12010.66
+4500000268;Rechnung erfassen;2025-03-31 14:06:29;KB05;Kreditorenbuchhaltung;12010.66
+4500000268;Rechnungsprüfung;2025-04-02 14:29:12;KB05;Kreditorenbuchhaltung;12010.66
+4500000268;Rechnung freigeben;2025-04-12 21:36:51;BL02;Bereichsleitung;12010.66
+4500000268;Zahlung ausführen;2025-04-14 20:05:15;TR03;Treasury;12010.66
+4500000269;Bestellanforderung anlegen;2025-05-07 08:50:34;FA05;Fachabteilung;11037.59
+4500000269;Bestellanforderung genehmigen;2025-05-07 19:07:41;BL03;Bereichsleitung;11037.59
+4500000269;Bestellung anlegen;2025-05-08 03:05:32;EK01;Einkauf;11037.59
+4500000269;Wareneingang buchen;2025-05-10 07:11:30;LG02;Lager;11037.59
+4500000269;Rechnung erfassen;2025-05-11 09:00:11;KB01;Kreditorenbuchhaltung;11037.59
+4500000269;Rechnungsprüfung;2025-05-11 20:00:29;KB03;Kreditorenbuchhaltung;11037.59
+4500000269;Rechnung freigeben;2025-05-16 11:17:11;BL02;Bereichsleitung;11037.59
+4500000269;Zahlung ausführen;2025-05-19 07:19:41;TR05;Treasury;11037.59
+4500000270;Bestellanforderung anlegen;2025-03-07 16:25:22;FA05;Fachabteilung;12928.46
+4500000270;Bestellanforderung genehmigen;2025-03-08 17:26:57;BL01;Bereichsleitung;12928.46
+4500000270;Bestellung anlegen;2025-03-09 01:23:53;EK01;Einkauf;12928.46
+4500000270;Wareneingang buchen;2025-03-11 16:10:25;LG04;Lager;12928.46
+4500000270;Rechnung erfassen;2025-03-12 15:49:53;KB04;Kreditorenbuchhaltung;12928.46
+4500000270;Rechnungsprüfung;2025-03-13 04:35:03;KB05;Kreditorenbuchhaltung;12928.46
+4500000270;Rechnung korrigieren;2025-03-15 08:29:09;EK05;Einkauf;12928.46
+4500000270;Rechnungsprüfung;2025-03-16 08:00:01;KB02;Kreditorenbuchhaltung;12928.46
+4500000270;Rechnung freigeben;2025-03-24 02:37:13;BL02;Bereichsleitung;12928.46
+4500000270;Zahlung ausführen;2025-03-25 15:14:33;TR04;Treasury;12928.46
+4500000271;Bestellanforderung anlegen;2025-07-30 14:54:59;FA01;Fachabteilung;5973.62
+4500000271;Bestellanforderung genehmigen;2025-07-31 09:08:20;BL04;Bereichsleitung;5973.62
+4500000271;Bestellung anlegen;2025-07-31 23:33:54;EK01;Einkauf;5973.62
+4500000271;Wareneingang buchen;2025-08-04 08:46:34;LG05;Lager;5973.62
+4500000271;Rechnung erfassen;2025-08-04 16:52:09;KB02;Kreditorenbuchhaltung;5973.62
+4500000271;Rechnungsprüfung;2025-08-06 13:41:52;KB02;Kreditorenbuchhaltung;5973.62
+4500000271;Rechnung freigeben;2025-08-13 06:51:53;BL04;Bereichsleitung;5973.62
+4500000271;Zahlung ausführen;2025-08-17 01:08:47;TR05;Treasury;5973.62
+4500000272;Bestellanforderung anlegen;2025-09-25 07:42:55;FA05;Fachabteilung;12743.31
+4500000272;Bestellanforderung genehmigen;2025-09-26 15:18:35;BL05;Bereichsleitung;12743.31
+4500000272;Bestellung anlegen;2025-09-26 20:30:08;EK02;Einkauf;12743.31
+4500000272;Wareneingang buchen;2025-10-05 10:26:08;LG05;Lager;12743.31
+4500000272;Rechnung erfassen;2025-10-07 13:32:02;KB01;Kreditorenbuchhaltung;12743.31
+4500000272;Rechnungsprüfung;2025-10-10 17:08:02;KB03;Kreditorenbuchhaltung;12743.31
+4500000272;Rechnung korrigieren;2025-10-13 05:37:03;EK03;Einkauf;12743.31
+4500000272;Rechnungsprüfung;2025-10-13 20:47:31;KB02;Kreditorenbuchhaltung;12743.31
+4500000272;Rechnung freigeben;2025-10-21 14:32:59;BL03;Bereichsleitung;12743.31
+4500000272;Zahlung ausführen;2025-10-23 15:15:46;TR05;Treasury;12743.31
+4500000273;Bestellanforderung anlegen;2025-05-02 07:37:23;FA01;Fachabteilung;4593.56
+4500000273;Bestellung anlegen;2025-05-02 18:43:20;EK02;Einkauf;4593.56
+4500000273;Wareneingang buchen;2025-05-06 09:58:31;LG01;Lager;4593.56
+4500000273;Rechnung erfassen;2025-05-06 22:00:12;KB03;Kreditorenbuchhaltung;4593.56
+4500000273;Rechnungsprüfung;2025-05-08 17:22:02;KB04;Kreditorenbuchhaltung;4593.56
+4500000273;Rechnung freigeben;2025-05-11 01:47:41;BL03;Bereichsleitung;4593.56
+4500000273;Zahlung ausführen;2025-05-14 13:45:29;TR03;Treasury;4593.56
+4500000274;Bestellanforderung anlegen;2025-06-25 09:03:48;FA02;Fachabteilung;7576.89
+4500000274;Bestellanforderung genehmigen;2025-06-25 22:55:52;BL02;Bereichsleitung;7576.89
+4500000274;Bestellung anlegen;2025-06-26 04:07:37;EK01;Einkauf;7576.89
+4500000274;Wareneingang buchen;2025-06-27 23:02:22;LG02;Lager;7576.89
+4500000274;Rechnung erfassen;2025-06-28 09:31:12;KB01;Kreditorenbuchhaltung;7576.89
+4500000274;Rechnungsprüfung;2025-06-29 05:31:17;KB03;Kreditorenbuchhaltung;7576.89
+4500000274;Rechnung korrigieren;2025-07-01 21:14:46;EK02;Einkauf;7576.89
+4500000274;Rechnungsprüfung;2025-07-02 09:51:36;KB05;Kreditorenbuchhaltung;7576.89
+4500000274;Rechnung freigeben;2025-07-13 15:10:48;BL03;Bereichsleitung;7576.89
+4500000274;Zahlung ausführen;2025-07-16 21:51:18;TR02;Treasury;7576.89
+4500000275;Bestellanforderung anlegen;2025-02-20 08:26:59;FA02;Fachabteilung;18983.79
+4500000275;Bestellanforderung genehmigen;2025-02-20 20:39:19;BL05;Bereichsleitung;18983.79
+4500000275;Bestellung anlegen;2025-02-21 12:52:06;EK03;Einkauf;18983.79
+4500000275;Wareneingang buchen;2025-02-23 15:25:20;LG01;Lager;18983.79
+4500000275;Rechnung erfassen;2025-02-24 10:54:54;KB05;Kreditorenbuchhaltung;18983.79
+4500000275;Rechnungsprüfung;2025-02-25 23:25:41;KB03;Kreditorenbuchhaltung;18983.79
+4500000275;Rechnung freigeben;2025-03-09 16:45:50;BL03;Bereichsleitung;18983.79
+4500000275;Zahlung ausführen;2025-03-11 07:43:45;TR05;Treasury;18983.79
+4500000276;Bestellanforderung anlegen;2025-03-27 08:38:33;FA02;Fachabteilung;16956.23
+4500000276;Bestellanforderung genehmigen;2025-03-28 00:49:21;BL01;Bereichsleitung;16956.23
+4500000276;Bestellung anlegen;2025-03-28 14:28:11;EK05;Einkauf;16956.23
+4500000276;Wareneingang buchen;2025-03-29 22:37:58;LG05;Lager;16956.23
+4500000276;Rechnung erfassen;2025-03-30 17:38:06;KB03;Kreditorenbuchhaltung;16956.23
+4500000276;Rechnungsprüfung;2025-03-31 21:18:06;KB01;Kreditorenbuchhaltung;16956.23
+4500000276;Rechnung freigeben;2025-04-03 15:25:04;BL05;Bereichsleitung;16956.23
+4500000276;Zahlung ausführen;2025-04-04 23:27:59;TR05;Treasury;16956.23
+4500000277;Bestellanforderung anlegen;2025-06-17 10:00:20;FA03;Fachabteilung;4673.18
+4500000277;Bestellung anlegen;2025-06-17 23:39:37;EK02;Einkauf;4673.18
+4500000277;Wareneingang buchen;2025-06-20 19:46:04;LG04;Lager;4673.18
+4500000277;Rechnung erfassen;2025-06-21 21:46:51;KB02;Kreditorenbuchhaltung;4673.18
+4500000277;Rechnungsprüfung;2025-06-23 20:48:53;KB01;Kreditorenbuchhaltung;4673.18
+4500000277;Rechnung freigeben;2025-06-24 17:22:50;BL04;Bereichsleitung;4673.18
+4500000277;Zahlung ausführen;2025-06-27 22:51:06;TR05;Treasury;4673.18
+4500000278;Bestellanforderung anlegen;2025-04-24 08:08:12;FA05;Fachabteilung;8340.25
+4500000278;Bestellanforderung genehmigen;2025-04-25 01:43:42;BL03;Bereichsleitung;8340.25
+4500000278;Bestellung anlegen;2025-04-25 17:04:09;EK03;Einkauf;8340.25
+4500000278;Wareneingang buchen;2025-04-28 07:08:28;LG01;Lager;8340.25
+4500000278;Rechnung erfassen;2025-04-29 22:37:35;KB02;Kreditorenbuchhaltung;8340.25
+4500000278;Rechnungsprüfung;2025-04-30 19:35:59;KB03;Kreditorenbuchhaltung;8340.25
+4500000278;Rechnung freigeben;2025-05-06 15:29:24;BL02;Bereichsleitung;8340.25
+4500000278;Zahlung ausführen;2025-05-09 09:24:58;TR05;Treasury;8340.25
+4500000279;Bestellanforderung anlegen;2025-09-18 15:48:16;FA02;Fachabteilung;4330.34
+4500000279;Bestellung anlegen;2025-09-19 16:59:26;EK03;Einkauf;4330.34
+4500000279;Wareneingang buchen;2025-09-23 16:01:57;LG03;Lager;4330.34
+4500000279;Rechnung erfassen;2025-09-24 17:57:43;KB03;Kreditorenbuchhaltung;4330.34
+4500000279;Rechnungsprüfung;2025-09-26 06:28:40;KB01;Kreditorenbuchhaltung;4330.34
+4500000279;Rechnung freigeben;2025-09-28 21:36:48;BL03;Bereichsleitung;4330.34
+4500000279;Zahlung ausführen;2025-10-01 08:55:13;TR02;Treasury;4330.34
+4500000280;Bestellanforderung anlegen;2025-05-28 10:36:47;FA03;Fachabteilung;1622.24
+4500000280;Bestellung anlegen;2025-05-28 19:02:02;EK04;Einkauf;1622.24
+4500000280;Wareneingang buchen;2025-06-02 01:56:31;LG03;Lager;1622.24
+4500000280;Rechnung erfassen;2025-06-02 16:54:01;KB02;Kreditorenbuchhaltung;1622.24
+4500000280;Rechnungsprüfung;2025-06-03 20:00:29;KB04;Kreditorenbuchhaltung;1622.24
+4500000280;Rechnung freigeben;2025-06-04 13:34:43;BL03;Bereichsleitung;1622.24
+4500000280;Zahlung ausführen;2025-06-05 16:45:46;TR05;Treasury;1622.24
+4500000281;Bestellanforderung anlegen;2025-08-18 08:47:57;FA04;Fachabteilung;12650.98
+4500000281;Bestellanforderung genehmigen;2025-08-19 03:36:07;BL05;Bereichsleitung;12650.98
+4500000281;Bestellung anlegen;2025-08-19 15:28:19;EK04;Einkauf;12650.98
+4500000281;Wareneingang buchen;2025-08-21 23:40:11;LG02;Lager;12650.98
+4500000281;Rechnung erfassen;2025-08-22 14:13:29;KB03;Kreditorenbuchhaltung;12650.98
+4500000281;Rechnungsprüfung;2025-08-23 15:28:08;KB02;Kreditorenbuchhaltung;12650.98
+4500000281;Rechnung korrigieren;2025-08-25 12:56:37;EK04;Einkauf;12650.98
+4500000281;Rechnungsprüfung;2025-08-27 15:22:48;KB04;Kreditorenbuchhaltung;12650.98
+4500000281;Rechnung freigeben;2025-09-01 14:31:12;BL04;Bereichsleitung;12650.98
+4500000281;Zahlung ausführen;2025-09-02 15:45:55;TR02;Treasury;12650.98
+4500000282;Bestellanforderung anlegen;2025-04-03 15:06:56;FA05;Fachabteilung;75993.84
+4500000282;Bestellanforderung genehmigen;2025-04-04 07:46:53;BL01;Bereichsleitung;75993.84
+4500000282;Bestellung anlegen;2025-04-04 17:29:16;EK01;Einkauf;75993.84
+4500000282;Wareneingang buchen;2025-04-09 00:38:09;LG04;Lager;75993.84
+4500000282;Rechnung erfassen;2025-04-09 17:28:01;KB01;Kreditorenbuchhaltung;75993.84
+4500000282;Rechnungsprüfung;2025-04-10 16:52:00;KB05;Kreditorenbuchhaltung;75993.84
+4500000282;Rechnung freigeben;2025-04-14 05:58:01;BL04;Bereichsleitung;75993.84
+4500000282;Zahlung ausführen;2025-04-17 10:26:07;TR04;Treasury;75993.84
+4500000283;Bestellanforderung anlegen;2025-05-19 09:43:38;FA01;Fachabteilung;2588.21
+4500000283;Bestellung anlegen;2025-05-19 16:29:54;EK01;Einkauf;2588.21
+4500000283;Wareneingang buchen;2025-05-20 18:02:55;LG02;Lager;2588.21
+4500000283;Rechnung erfassen;2025-05-21 18:19:06;KB02;Kreditorenbuchhaltung;2588.21
+4500000283;Rechnungsprüfung;2025-05-22 11:07:34;KB05;Kreditorenbuchhaltung;2588.21
+4500000283;Rechnung korrigieren;2025-05-25 07:40:51;EK03;Einkauf;2588.21
+4500000283;Rechnungsprüfung;2025-05-25 23:57:17;KB04;Kreditorenbuchhaltung;2588.21
+4500000283;Rechnung freigeben;2025-05-27 02:25:56;BL03;Bereichsleitung;2588.21
+4500000283;Zahlung ausführen;2025-05-28 11:51:29;TR05;Treasury;2588.21
+4500000284;Bestellanforderung anlegen;2025-04-01 16:19:57;FA02;Fachabteilung;6066.61
+4500000284;Bestellanforderung genehmigen;2025-04-02 05:08:02;BL02;Bereichsleitung;6066.61
+4500000284;Bestellung anlegen;2025-04-02 17:20:48;EK01;Einkauf;6066.61
+4500000284;Wareneingang buchen;2025-04-06 17:16:59;LG02;Lager;6066.61
+4500000284;Rechnung erfassen;2025-04-09 11:44:31;KB05;Kreditorenbuchhaltung;6066.61
+4500000284;Rechnungsprüfung;2025-04-11 09:57:44;KB03;Kreditorenbuchhaltung;6066.61
+4500000284;Rechnung korrigieren;2025-04-12 08:01:25;EK05;Einkauf;6066.61
+4500000284;Rechnungsprüfung;2025-04-12 23:03:24;KB04;Kreditorenbuchhaltung;6066.61
+4500000284;Rechnung freigeben;2025-04-18 06:52:49;BL02;Bereichsleitung;6066.61
+4500000284;Zahlung ausführen;2025-04-21 15:49:07;TR01;Treasury;6066.61
+4500000285;Bestellanforderung anlegen;2025-02-04 16:20:38;FA02;Fachabteilung;6035.97
+4500000285;Bestellanforderung genehmigen;2025-02-05 08:33:11;BL04;Bereichsleitung;6035.97
+4500000285;Bestellung anlegen;2025-02-05 13:07:30;EK02;Einkauf;6035.97
+4500000285;Wareneingang buchen;2025-02-11 09:59:20;LG04;Lager;6035.97
+4500000285;Rechnung erfassen;2025-02-13 06:48:53;KB05;Kreditorenbuchhaltung;6035.97
+4500000285;Rechnungsprüfung;2025-02-14 08:06:01;KB01;Kreditorenbuchhaltung;6035.97
+4500000285;Rechnung freigeben;2025-02-18 02:01:54;BL05;Bereichsleitung;6035.97
+4500000285;Zahlung ausführen;2025-02-19 20:01:51;TR01;Treasury;6035.97
+4500000286;Bestellanforderung anlegen;2025-02-07 08:27:40;FA04;Fachabteilung;27463.68
+4500000286;Bestellanforderung genehmigen;2025-02-07 17:26:54;BL02;Bereichsleitung;27463.68
+4500000286;Bestellung anlegen;2025-02-08 00:15:09;EK01;Einkauf;27463.68
+4500000286;Wareneingang buchen;2025-02-11 02:28:19;LG04;Lager;27463.68
+4500000286;Rechnung erfassen;2025-02-11 13:26:32;KB05;Kreditorenbuchhaltung;27463.68
+4500000286;Rechnungsprüfung;2025-02-12 19:42:36;KB03;Kreditorenbuchhaltung;27463.68
+4500000286;Rechnung freigeben;2025-02-22 22:52:03;BL01;Bereichsleitung;27463.68
+4500000286;Zahlung ausführen;2025-02-25 12:58:45;TR01;Treasury;27463.68
+4500000287;Bestellanforderung anlegen;2025-06-18 08:54:22;FA02;Fachabteilung;6972.45
+4500000287;Bestellanforderung genehmigen;2025-06-19 03:22:32;BL04;Bereichsleitung;6972.45
+4500000287;Bestellung anlegen;2025-06-19 16:17:09;EK05;Einkauf;6972.45
+4500000287;Wareneingang buchen;2025-06-21 09:40:36;LG02;Lager;6972.45
+4500000287;Rechnung erfassen;2025-06-22 10:00:52;KB04;Kreditorenbuchhaltung;6972.45
+4500000287;Rechnungsprüfung;2025-06-22 22:12:09;KB02;Kreditorenbuchhaltung;6972.45
+4500000287;Rechnung korrigieren;2025-06-25 18:31:25;EK04;Einkauf;6972.45
+4500000287;Rechnungsprüfung;2025-06-26 06:05:39;KB01;Kreditorenbuchhaltung;6972.45
+4500000287;Rechnung freigeben;2025-07-02 19:31:05;BL02;Bereichsleitung;6972.45
+4500000287;Zahlung ausführen;2025-07-04 23:13:51;TR03;Treasury;6972.45
+4500000288;Bestellanforderung anlegen;2025-05-14 15:25:17;FA02;Fachabteilung;15573.21
+4500000288;Bestellanforderung genehmigen;2025-05-15 13:54:01;BL03;Bereichsleitung;15573.21
+4500000288;Bestellung anlegen;2025-05-15 20:19:19;EK02;Einkauf;15573.21
+4500000288;Wareneingang buchen;2025-05-18 20:25:08;LG03;Lager;15573.21
+4500000288;Rechnung erfassen;2025-05-20 13:27:31;KB03;Kreditorenbuchhaltung;15573.21
+4500000288;Rechnungsprüfung;2025-05-21 17:29:21;KB02;Kreditorenbuchhaltung;15573.21
+4500000288;Rechnung freigeben;2025-05-24 23:59:37;BL02;Bereichsleitung;15573.21
+4500000288;Zahlung ausführen;2025-05-27 19:01:00;TR03;Treasury;15573.21
+4500000289;Bestellanforderung anlegen;2025-05-16 15:22:13;FA03;Fachabteilung;15355.14
+4500000289;Bestellanforderung genehmigen;2025-05-16 23:17:23;BL01;Bereichsleitung;15355.14
+4500000289;Bestellung anlegen;2025-05-17 10:53:38;EK01;Einkauf;15355.14
+4500000289;Wareneingang buchen;2025-05-20 21:57:26;LG04;Lager;15355.14
+4500000289;Rechnung erfassen;2025-05-21 23:50:39;KB01;Kreditorenbuchhaltung;15355.14
+4500000289;Rechnungsprüfung;2025-05-23 00:42:14;KB05;Kreditorenbuchhaltung;15355.14
+4500000289;Rechnung freigeben;2025-05-28 23:44:18;BL05;Bereichsleitung;15355.14
+4500000289;Zahlung ausführen;2025-06-01 08:35:08;TR03;Treasury;15355.14
+4500000290;Bestellanforderung anlegen;2025-07-18 10:07:56;FA03;Fachabteilung;48996.84
+4500000290;Bestellanforderung genehmigen;2025-07-18 19:49:09;BL05;Bereichsleitung;48996.84
+4500000290;Bestellung anlegen;2025-07-19 11:11:30;EK04;Einkauf;48996.84
+4500000290;Wareneingang buchen;2025-07-22 05:39:38;LG01;Lager;48996.84
+4500000290;Rechnung erfassen;2025-07-23 08:56:37;KB04;Kreditorenbuchhaltung;48996.84
+4500000290;Rechnungsprüfung;2025-07-23 22:10:03;KB03;Kreditorenbuchhaltung;48996.84
+4500000290;Rechnung freigeben;2025-08-08 17:37:37;BL01;Bereichsleitung;48996.84
+4500000290;Zahlung ausführen;2025-08-10 08:38:50;TR04;Treasury;48996.84
+4500000291;Bestellanforderung anlegen;2025-09-30 10:14:38;FA04;Fachabteilung;36215.45
+4500000291;Bestellanforderung genehmigen;2025-10-01 04:01:32;BL04;Bereichsleitung;36215.45
+4500000291;Bestellung anlegen;2025-10-01 16:45:16;EK01;Einkauf;36215.45
+4500000291;Bestellung ändern;2025-10-02 23:09:26;EK03;Einkauf;36215.45
+4500000291;Wareneingang buchen;2025-10-04 18:46:03;LG01;Lager;36215.45
+4500000291;Rechnung erfassen;2025-10-05 20:33:32;KB03;Kreditorenbuchhaltung;36215.45
+4500000291;Rechnungsprüfung;2025-10-06 20:06:49;KB05;Kreditorenbuchhaltung;36215.45
+4500000291;Rechnung freigeben;2025-10-13 00:10:27;BL04;Bereichsleitung;36215.45
+4500000291;Zahlung ausführen;2025-10-15 10:21:23;TR05;Treasury;36215.45
+4500000292;Bestellanforderung anlegen;2025-08-25 07:55:49;FA04;Fachabteilung;8910.04
+4500000292;Bestellanforderung genehmigen;2025-08-25 16:25:20;BL01;Bereichsleitung;8910.04
+4500000292;Bestellung anlegen;2025-08-26 08:07:37;EK01;Einkauf;8910.04
+4500000292;Wareneingang buchen;2025-08-29 06:35:40;LG03;Lager;8910.04
+4500000292;Rechnung erfassen;2025-08-30 03:55:01;KB03;Kreditorenbuchhaltung;8910.04
+4500000292;Rechnungsprüfung;2025-08-31 05:22:19;KB04;Kreditorenbuchhaltung;8910.04
+4500000292;Rechnung freigeben;2025-09-14 13:56:09;BL01;Bereichsleitung;8910.04
+4500000292;Zahlung ausführen;2025-09-16 23:19:44;TR01;Treasury;8910.04
+4500000293;Bestellanforderung anlegen;2025-06-12 11:07:28;FA01;Fachabteilung;1974.01
+4500000293;Bestellung anlegen;2025-06-12 23:21:58;EK05;Einkauf;1974.01
+4500000293;Wareneingang buchen;2025-06-15 09:51:16;LG02;Lager;1974.01
+4500000293;Rechnung erfassen;2025-06-16 14:32:59;KB03;Kreditorenbuchhaltung;1974.01
+4500000293;Rechnungsprüfung;2025-06-18 11:30:08;KB01;Kreditorenbuchhaltung;1974.01
+4500000293;Rechnung freigeben;2025-06-19 13:48:27;BL05;Bereichsleitung;1974.01
+4500000293;Zahlung ausführen;2025-06-21 22:02:09;TR02;Treasury;1974.01
+4500000294;Bestellanforderung anlegen;2025-06-27 10:07:38;FA04;Fachabteilung;16104.65
+4500000294;Bestellanforderung genehmigen;2025-06-28 12:29:39;BL04;Bereichsleitung;16104.65
+4500000294;Bestellung anlegen;2025-06-28 19:10:11;EK04;Einkauf;16104.65
+4500000294;Wareneingang buchen;2025-06-30 16:51:24;LG02;Lager;16104.65
+4500000294;Rechnung erfassen;2025-07-01 10:38:42;KB04;Kreditorenbuchhaltung;16104.65
+4500000294;Rechnungsprüfung;2025-07-03 11:54:07;KB05;Kreditorenbuchhaltung;16104.65
+4500000294;Rechnung korrigieren;2025-07-08 03:46:40;EK05;Einkauf;16104.65
+4500000294;Rechnungsprüfung;2025-07-08 20:54:37;KB03;Kreditorenbuchhaltung;16104.65
+4500000294;Rechnung freigeben;2025-07-12 22:45:11;BL01;Bereichsleitung;16104.65
+4500000294;Zahlung ausführen;2025-07-16 12:50:53;TR04;Treasury;16104.65
+4500000295;Bestellanforderung anlegen;2025-01-23 09:59:29;FA01;Fachabteilung;3425.22
+4500000295;Bestellung anlegen;2025-01-23 18:26:59;EK03;Einkauf;3425.22
+4500000295;Wareneingang buchen;2025-01-27 01:46:51;LG04;Lager;3425.22
+4500000295;Rechnung erfassen;2025-01-28 10:03:29;KB04;Kreditorenbuchhaltung;3425.22
+4500000295;Rechnungsprüfung;2025-01-30 17:31:08;KB05;Kreditorenbuchhaltung;3425.22
+4500000295;Rechnung freigeben;2025-02-01 04:10:38;BL04;Bereichsleitung;3425.22
+4500000295;Zahlung ausführen;2025-02-03 09:27:48;TR02;Treasury;3425.22
+4500000296;Bestellanforderung anlegen;2025-09-25 09:56:54;FA04;Fachabteilung;9043.48
+4500000296;Bestellanforderung genehmigen;2025-09-26 21:44:59;BL04;Bereichsleitung;9043.48
+4500000296;Bestellung anlegen;2025-09-27 09:02:24;EK05;Einkauf;9043.48
+4500000296;Wareneingang buchen;2025-10-04 14:07:20;LG05;Lager;9043.48
+4500000296;Rechnung erfassen;2025-10-06 00:03:44;KB01;Kreditorenbuchhaltung;9043.48
+4500000296;Rechnungsprüfung;2025-10-07 01:17:31;KB01;Kreditorenbuchhaltung;9043.48
+4500000296;Rechnung freigeben;2025-10-09 08:27:02;BL02;Bereichsleitung;9043.48
+4500000296;Zahlung ausführen;2025-10-11 02:45:01;TR04;Treasury;9043.48
+4500000297;Bestellanforderung anlegen;2025-01-03 15:14:49;FA04;Fachabteilung;18678.17
+4500000297;Bestellanforderung genehmigen;2025-01-04 01:36:23;BL04;Bereichsleitung;18678.17
+4500000297;Bestellung anlegen;2025-01-04 14:54:15;EK04;Einkauf;18678.17
+4500000297;Wareneingang buchen;2025-01-06 16:33:10;LG03;Lager;18678.17
+4500000297;Rechnung erfassen;2025-01-07 00:32:28;KB05;Kreditorenbuchhaltung;18678.17
+4500000297;Rechnungsprüfung;2025-01-09 17:47:41;KB01;Kreditorenbuchhaltung;18678.17
+4500000297;Rechnung freigeben;2025-01-20 15:24:16;BL04;Bereichsleitung;18678.17
+4500000297;Zahlung ausführen;2025-01-23 21:16:25;TR03;Treasury;18678.17
+4500000298;Bestellanforderung anlegen;2025-01-02 12:58:15;FA04;Fachabteilung;12683.95
+4500000298;Bestellanforderung genehmigen;2025-01-02 21:36:38;BL02;Bereichsleitung;12683.95
+4500000298;Bestellung anlegen;2025-01-03 03:03:13;EK01;Einkauf;12683.95
+4500000298;Wareneingang buchen;2025-01-07 03:49:19;LG02;Lager;12683.95
+4500000298;Rechnung erfassen;2025-01-07 20:04:25;KB02;Kreditorenbuchhaltung;12683.95
+4500000298;Rechnungsprüfung;2025-01-09 05:13:01;KB04;Kreditorenbuchhaltung;12683.95
+4500000298;Rechnung freigeben;2025-01-20 12:52:36;BL05;Bereichsleitung;12683.95
+4500000298;Zahlung ausführen;2025-01-22 00:30:02;TR03;Treasury;12683.95
+4500000299;Bestellanforderung anlegen;2025-01-07 10:53:40;FA03;Fachabteilung;4671.76
+4500000299;Bestellung anlegen;2025-01-07 15:19:05;EK03;Einkauf;4671.76
+4500000299;Wareneingang buchen;2025-01-12 00:05:09;LG05;Lager;4671.76
+4500000299;Rechnung erfassen;2025-01-13 04:20:10;KB01;Kreditorenbuchhaltung;4671.76
+4500000299;Rechnungsprüfung;2025-01-13 12:33:51;KB05;Kreditorenbuchhaltung;4671.76
+4500000299;Rechnung freigeben;2025-01-15 03:17:28;BL04;Bereichsleitung;4671.76
+4500000299;Zahlung ausführen;2025-01-18 08:07:52;TR03;Treasury;4671.76
+4500000300;Bestellanforderung anlegen;2025-06-09 14:08:35;FA05;Fachabteilung;21939.61
+4500000300;Bestellanforderung genehmigen;2025-06-10 01:51:03;BL01;Bereichsleitung;21939.61
+4500000300;Bestellung anlegen;2025-06-10 11:47:42;EK03;Einkauf;21939.61
+4500000300;Wareneingang buchen;2025-06-14 08:52:17;LG05;Lager;21939.61
+4500000300;Rechnung erfassen;2025-06-14 23:36:49;KB05;Kreditorenbuchhaltung;21939.61
+4500000300;Rechnungsprüfung;2025-06-17 14:23:51;KB04;Kreditorenbuchhaltung;21939.61
+4500000300;Rechnung freigeben;2025-06-22 07:21:27;BL02;Bereichsleitung;21939.61
+4500000300;Zahlung ausführen;2025-06-23 22:24:54;TR04;Treasury;21939.61

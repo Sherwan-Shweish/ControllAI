@@ -1,0 +1,21 @@
+# Kern
+pydantic>=2.7
+python-dotenv>=1.0
+pandas>=2.2
+numpy>=1.26
+
+# LLM-Anbieter (mindestens einer erforderlich)
+anthropic>=0.40
+google-genai>=1.0
+
+# Dashboard und Visualisierung
+streamlit>=1.50
+plotly>=5.22
+
+# Dateiformate
+openpyxl>=3.1
+pdfplumber>=0.11
+
+# Entwicklung
+pytest>=8.0
+ruff>=0.6

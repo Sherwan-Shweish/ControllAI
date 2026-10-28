@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Konfiguration mit Geheimnissen
+.env
+
+# Erzeugte Daten (reproduzierbar über: python -m src.seed_data)
+data/*.db
+data/raw/
+data/processed/
+
+# Betriebssystem / IDE
+.DS_Store
+.idea/
+.vscode/
